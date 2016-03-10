@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
 <addon id="plugin.program.senyortools" name="[COLOR green]senyor tools[/COLOR]" version="1.1.3" provider-name="kodi senyor">
 <requires>
@@ -46,17 +45,5 @@ The author does not host or distribute any of the content displayed by this addo
 <email/>
 <platform>all</platform>
 </extension>
-</addon>
-<addon id="repository.kodisenyor" name="kodi senyor repository" version="1.2" provider-name="kodi senyor">
-	<extension point="xbmc.addon.repository" name="kodi senyor repository">
-			<info compressed="false">https://github.com/kobiko3030/kodi-senyor/tree/master/repository.kodisenyor/Zips/addons.xml</info>
-			<checksum>https://github.com/kobiko3030/kodi-senyor/tree/master/repository.kodisenyor/Zips/addons.xml.md5</checksum>
-			<datadir zip="true">https://github.com/kobiko3030/kodi-senyor/tree/master/repository.kodisenyor/Zips</datadir>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary lang="en">kodi-senyor.co.il repo</summary>
-		<description lang="en">kodi-senyor.co.il repo</description>
-		<platform>all</platform>
-	</extension>
 </addon>
 </addons>
