@@ -50,7 +50,7 @@
     <platform>all</platform>
   </extension>
 </addon>
-<addon id="plugin.video.Vodil" name="V.O.D IL" version="1.0.4" provider-name="kodi senyor">
+<addon id="plugin.video.Vodil" name="V.O.D IL" version="1.0.5" provider-name="kodi senyor">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="plugin.video.youtube"/>
