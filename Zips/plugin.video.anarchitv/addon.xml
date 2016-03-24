@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.anarchitv"
+       name="[COLOR yellow]AnarchiTV[/COLOR]"
+       version="1.1.0"
+       provider-name="Kodi Senyor">
+  <requires>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>AnarchiTV</summary>
+    <description>
+	AnarchiTV Live tv channels
+    </description>
+	<disclaimer lang="en">
+	The author does not host or distribute any of the content displayed by this addon or have any affiliation with the website owners
+	</disclaimer>
+	<license></license>
+    <website>anarchitv.co</website>
+    <email></email>
+    <platform>all</platform>
+  </extension>
+</addon>
