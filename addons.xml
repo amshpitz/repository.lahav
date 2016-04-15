@@ -164,7 +164,7 @@
     <website>http://www.tvaddons.ag/</website>
   </extension>
 </addon>
-<addon id="skin.tvOS-X-jarvisheb" version="1.0.2" name="tvOS-X - Jarvis hebrew" provider-name="iCanuck / kodi senyor">
+<addon id="skin.tvOS-X-jarvisheb" version="1.0.3" name="tvOS-X - Jarvis hebrew" provider-name="iCanuck / kodi senyor">
   <requires>
     <import addon="xbmc.gui" version="5.10.0"/>
     <import addon="script.favourites" version="3.2.5"/>
