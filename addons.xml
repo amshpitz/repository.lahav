@@ -164,4 +164,20 @@
     <website>http://www.tvaddons.ag/</website>
   </extension>
 </addon>
+<addon id="skin.tvOS-X-jarvisheb" version="1.0.0" name="tvOS-X - Jarvis hebrew" provider-name="iCanuck / kodi senyor">
+  <requires>
+    <import addon="xbmc.gui" version="5.10.0"/>
+    <import addon="script.favourites" version="3.2.5"/>
+    <import addon="service.library.data.provider" version="0.0.4"/>
+  </requires>
+  <extension point="xbmc.gui.skin" defaultthemename="Textures.xbt" effectslowdown="1" debugging="false">
+        <res width="1920" height="1080" aspect="16:9" default="true" folder="1080i"/>
+    </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>	
+    <description lang="he">סקין קליל ומהיר סגנון אפל</description>
+	<description lang="en">Thanks to Fastcolors for SiO2. If you like Apple "everything at hand" policy for interfaces, You might want to give this Skin a try. I designed it trying to put as few clicks as possible between You and what You're trying to do (or watch ;) ).[CR]Thanks to Pecinko for Quartz as a solid base to build on.[CR] Thanks to testers and Inspirers: Toiva, Scrolling, Abrasher, Lucanoid, Relyter.</description>
+    <disclaimer>tvOS-X</disclaimer>
+  </extension>
+</addon>
 </addons>
