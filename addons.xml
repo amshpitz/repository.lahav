@@ -99,7 +99,7 @@
 </addon>
 <addon id="plugin.video.anarchitv"
        name="[COLOR yellow]AnarchiTV[/COLOR]"
-       version="1.1.0"
+       version="1.1.1"
        provider-name="kodi senyor">
   <requires>
   </requires>
