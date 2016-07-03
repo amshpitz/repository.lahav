@@ -77,7 +77,7 @@
 </addon>
 <addon id="plugin.video.AresMoTV"
 	   name="AresMoTV"
-	   version="3.7"
+	   version="3.8"
 	   provider-name="2uk3y-Kodim-Ares-Streams">
   <requires>
     <import addon="script.module.metahandler" optional="true" />
