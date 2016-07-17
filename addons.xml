@@ -28,7 +28,7 @@
 		<platform>all</platform>
 	</extension>
 </addon>
-<addon id="plugin.program.meta_search" name="Meta Search" version="1.0.2" provider-name="Kodi Senyor">
+<addon id="plugin.program.meta_search" name="Meta Search" version="1.0.3" provider-name="Kodi Senyor">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.globalsearch"/>
