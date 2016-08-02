@@ -198,7 +198,7 @@
 </addon>
 <addon id="script.speedtestnet"
        name="ARNU Box Speed Tester"
-       version="0.0.2"
+       version="1.0.0"
        provider-name="ARNU Box / Josh.5">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
