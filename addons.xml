@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
 <addon id="plugin.program.senyortools" name="[COLOR green]senyor tools[/COLOR]" version="1.4.0" provider-name="kodi senyor">
   <requires>
@@ -28,6 +28,20 @@
 		<platform>all</platform>
 	</extension>
 </addon>
+<addon id="plugin.program.lahavtools" name="[COLOR green]lahav tools[/COLOR]" version="1.4.0" provider-name="kodi senyor Lahav">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.addon.common" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">kodi-senyor.co.il Lahav kodi tools and tweaks</summary>
+    <description lang="he">הרחבה ייחודית של קודי סניור המאפשרת התקנת הרחבות והגדרות מערכת בקליק אחד</description>
+    <platform>all</platform>
+  </extension>
+</addon>
 <addon id="plugin.program.meta_search" name="Meta Search" version="1.0.5" provider-name="Kodi Senyor">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -41,55 +55,6 @@
     <description lang="en">meta_search</description>
 	<description lang="he">תפריט עזר לחיפוש בהרחבה מטא ובספריות הקודי</description>
 	<disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon or have any affiliation with the website owners</disclaimer>
-    <platform>all</platform>
-  </extension>
-</addon>
-<addon id="plugin.video.he-trailers" name="Hebrew Trailers" version="1.0.2" provider-name="kodi senyor">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="plugin.video.youtube"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="addon.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <language>he</language>
-    <summary lang="he">הרחבה לצפייה בטריילרים מתורגמים</summary>
-    <description lang="he">הרחבה לצפייה בטריילרים מתורגמים</description>
-    <disclaimer lang="en">kodi senyor Is Not Affiliated With The Content In This Addon</disclaimer>
-    <platform>all</platform>
-  </extension>
-</addon>
-<addon id="plugin.program.tvos_themes" name="tvOS-X Hebrew themes " version="1.0.1" provider-name="senyor wizard">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>executable</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">tvOS-X Hebrew themes</summary>
-    <description lang="en">tvOS-X Hebrew themes</description>
-	<description lang="he">ערכות נושא המכילות אייקונים ורקעים לסקין tvOS-X Hebrew</description>
-	<disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon or have any affiliation with the website owners</disclaimer>
-    <platform>all</platform>
-  </extension>
-</addon>
-<addon id="plugin.video.AresMoTV"
-	   name="AresMoTV"
-	   version="5.1"
-	   provider-name="2uk3y-Kodim-Ares-Streams">
-  <requires>
-    <import addon="script.module.metahandler" optional="true" />
-  </requires>
-  <extension point="xbmc.python.pluginsource"
-			 library="AresMoTV.py">
-    	<provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary>Watch Movies &amp; TV Shows Online For Free</summary>
-    <description>Watch Your Favorite Movies &amp; TV Shows Online For Free</description>
-    <description>2uk3y-Kodim-Ares-Streams</description>
     <platform>all</platform>
   </extension>
 </addon>
@@ -167,6 +132,22 @@
     <platform>all</platform>
   </extension>
 </addon>
+<addon id="plugin.video.Vodlahav" name="Vod Lahav" version="1.0.2" provider-name="kodi Lahav">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="plugin.video.youtube"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <language>he</language>
+    <summary lang="he">הרחבה לצפיה בסרטונים מיוטיוב</summary>
+    <description lang="he">הרחבה לצפיה בתכנים מיוטיוב</description>
+    <disclaimer lang="en">kodi Lahav Is Not Affiliated With The Content In This Addon</disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>
 <addon id="plugin.program.senyorwizard" name="senyor wizard" version="2.0.1" provider-name="senyor wizard">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -180,6 +161,18 @@
 	<disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon or have any affiliation with the website owners</disclaimer>
     <platform>all</platform>
   </extension>
+</addon>
+<addon id="repository.lahav" name="kodi lahav repository" version="1.0.5" provider-name="amos lahav">
+	<extension point="xbmc.addon.repository" name="kodi lahav repository">
+			<info compressed="false">https://github.com/amshpitz/repository.lahav/raw/master/addons.xml</info>
+			<checksum>https://github.com/amshpitz/repository.lahav/raw/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://github.com/amshpitz/repository.lahav/raw/master/Zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">kodi- amos Lahav repo</summary>
+		<description lang="en">kodi-amos Lahav repo</description>
+		<platform>all</platform>
+	</extension>
 </addon>
 <addon id="repository.kodi-senyor" name="kodi senyor repository" version="1.2.0" provider-name="kodi senyor">
 	<extension point="xbmc.addon.repository" name="kodi senyor repository">
@@ -224,22 +217,6 @@
     <platform>all</platform>
     <forum>http://forums.tvaddons.ag/forums/141-FRESH-START</forum>
     <website>http://www.tvaddons.ag/</website>
-  </extension>
-</addon>
-<addon id="skin.tvOS-X-jarvisheb" version="1.0.5" name="tvOS-X - Jarvis hebrew" provider-name="iCanuck / kodi senyor">
-  <requires>
-    <import addon="xbmc.gui" version="5.10.0"/>
-    <import addon="script.favourites" version="3.2.5"/>
-    <import addon="service.library.data.provider" version="0.0.4"/>
-  </requires>
-  <extension point="xbmc.gui.skin" defaultthemename="Textures.xbt" effectslowdown="1" debugging="false">
-        <res width="1920" height="1080" aspect="16:9" default="true" folder="1080i"/>
-    </extension>
-  <extension point="xbmc.addon.metadata">
-    <platform>all</platform>
-    <description lang="he">סקין קליל, מהיר ופשוט המבוסס של סגנון AppleTV4</description>
-    <description lang="en">tvOS-X skin iCanuck</description>
-    <disclaimer>tvOS-X</disclaimer>
   </extension>
 </addon>
 <addon id="script.tvaddons.debug.log" name="TVA Log Uploader" version="1.0.4" provider-name="tvaddons.ag">
