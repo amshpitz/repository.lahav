@@ -162,6 +162,18 @@
     <platform>all</platform>
   </extension>
 </addon>
+<addon id="repository.ToMeRepo" name=".[COLOR blue]..~ToMeRepo~[/COLOR] [COLOR yellow]Repository...®[/COLOR]" version="1.0.7" provider-name="ToMeR">
+	<extension point="xbmc.addon.repository" name="ToMeRepo">
+		<info compressed="false">https://github.com/tmkodirepo/repository.ToMeRepo/raw/master/addons.xml</info>
+		<checksum>https://github.com/tmkodirepo/repository.ToMeRepo/raw/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/tmkodirepo/repository.ToMeRepo/raw/master/Zip</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>מאגר הרחבות קטן ומדוייק.</summary>
+		<description>פה תמצאו הרחבות לקודי שעברו בדיקה מדוקדקת , מכל הרפויים הקיימים שיש ,מאגר קטן זמין ומתעדכן באופן שוטף</description>
+		<platform>all</platform>
+	</extension>
+</addon>
 <addon id="repository.lahav" name="kodi lahav repository" version="1.0.5" provider-name="amos lahav">
 	<extension point="xbmc.addon.repository" name="kodi lahav repository">
 			<info compressed="false">https://github.com/amshpitz/repository.lahav/raw/master/addons.xml</info>
