@@ -28,7 +28,7 @@
 		<platform>all</platform>
 	</extension>
 </addon>
-<addon id="plugin.program.lahavtools" name="[COLOR green]lahav tools[/COLOR]" version="1.4.0" provider-name="kodi senyor Lahav">
+<addon id="plugin.program.lahavtools" name="[COLOR green]lahav tools[/COLOR]" version="1.4.1" provider-name="kodi senyor Lahav">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.addon.common" />
@@ -174,7 +174,7 @@
 		<platform>all</platform>
 	</extension>
 </addon>
-<addon id="repository.lahav" name="kodi lahav repository" version="1.0.5" provider-name="amos lahav">
+<addon id="repository.lahav" name="kodi lahav repository" version="1.0.6" provider-name="amos lahav">
 	<extension point="xbmc.addon.repository" name="kodi lahav repository">
 			<info compressed="false">https://github.com/amshpitz/repository.lahav/raw/master/addons.xml</info>
 			<checksum>https://github.com/amshpitz/repository.lahav/raw/master/addons.xml.md5</checksum>
