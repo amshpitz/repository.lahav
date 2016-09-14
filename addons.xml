@@ -28,7 +28,7 @@
 		<platform>all</platform>
 	</extension>
 </addon>
-<addon id="plugin.program.lahavtools" name="lahav tools" version="1.4.3" provider-name="kodi senyor lahav">
+<addon id="plugin.program.lahavtools" name="lahav tools" version="1.4.4" provider-name="kodi senyor lahav">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.addon.common" />
