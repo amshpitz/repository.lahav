@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.program.senyortools" name="[COLOR green]senyor tools[/COLOR]" version="1.4.2" provider-name="kodi senyor">
+<addon id="plugin.program.senyortools" name="[COLOR green]senyor tools[/COLOR]" version="1.6.2" provider-name="kodi senyor">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
-	<import addon="script.module.addon.common" />
+    <import addon="repository.kodi-senyor"/>	
   </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
+  <extension point="xbmc.python.pluginsource" library="rts.py">
         <provides>executable</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
@@ -14,21 +14,21 @@
     <platform>all</platform>
   </extension>
 </addon>
-<addon id="plugin.program.repotools" name="הרחבות בקליק" version="1.1.4" provider-name="kodi senyor">
+<addon id="plugin.program.repotools" name="הרחבות בקליק" version="1.4.2" provider-name="kodi senyor">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
-	    <import addon="script.module.addon.common" />
+		<import addon="script.module.requests" />
 	</requires>
-	<extension point="xbmc.python.pluginsource" library="default.py">
+	<extension point="xbmc.python.pluginsource" library="resources/art/default.py">
 		<provides>executable</provides>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary></summary>
-		<description>easy addons install (special thanks to tomer haimovitch)</description>
+		<description>easy addons install</description>
 		<platform>all</platform>
 	</extension>
 </addon>
-<addon id="plugin.program.lahavtools" name="lahav tools" version="1.4.4" provider-name="kodi senyor lahav">
+<addon id="plugin.program.lahavtools" name="lahav tools" version="1.4.5" provider-name="kodi senyor lahav">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.addon.common" />
@@ -42,97 +42,7 @@
     <platform>all</platform>
   </extension>
 </addon>
-<addon id="plugin.program.meta_search" name="Meta Search" version="1.0.5" provider-name="Kodi Senyor">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-	<import addon="script.globalsearch"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video executable</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">metasearch</summary>
-    <description lang="en">meta_search</description>
-	<description lang="he">תפריט עזר לחיפוש בהרחבה מטא ובספריות הקודי</description>
-	<disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon or have any affiliation with the website owners</disclaimer>
-    <platform>all</platform>
-  </extension>
-</addon>
-<addon id="plugin.program.addoninstaller" version="1.2.9"
-    	name="Addon Installer" provider-name="tvaddons.ag, Blazetamer">
-    <requires>
-        <import addon="xbmc.python" version="2.1.0"/>
-        <import addon="script.module.addon.common" optional="true" />
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>executable</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <summary>Addon Browser</summary>
-        <description>Its like an App Store where you'll find Addons for Kodi, and everything is free!</description>
-        <disclaimer>By using this, you take reponsibility for anything that happens.</disclaimer>
-        <language>en</language>
-        <platform>all</platform>
-        <forum>http://forums.tvaddons.ag/forums/156-ADDON-INSTALLER</forum>
-        <website>http://addons.tvaddons.ag/</website>
-        <source></source>
-        <email></email>
-    </extension>
-</addon>
-<addon id="plugin.program.forceclose" name="Force Close kodi" version="1.0.4" provider-name="kodi senyor">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>executable</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">Force Close Kodi</summary>
-    <description lang="he">כיבוי בכח של קודי</description>
-    <platform>all</platform>
-  </extension>
-</addon>
-<addon id="plugin.video.anarchitv"
-       name="[COLOR yellow]Televiz[/COLOR]"
-       version="1.1.7"
-       provider-name="Kodi Senyor and Acidia Kodi">
-  <requires>
- <import addon="xbmc.python" version="2.1.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary>Televiz</summary>
-    <description>
-	Televiz Live tv channels
-    </description>
-	<disclaimer lang="en">
-	The author does not host or distribute any of the content displayed by this addon or have any affiliation with the website owners
-	</disclaimer>
-	<license></license>
-    <website>Televiz.net</website>
-    <email></email>
-    <platform>all</platform>
-  </extension>
-</addon>
-<addon id="plugin.video.Vodil" name="Vod IL" version="1.2.0" provider-name="kodi senyor">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="plugin.video.youtube"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="addon.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <language>he</language>
-    <summary lang="he">הרחבה לצפיה בסרטונים מיוטיוב</summary>
-    <description lang="he">הרחבה לצפיה בתכנים מיוטיוב</description>
-    <disclaimer lang="en">kodi senyor Is Not Affiliated With The Content In This Addon</disclaimer>
-    <platform>all</platform>
-  </extension>
-</addon>
-<addon id="plugin.video.Vodlahav" name="Vod Lahav" version="1.0.2" provider-name="kodi Lahav">
+<addon id="plugin.video.Vodlahav" name="Vod Lahav" version="1.0.6" provider-name="kodi Lahav">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="plugin.video.youtube"/>
@@ -148,45 +58,103 @@
     <platform>all</platform>
   </extension>
 </addon>
-<addon id="plugin.program.senyorwizard" name="senyor wizard" version="2.0.1" provider-name="senyor wizard">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>executable</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">senyor Wizard</summary>
-    <description lang="en">kodi-senyor.co.il kodi builds</description>
-	<disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon or have any affiliation with the website owners</disclaimer>
-    <platform>all</platform>
-  </extension>
+<addon id="repository.abeksis" name="...[COLOR lime]Abeksis[/COLOR] [COLOR white]Repository[/COLOR]" version="1.0.3" provider-name="Abeksis">
+    <extension point="xbmc.addon.repository" name=".Abeksis Repository ">
+        <info compressed="false">http://abeksis.com/repo/addons.xml</info>
+        <checksum>http://abeksis.com/repo/addons.xml.md5</checksum>
+        <datadir zip="true">http://abeksis.com/repo/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Abeksis Repository</summary>
+        <summary lang="he">אבקסיס ריפו</summary>
+		<description lang="en">Abeksis Repository</description>
+		<description lang="he">אבקסיס ריפו, מספק לכם את מיטב ההרחבות הטובות מעולם הקודי, הכל מעודכן וזמין על בבסיס קבוע</description>
+        <platform>all</platform>
+ 		<assets>
+ 			<icon>resources/icon.png</icon>
+ 			<fanart>resources/fanart.jpg</fanart>
+ 			<screenshot>resources/screenshot-01.jpg</screenshot>
+ 			<screenshot>resources/screenshot-02.jpg</screenshot>
+ 			<screenshot>resources/screenshot-03.jpg</screenshot>
+ 			<screenshot>resources/screenshot-04.jpg</screenshot>
+ 			<screenshot>resources/screenshot-05.jpg</screenshot>
+ 			<screenshot>resources/screenshot-06.jpg</screenshot>
+ 			<screenshot>resources/screenshot-07.jpg</screenshot>
+ 			<screenshot>resources/screenshot-08.jpg</screenshot>
+ 			<screenshot>resources/screenshot-09.jpg</screenshot>
+ 			<screenshot>resources/screenshot-10.jpg</screenshot>
+ 			<screenshot>resources/screenshot-11.jpg</screenshot>
+ 			<screenshot>resources/screenshot-12.jpg</screenshot>
+ 			<screenshot>resources/screenshot-13.jpg</screenshot>
+ 			<screenshot>resources/screenshot-14.jpg</screenshot>
+ 		</assets>
+ 		<news>[B]1.0.3[/B][CR]• Preparation for kodi 17, Visual changes. [CR]</news>         
+    </extension>
 </addon>
-<addon id="repository.ToMeRepo" name=".[COLOR blue]..~ToMeRepo~[/COLOR] [COLOR yellow]Repository...®[/COLOR]" version="1.0.7" provider-name="ToMeR">
-	<extension point="xbmc.addon.repository" name="ToMeRepo">
-		<info compressed="false">https://github.com/tmkodirepo/repository.ToMeRepo/raw/master/addons.xml</info>
-		<checksum>https://github.com/tmkodirepo/repository.ToMeRepo/raw/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://github.com/tmkodirepo/repository.ToMeRepo/raw/master/Zip</datadir>
+<addon id="repository.exodus" version="1.0.1" name="Exodus repository" provider-name="Exodus">
+	<extension point="xbmc.addon.repository" name="Exodus repository">
+		<dir>
+			<info compressed="false">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml</info>
+			<checksum>https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/zips/</datadir>
+		</dir>
+		<info compressed="false">https://offshoregit.com/exodus/addons.xml</info>
+		<checksum>https://offshoregit.com/exodus/addons.xml.md5</checksum>
+		<datadir zip="true">https://offshoregit.com/exodus/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary>מאגר הרחבות קטן ומדוייק.</summary>
-		<description>פה תמצאו הרחבות לקודי שעברו בדיקה מדוקדקת , מכל הרפויים הקיימים שיש ,מאגר קטן זמין ומתעדכן באופן שוטף</description>
+		<summary lang="en">Exodus repository</summary>
+		<description lang="en">Exodus repository</description>
 		<platform>all</platform>
 	</extension>
 </addon>
-<addon id="repository.lahav" name="kodi lahav repository" version="1.0.6" provider-name="amos lahav">
-	<extension point="xbmc.addon.repository" name="kodi lahav repository">
-			<info compressed="false">https://github.com/amshpitz/repository.lahav/raw/master/addons.xml</info>
-			<checksum>https://github.com/amshpitz/repository.lahav/raw/master/addons.xml.md5</checksum>
-			<datadir zip="true">https://github.com/amshpitz/repository.lahav/raw/master/Zips/</datadir>
-	</extension>
+<addon id="repository.featherence" name="Featherence repository" version="1.2.0" provider-name="finalmakerr">
+	<extension point="xbmc.addon.repository" name="Featherence repository">
+		<dir minversion="0.0.0">
+			<info compressed="false">https://raw.githubusercontent.com/finalmakerr/featherence/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/finalmakerr/featherence/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/finalmakerr/featherence/master/</datadir>
+		</dir>
+		<dir minversion="15.0.0">
+			<info compressed="false">https://raw.githubusercontent.com/finalmakerr/featherence/master/_Helix/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/finalmakerr/featherence/master/_Helix/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/finalmakerr/featherence/master/_Helix/</datadir>
+		</dir>
+		<dir minversion="15.9.0">
+			<info compressed="false">https://raw.githubusercontent.com/finalmakerr/featherence/master/_Jarvis/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/finalmakerr/featherence/master/_Jarvis/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/finalmakerr/featherence/master/_Jarvis/</datadir>
+		</dir>
+		<dir minversion="16.9.0">
+			<info compressed="false">https://raw.githubusercontent.com/finalmakerr/featherence/master/_Krypton/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/finalmakerr/featherence/master/_Krypton/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/finalmakerr/featherence/master/_Krypton/</datadir>
+		</dir>
+    </extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">kodi- amos Lahav repo</summary>
-		<description lang="en">kodi-amos Lahav repo</description>
 		<platform>all</platform>
+		<summary lang="en"></summary>
+		<description lang="en">Install Kodi's addons from Featherence Repository</description>
+		<email>featherence@groups.facebook.com</email>
+		<forum></forum>
+		<source>https://github.com/finalmakerr/featherence</source>
+		<website>https://www.facebook.com/groups/featherence/</website>
 	</extension>
 </addon>
-<addon id="repository.kodi-senyor" name="kodi senyor repository" version="1.2.0" provider-name="kodi senyor">
+<addon id="repository.kodil" name=".[COLOR blue].Kodisrael [/COLOR][COLOR white] Repository [/COLOR]" version="1.2" provider-name="kodil">
+    <extension point="xbmc.addon.repository" name=".Kodisrael  Repository ">
+        <info compressed="false">https://raw.githubusercontent.com/kodil/kodil/master/addons.xml</info>
+        <checksum>http://www.lvtvv.com/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/kodil/kodil/master/repo</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>kodisrael repository</summary>
+        <description>kodisrael repository - the most extensive repository in israel </description>
+        <description>הריפו של קודישראל - מאגר ההרחבות הגדול והאיכותי בישראל  </description>
+        <platform>all</platform>
+    </extension>
+</addon>
+<addon id="repository.kodi-senyor" name="kodi senyor repository" version="1.2.1" provider-name="kodi senyor">
 	<extension point="xbmc.addon.repository" name="kodi senyor repository">
 			<info compressed="false">https://github.com/kobiko3030/repository.kodisenyor/raw/master/addons.xml</info>
 			<checksum>https://github.com/kobiko3030/repository.kodisenyor/raw/master/addons.xml.md5</checksum>
@@ -198,54 +166,79 @@
 		<platform>all</platform>
 	</extension>
 </addon>
-<addon id="script.speedtestnet"
-       name="ARNU Box Speed Tester"
-       version="1.0.0"
-       provider-name="ARNU Box / Josh.5">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-  </requires>
-  <extension point="xbmc.python.script"
-             library="default.py">
-        <provides>executable</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">ARNU Box Speed Tester</summary>
-    <description lang="en">ARNU Box Speed Tester powered by speedtest.net will give you accurate Internet speed/ping test results. \n Brought to you by http://www.arnubox.com</description>
-    <platform>all</platform>
-  </extension>
-</addon>
-<addon id="plugin.video.freshstart" name="Fresh Start"
-	version="1.0.5" provider-name="tvaddons.ag">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>executable</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">Factory Restore Functionality for Kodi</summary>
-    <description lang="en">Easily Factory Restore your Kodi Configuration in One Simple Click! This tool will bring your Kodi back to its original installation state, deleting all customizations and add-ons you may have previously enabled, giving you a fresh start!</description>
-    <platform>all</platform>
-    <forum>http://forums.tvaddons.ag/forums/141-FRESH-START</forum>
-    <website>http://www.tvaddons.ag/</website>
-  </extension>
-</addon>
-<addon id="script.tvaddons.debug.log" name="TVA Log Uploader" version="1.0.4" provider-name="tvaddons.ag">
-    <requires>
-        <import addon="xbmc.python" version="2.20.0"/>
-    </requires>
-    <extension point="xbmc.python.script" library="default.py">
-        <provides>executable</provides>
+<addon id="repository.nirepo"
+       name=".::NIREPO::. Nir Elbaz Repository"
+       version="0.0.1"
+       provider-name="Nir Elbaz">
+    <extension point="xbmc.addon.repository" name=".::NIREPO::. Nir Elbaz Repository">
+        <info compressed="false">http://nirepo.nirelbaz.com/addons.xml</info>
+        <checksum>http://nirepo.nirelbaz.com/addons.xml.md5</checksum>
+        <datadir zip="true">http://nirepo.nirelbaz.com/</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary lang="en">Upload Debug Logs to Shareable Location</summary>
-        <description lang="en">This add-on gives you the ability to upload your Kodi error logs to a shareable location, and can also optionally email you the link to your logs. Before you get started, be sure to Toggle ON the “Enable debug logging” function under the SYSTEM -> Settings -> System -> Logging menu within Kodi.</description>
-        <language></language>
+        <summary>.::NIREPO::. Nir Elbaz Repository</summary>
+        <description>Collection of cool Kodi addons created by Nir Elbaz: 99FM radio station playlists, Kodcast - podcasts index, Library of Kodi tutorials and more!</description>
         <platform>all</platform>
-        <website>https://www.tvaddons.ag/</website>
-        <source>https://github.com/tknorris/script.tvaddons.debug.log</source>
-        <forum>https://forums.tvaddons.ag/maintenance-tool/</forum>
+    </extension>
+</addon>
+<addon id="repository.RoiD" name="[COLOR red]RoiD[/COLOR] Repository" version="1.0.2" provider-name="RoiD">
+    <extension point="xbmc.addon.repository" name="RoiD Repository">
+        <info compressed="false">https://raw.githubusercontent.com/RoidosDiamond/RoiD/master/Addons/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/RoidosDiamond/RoiD/master/Addons/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/RoidosDiamond/RoiD/master/Addons/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>RoiD repository</summary>
+        <description>RoiD offical repository </description>
+        <platform>all</platform>
+    </extension>
+</addon>
+<addon id="repository.TheWiz" name="TheWiz Media Repository" version="2.3.3" provider-name="TheWiz">
+	<requires>
+		<import addon="xbmc.addon" version="12.0.0"/>
+	</requires>
+	<extension point="xbmc.addon.repository" name="TheWiz Hebrew Repository">
+		<dir minversion="12.0.0">
+			<info>http://repo.thewiz.info/addons.xml</info>
+			<checksum>http://repo.thewiz.info/addons.xml.md5</checksum>
+			<datadir zip="true">http://repo.thewiz.info/</datadir>
+		</dir>
+		<dir minversion="15.9.0">
+			<info>http://repo.thewiz.info/addons.xml.gz</info>
+			<checksum>http://repo.thewiz.info/addons.xml.gz.md5</checksum>
+			<datadir zip="true">http://repo.thewiz.info/</datadir>
+		</dir>
+	</extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en_US">TheWiz Media - Repository</summary>
+        <summary lang="he_IL">TheWiz Media - מאגר הרחבות</summary>
+        <description lang="en_US">Hebrew Movies/TV Wall, Hebrew Skins....</description>
+        <description lang="he_IL">קיר סרטים וסדרות, סקינים בעברית, תוספים בינלאומים ועוד</description>
+    </extension>
+</addon>
+<addon id="repository.ToMeRepo" name="...[COLOR lime].ToMeR [/COLOR][COLOR yellow] Repository®[/COLOR]" version="1.1.1" provider-name="ToMeR">
+    <extension point="xbmc.addon.repository" name="ToMeRepo">
+        <info compressed="false">https://raw.githubusercontent.com/tmkodirepo/repository.ToMeRepo2/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/tmkodirepo/repository.ToMeRepo2/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/tmkodirepo/repository.ToMeRepo2/master/repo</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>ToMeRepo</summary>
+        <description>פה תמצאו הרחבות לקודי שעברו בדיקה מדוקדקת , מכל הרפויים הקיימים שיש ,מאגר קטן זמין ומתעדכן באופן שוטף</description>
+        <platform>all</platform>
+    </extension>
+</addon>
+<addon id="repository.xbmc-israel" name=".[COLOR blue]XBMC Israeli [/COLOR][COLOR white] Streaming Sites[/COLOR]" version="1.0.4" provider-name="cubicle-vdo">
+    <extension point="xbmc.addon.repository" name="XBMC Israeli streaming repo for streaming sites">
+        <info compressed="false">https://raw.githubusercontent.com/cubicle-vdo/xbmc-israel/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/cubicle-vdo/xbmc-israel/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/cubicle-vdo/xbmc-israel/master/repo</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>XBMC Israeli Streaming Sites</summary>
+        <description>Download and install addons for XBMC Israeli streaming repo for streaming sites</description>
+        <platform>all</platform>
     </extension>
 </addon>
 </addons>
