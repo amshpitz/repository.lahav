@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
+<!--<video  Addons  -------------------------------------------------------------- />-->
 <addon id="plugin.video.bob" name="Bob" version="1.3.9" provider-name="Team Bob">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
@@ -29,6 +30,67 @@
 		<video_guide>y0w8zIH4lOY</video_guide>
 		<video_preview>WdKIzajiBBI</video_preview>
 	</extension>
+</addon>
+<addon id="plugin.video.featherence.docu" name="Featherence Docu" version="0.1.13" provider-name="finalmakerr, yoel guy">
+  <requires>
+	<import addon="xbmc.python" version="2.24.0" />
+	<import addon="script.featherence.service" version="0.3.46"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+	<platform>all</platform>
+    <summary lang="en">Knowledge is power!</summary>
+	<summary lang="he">ידע הוא כוח!</summary>
+    <description lang="en">Features:
+- Customized Menus: Support customized Fanart for each button.
+- Favourite Items: Add any valid existed item to My Kids button.
+- My Docu: Create your own buttons by feeding links from YouTube.
+  You may also add your own title, description, poster, fanart and even share it with others.
+- Random Play: Auto play any visible button in a random super long playlist.
+- Sorting: Sorted and Organized contents by ages, languages specific sorting are included.
+- Smart TV Mode: Auto play current button contents as a 40 items playlist, random is optional.
+- Varied and unlimited contents: Support unlimited URLs per content from varied sources such as Youtube, Dailymotion, Dropbox, Kodi's addons, supported websites..
+- YouTube search: Search any contents from YouTube, history included.
+    </description>
+	<description lang="he">מאפיינים:
+- הדוקו שלי: צור כפתורים משלך ע"י הזנת קישורים מיו-טיוב.
+  בנוסף ניתן להוסיף לכפתורים: שם, תאור, תמונה, פאנארט ואפילו לשתף עם אנשים אחרים.
+- חיפוש יו-טיוב: מאפשר חיפוש תכנים מיו-טיוב, כולל רשימת היסטוריה.
+- מצב טלוויזיה חכם: ניגון אוטומטי של התכנים בכפתור הנבחר, עד 40 פריטים  שונים בפלייליסט אחד, אפשרות לאקראי.
+- מיון: תכנים ממויינים ומאורגנים לפי גיל, כולל מיון לפי שפה.
+- מעודפים: הוסף כל פריט קיים לכפתור הילדים שלי.
+- ניגון אקראי: ניגון אוטומטי של כל הכפתורים בחלון הנוכחי באקראי וברצף.
+- תכנים מגוונים ואין סופיים: תמיכה במגוון עצום של מקורות לתוכן בודד.
+- תפריטים אישיים: אפשרות ליצור פאנארט אישי לכל כפתור.
+	</description>
+    <disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.</disclaimer>
+	<forum></forum>
+	<email>finalmakerr@gmail.com</email>
+	<source>https://github.com/finalmakerr/featherence/tree/master/master/plugin.video.featherence.docu</source>
+	<website>www.featherence.com</website>
+  </extension>
+</addon>
+<addon id="plugin.video.SportsDevil" version="2016-09-24" name="SportsDevil" provider-name="SportsDevil">
+  <requires>
+   <import addon="xbmc.python" version="2.14.0"/>
+   <import addon="script.module.simplejson" />
+   <import addon="script.module.six" />
+   <import addon="script.module.requests" />
+   <import addon="script.module.livestreamer" />
+  </requires>
+  <extension 
+    point="xbmc.python.pluginsource"
+    library="default.py">
+   <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Play videos of different sports streaming sites</summary>
+    <description>Play videos of different sports streaming sites</description>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <platform>all</platform>
+  </extension>
 </addon>
 <addon id="plugin.video.f4mTester" version="2.7.1" name="f4mTester" provider-name="Shani">
     <requires>
@@ -257,6 +319,134 @@
     <platform>all</platform>
   </extension>
 </addon>
+<!--<Music  Addons  -------------------------------------------------------------- />-->
+<addon id="plugin.video.featherence.music" name="Featherence Music" version="0.3.8" provider-name="finalmakerr">
+  <requires>
+	<import addon="xbmc.python" version="2.24.0" />
+	<import addon="script.featherence.service" version="0.3.46"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video audio</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+	<platform>all</platform>
+    <summary lang="en">International music addon</summary>
+	<summary lang="he">הרחבת מוזיקה בינלאומית</summary>
+    <description lang="en">Features:
+- Customized Menus: Support customized Fanart for each button.
+- Favourite Items: Add any valid existed item to My Kids button.
+- My Music: Create your own buttons by feeding links from YouTube.
+  You may also add your own title, description, poster, fanart and even share it with others.
+- Random Play: Auto play any visible button in a random super long playlist.
+- Sorting: Sorted and Organized contents by ages, languages specific sorting are included.
+- Smart TV Mode: Auto play current button contents as a 40 items playlist, random is optional.
+- Varied and unlimited contents: Support unlimited URLs per content from varied sources such as Youtube, Dailymotion, Dropbox, Kodi's addons, supported websites..
+- YouTube search: Search any contents from YouTube, history included.
+    </description>
+	<description lang="he">מאפיינים:
+- המוזיקה שלי: צור כפתורים משלך ע"י הזנת קישורים מיו-טיוב.
+  בנוסף ניתן להוסיף לכפתורים: שם, תאור, תמונה, פאנארט ואפילו לשתף עם אנשים אחרים.
+- חיפוש יו-טיוב: מאפשר חיפוש תכנים מיו-טיוב, כולל רשימת היסטוריה.
+- מצב טלוויזיה חכם: ניגון אוטומטי של התכנים בכפתור הנבחר, עד 40 פריטים  שונים בפלייליסט אחד, אפשרות לאקראי.
+- מיון: תכנים ממויינים ומאורגנים לפי גיל, כולל מיון לפי שפה.
+- מעודפים: הוסף כל פריט קיים לכפתור הילדים שלי.
+- ניגון אקראי: ניגון אוטומטי של כל הכפתורים בחלון הנוכחי באקראי וברצף.
+- תכנים מגוונים ואין סופיים: תמיכה במגוון עצום של מקורות לתוכן בודד.
+- תפריטים אישיים: אפשרות ליצור פאנארט אישי לכל כפתור.
+	</description>
+    <disclaimer>The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.</disclaimer>
+	<forum></forum>
+	<email>finalmakerr@gmail.com</email>
+	<source>https://github.com/finalmakerr/featherence/tree/master/master/plugin.video.featherence.music</source>
+	<website>www.featherence.com</website>
+  </extension>
+</addon>
+<addon id="script.100fm" name="100FM Radius Digital" version="0.2.3" provider-name="Nir Elbaz">
+    <requires>
+        <import addon="xbmc.python" version="2.24.0"/>
+        <import addon="script.module.requests" version="2.9.1"/>
+        <import addon="script.module.elementtree" version="1.2.8"/>
+    </requires>
+    <extension point="xbmc.python.script" library="addon.py">
+        <provides>audio</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">100FM Radius Digital - Music, that's all</summary>
+        <summary lang="he">100FM רדיוס דיגיטל - מוזיקה זה הכל</summary>
+        <description lang="en">100FM radio station Kodi add-on. The add-on offers live listening to dozens different
+            musical genres: 80's, 90's, Rock, Pop, Oldies and many more
+        </description>
+        <description lang="he">תוסף קודי של תחנת הרדיו רדיוס FM100. התוסף מציע עשרות תחנות רדיו המנגנות מוזיקה לפי
+            ז׳אנרים: שנות ה- 80, 90, ישראלי, להיטים ועוד
+        </description>
+        <disclaimer lang="en">This is the official 100FM Radius Digital Kodi add-on</disclaimer>
+        <language></language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE Version 2, June 1991</license>
+        <website>http://digital.100fm.co.il/</website>
+        <email>nir@nirelbaz.com</email>
+        <source>https://github.com/nire0510/script.100fm</source>
+    </extension>
+</addon>
+<addon id="plugin.audio.99fm-playlists"
+       name="99FM Playlists"
+       version="0.5.1"
+       provider-name="nirelbaz">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.module.requests" version="2.8.1"/>
+        <import addon="script.module.routing" version="0.2.0"/>
+        <import addon="script.module.beautifulsoup4" version="4.3.2"/>
+        <import addon="script.module.html5lib" version="0.999.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>audio</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">99FM - The greatest songs</summary>
+        <summary lang="he">99FM - השירים הטובים ביותר</summary>
+        <description lang="en">Great collection of songs created by the gifted 99FM radio station music editors
+        </description>
+        <description lang="he">אוסף מעולה של שירים שנערכו על-ידי העורכים המוכשרים של תחנת הרדיו 99FM</description>
+        <disclaimer lang="en">This is an unofficial addon which created to make 99FM website playlists accessible to
+            Kodi users
+        </disclaimer>
+        <language>he</language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE Version 2, June 1991</license>
+        <website>http://nirelbaz.com/</website>
+        <email>nir@nirelbaz.com</email>
+    </extension>
+</addon>
+<addon
+  id="plugin.audio.kodcast"
+  name="Kodcast"
+  version="0.0.4"
+  provider-name="Nir Elbaz">
+    <requires>
+        <import addon="xbmc.python" version="2.20.0"/>
+        <import addon="script.module.requests" version="2.8.1"/>
+        <import addon="script.module.beautifulsoup4" version="4.3.2"/>
+        <import addon="script.module.routing" version="0.2.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>audio</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Listen to the best podcasts in Israel</summary>
+        <summary lang="he">האזן לפודקאסטים הטובים ביותר בעברית</summary>
+        <description lang="en">Listen to hundreds of Israel's finest podcasts: radio stations, lectures, interviews and more!</description>
+        <description lang="he">האזן למאות מהפודקאסטים הטובים ביותר בישראל: תחנות ותוכניות רדיו, הרצאות בנושאים מגוונים, ראיונות עם אישים מרתקים ועוד!</description>
+        <disclaimer lang="en">All content in this plugin is served as is from iCast website and is an -unofficial- extension of this website.</disclaimer>
+        <disclaimer lang="he">כל המדיה הזמינה מתוסף זה מוגשת כמו שהיא מאתר iCast. תוסף זה אינו תוסף רישמי של האתר.</disclaimer>
+        <language>he</language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE Version 2, June 1991</license>
+        <website>http://nirelbaz.com/</website>
+        <email>nir@nirelbaz.com</email>
+    </extension>
+</addon>
+<!--<Programs  Addons  -------------------------------------------------------------- />-->
 <addon id="plugin.program.repotools" name="הרחבות בקליק" version="1.4.2" provider-name="kodi senyor">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
@@ -301,6 +491,7 @@
     <platform>all</platform>
   </extension>
 </addon>
+<!--<repository  Addons  -------------------------------------------------------------- />-->
 <addon id="repository.abeksis" name="...[COLOR lime]Abeksis[/COLOR] [COLOR white]Repository[/COLOR]" version="1.0.3" provider-name="Abeksis">
     <extension point="xbmc.addon.repository" name=".Abeksis Repository ">
         <info compressed="false">http://abeksis.com/repo/addons.xml</info>
