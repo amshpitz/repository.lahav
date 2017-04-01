@@ -104,7 +104,7 @@
     <website>n/a</website>
   </extension>
 </addon>
-	<addon id="plugin.video.lahavSelected" name="Lahav Selected Addons" version="1.0.0" provider-name="Amos Lahav">
+	<addon id="plugin.video.lahavSelected" name="Lahav Selected Addons" version="1.0.1" provider-name="Amos Lahav">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="plugin.video.youtube"/>
