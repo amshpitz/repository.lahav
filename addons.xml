@@ -104,10 +104,21 @@
     <website>n/a</website>
   </extension>
 </addon>
-	<addon id="plugin.video.lahavSelected" name="Lahav Selected Addons" version="1.0.3" provider-name="Amos Lahav">
+
+<addon id="plugin.video.lahavSelected" name="Lahav Selected Addons" version="1.0.3" provider-name="Amos Lahav">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="plugin.video.youtube"/>
+    <import addon="repository.kodi-senyor"/>
+    <import addon="repository.abeksis"/>
+    <import addon="repository.exodus"/>
+    <import addon="repository.featherence"/>
+    <import addon="repository.kodil"/>
+    <import addon="repository.nirepo"/>
+    <import addon="repository.RoiD"/>
+    <import addon="repository.TheWiz"/>
+    <import addon="repository.ToMeRepo"/>
+
   </requires>
   <extension point="xbmc.python.pluginsource" library="addon.py">
     <provides>video</provides>
@@ -120,6 +131,7 @@
     <platform>all</platform>
   </extension>
 </addon>
+
 <addon
   id="plugin.video.SportsDevil"
   version="2017.03.28"
