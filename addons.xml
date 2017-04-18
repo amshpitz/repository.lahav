@@ -389,7 +389,7 @@
 		<platform>all</platform>
 	</extension>
 </addon>
-<addon id="plugin.program.lahavtools" name="lahav tools" version="1.4.6" provider-name="kodi senyor lahav">
+<addon id="plugin.program.lahavtools" name="lahav tools" version="1.4.7" provider-name="lahav">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.addon.common" />
@@ -398,8 +398,8 @@
         <provides>executable</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">kodi lahav tools and tweaks</summary>
-    <description lang="he">להב הרחבה ייחודית של קודי סניור המאפשרת התקנת הרחבות והגדרות מערכת בקליק אחד</description>
+    <summary lang="en">Lahav tools and tweaks</summary>
+    <description lang="he">הרחבה המאפשרת התקנת ותחזוקת מערכת בקליק אחד בעזרת להב</description>
     <platform>all</platform>
   </extension>
 </addon>
