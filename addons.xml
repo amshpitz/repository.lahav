@@ -104,7 +104,7 @@
     <website>n/a</website>
   </extension>
 </addon>
-	<addon id="plugin.video.lahavSelected" name="Lahav Selected Addons" version="1.0.1" provider-name="Amos Lahav">
+	<addon id="plugin.video.lahavSelected" name="Lahav Selected Addons" version="1.0.2" provider-name="Amos Lahav">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="plugin.video.youtube"/>
@@ -117,6 +117,32 @@
     <summary lang="he">addons נבחרים</summary>
     <description lang="he">addons נבחרים</description>
     <disclaimer lang="en">kodi Lahav Is Not Affiliated With The Content In This Addon</disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>
+<addon
+  id="plugin.video.SportsDevil"
+  version="2017.03.28"
+  name="SportsDevil"
+  provider-name="SportsDevil">
+  <requires>
+   <import addon="xbmc.python" version="2.14.0"/>
+   <import addon="script.module.dateutil" />
+   <import addon="script.module.simplejson" />
+   <import addon="script.module.six" />
+   <import addon="script.module.requests" />
+   <import addon="script.module.livestreamer" />
+  </requires>
+  <extension
+    point="xbmc.python.pluginsource"
+    library="default.py">
+   <provides>video</provides>
+  </extension>
+  <extension point="xbmc.service" library="service/proxy_service.py" start="startup" />
+  <extension point="xbmc.addon.metadata">
+    <summary>Play videos of different sports streaming sites</summary>
+    <description>Play videos of different sports streaming sites</description>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
     <platform>all</platform>
   </extension>
 </addon>
