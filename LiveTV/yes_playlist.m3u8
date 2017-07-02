@@ -1,6 +1,16 @@
 #EXTM3U
 #EXTINF:-1, vl-il-ch8
 http://193.8.246.77:8002/play/37887/index.m3u8
+#EXTINF:-1, israel-channel 10
+http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
+#EXTINF:-1, israel-channel 1 כאן
+http://82.80.192.2/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
+#EXTINF:-1, israel-channel 2 NeveIlan link1
+http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile1.m3u8
+#EXTINF:-1, israel-channel 2 NeveIlan link2
+http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile3.m3u8
+#EXTINF:-1,  music-Radio 105 Tv
+rtmp://fms.105.net/live/105Test1
 #EXTINF:-1, Sport 5 GOLD
 http://193.8.246.77:8002/play/7702435/index.m3u8
 #EXTINF:-1, vl-il-disney-jr
