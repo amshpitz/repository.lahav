@@ -1,0 +1,161 @@
+#EXTM3U
+#EXTINF:-1, vl-il-ch8
+http://193.8.246.77:8002/play/37887/index.m3u8
+#EXTINF:-1, israel-channel 10
+http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
+#EXTINF:-1, israel-channel 1 כאן
+http://82.80.192.2/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
+#EXTINF:-1, israel-channel 2 NeveIlan link1
+http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile1.m3u8
+#EXTINF:-1, israel-channel 2 NeveIlan link2
+http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile3.m3u8
+#EXTINF:-1,  music-Radio 105 Tv
+rtmp://fms.105.net/live/105Test1
+#EXTINF:-1, Sport 5 GOLD
+http://193.8.246.77:8002/play/7702435/index.m3u8
+#EXTINF:-1, vl-il-disney-jr
+http://193.8.246.77:8002/play/67887/index.m3u8
+#EXTINF:-1, Bollywood
+http://193.8.246.77:8002/play/77024681/index.m3u8
+#EXTINF:-1, vl-il-history
+http://193.8.246.77:8002/play/17887/index.m3u8
+#EXTINF:-1, vl-il-yes-docu
+http://193.8.246.77:8002/play/437887/index.m3u8
+#EXTINF:-1, Ego Total
+http://193.8.246.77:8002/play/7702465/index.m3u8
+#EXTINF:-1, vl-il-fox-sport
+http://193.8.246.77:8002/play/77887/index.m3u8
+#EXTINF:-1, vl-il-action
+http://193.8.246.77:8002/play/87887/index.m3u8
+#EXTINF:-1, Nat Geo Wild IL
+http://193.8.246.77:8002/play/7702443/index.m3u8
+#EXTINF:-1, vl-il-films
+http://193.8.246.77:8002/play/21003/index.m3u8
+#EXTINF:-1, vl-il-fun
+http://193.8.246.77:8002/play/137887/index.m3u8
+#EXTINF:-1, Nat Geo HD IL
+http://193.8.246.77:8002/play/7702444/index.m3u8
+#EXTINF:-1, vl-il-music24
+http://193.8.246.77:8002/play/277887/index.m3u8
+#EXTINF:-1, vl-il-yes3
+http://193.8.246.77:8002/play/377887/index.m3u8
+#EXTINF:-1, HBO HD
+http://193.8.246.77:8002/play/7702138/index.m3u8
+#EXTINF:-1, vl-il-hot3
+http://193.8.246.77:8002/play/177887/index.m3u8
+#EXTINF:-1, vl-il-zoom
+http://193.8.246.77:8002/play/467887/index.m3u8
+#EXTINF:-1, vl-il-yes-comedy
+http://193.8.246.77:8002/play/427887/index.m3u8
+#EXTINF:-1, vl-il-viva
+http://193.8.246.77:8002/play/327887/index.m3u8
+#EXTINF:-1, HOT Bombey
+http://193.8.246.77:8002/play/a004/index.m3u8
+#EXTINF:-1, vl-il-yes2-heb
+http://193.8.246.77:8002/play/21004/index.m3u8
+#EXTINF:-1, vl-il-health
+http://193.8.246.77:8002/play/227887/index.m3u8
+#EXTINF:-1, vl-il-zone
+http://193.8.246.77:8002/play/167887/index.m3u8
+#EXTINF:-1, vl-il-yes2
+http://193.8.246.77:8002/play/367887/index.m3u8
+#EXTINF:-1, vl-il-logi
+http://193.8.246.77:8002/play/267887/index.m3u8
+#EXTINF:-1, vl-il-hot-cinema
+http://193.8.246.77:8002/play/197887/index.m3u8
+#EXTINF:-1, vl-il-sport2
+http://193.8.246.77:8002/play/297887/index.m3u8
+#EXTINF:-1, vl-il-travel
+http://193.8.246.77:8002/play/317887/index.m3u8
+#EXTINF:-1, vl-il-yes-action
+http://193.8.246.77:8002/play/417887/index.m3u8
+#EXTINF:-1, vl-il-yes4-heb
+http://193.8.246.77:8002/play/21009/index.m3u8
+#EXTINF:-1, vl-il-one
+http://193.8.246.77:8002/play/47878/index.m3u8
+#EXTINF:-1, Arutz HaYeladim
+http://193.8.246.77:8002/play/7702219/index.m3u8
+#EXTINF:-1, HOT Prime
+http://193.8.246.77:8002/play/a002/index.m3u8
+#EXTINF:-1, Sport 5+ Live HD
+http://193.8.246.77:8002/play/770288/index.m3u8
+#EXTINF:-1, vl-il-drama
+http://193.8.246.77:8002/play/117887/index.m3u8
+#EXTINF:-1, vl-il-amc
+http://193.8.246.77:8002/play/217887/index.m3u8
+#EXTINF:-1, vl-il-yes1-heb
+http://193.8.246.77:8002/play/21005/index.m3u8
+#EXTINF:-1, HOT PLUS+
+http://193.8.246.77:8002/play/157887/index.m3u8
+#EXTINF:-1, vl-il-yes1
+http://193.8.246.77:8002/play/357887/index.m3u8
+#EXTINF:-1, WIZ
+http://193.8.246.77:8002/play/7702446/index.m3u8
+#EXTINF:-1, vl-il-yes4
+http://193.8.246.77:8002/play/587887/index.m3u8
+#EXTINF:-1, Sport4
+http://193.8.246.77:8002/play/7702461/index.m3u8
+#EXTINF:-1, vl-il-bombey
+http://193.8.246.77:8002/play/21002/index.m3u8
+#EXTINF:-1, vl-il-yam
+http://193.8.246.77:8002/play/347887/index.m3u8
+#EXTINF:-1, vl-il-children
+http://193.8.246.77:8002/play/57887/index.m3u8
+#EXTINF:-1, vl-il-yes5
+http://193.8.246.77:8002/play/407887/index.m3u8
+#EXTINF:-1, vl-il-junior
+http://193.8.246.77:8002/play/307887/index.m3u8
+#EXTINF:-1, vl-il-mikan
+http://193.8.246.77:8002/play/207887/index.m3u8
+#EXTINF:-1, vl-il-good-life
+http://193.8.246.77:8002/play/907887/index.m3u8
+#EXTINF:-1, vl-il-bollywood
+http://193.8.246.77:8002/play/27887/index.m3u8
+#EXTINF:-1, vl-il-yes-oh
+http://193.8.246.77:8002/play/457887/index.m3u8
+#EXTINF:-1, vl-il-yes3-heb
+http://193.8.246.77:8002/play/21006/index.m3u8
+#EXTINF:-1, vl-il-prime
+http://193.8.246.77:8002/play/21001/index.m3u8
+#EXTINF:-1, VIVA
+http://193.8.246.77:8002/play/a005/index.m3u8
+#EXTINF:-1, vl-il-comedy-cnt / Comedy Central HD
+http://193.8.246.77:8002/play/97887/index.m3u8
+#EXTINF:-1, Yaldut_Israelit
+http://193.8.246.77:8002/play/77020469/index.m3u8
+#EXTINF:-1, vl-il-discovery
+http://193.8.246.77:8002/play/107887/index.m3u8
+#EXTINF:-1, Sport3 
+http://193.8.246.77:8002/play/7702463/index.m3u8
+#EXTINF:-1, vl-il-home-plus
+http://193.8.246.77:8002/play/237887/index.m3u8
+#EXTINF:-1, Food Channel
+http://193.8.246.77:8002/play/7702400/index.m3u8
+#EXTINF:-1, vl-il-hot-entert
+http://193.8.246.77:8002/play/247887/index.m3u8
+#EXTINF:-1, vl-il-gold
+http://193.8.246.77:8002/play/147887/index.m3u8
+#EXTINF:-1, vl-il-5sport
+http://193.8.246.77:8002/play/1507/index.m3u8
+#EXTINF:-1, vl-il-yes-drama / YES DRAMA
+http://193.8.246.77:8002/play/447887/index.m3u8
+#EXTINF:-1, vl-il-viva-plus
+http://193.8.246.77:8002/play/337887/index.m3u8
+#EXTINF:-1, vl-il-sport1
+http://193.8.246.77:8002/play/287887/index.m3u8
+#EXTINF:-1, vl-il-luli
+http://193.8.246.77:8002/play/187887/index.m3u8
+#EXTINF:-1, HOT Films
+http://193.8.246.77:8002/play/a003/index.m3u8
+#EXTINF:-1, NEWS - MSNBC
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:-1, NEWS - Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1, NEWS - CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1, NEWS - BBC World News
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+#EXTINF:-1, NEWS - CNN
+http://192.99.66.208:9090/load/wk2bl7jh3cdk/68.mpegts
+#EXTINF:-1, sport - NFL Now
+http://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW.m3u8
