@@ -156,6 +156,6 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1, NEWS - BBC World News
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
 #EXTINF:-1, NEWS - CNN
-http://192.99.66.208:9090/load/wk2bl7jh3cdk/68.mpegts
+http://vip.groupiptv.com:7000/live/hudson/hudson/3514.ts
 #EXTINF:-1, sport - NFL Now
 http://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW.m3u8
