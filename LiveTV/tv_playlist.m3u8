@@ -160,6 +160,6 @@ http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1001.ts
 #EXTINF:-1,NFL NETWORK HD - USA
 http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1009.ts
 #EXTINF:-1,NHL NETWORK HD - USA
-http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1008.ts
+plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1008.ts
 #EXTINF:-1,NBA TV HD - USA
 http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1007.ts
