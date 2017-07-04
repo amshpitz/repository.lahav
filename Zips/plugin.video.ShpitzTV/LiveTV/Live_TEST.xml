@@ -1,0 +1,72 @@
+<item>
+<title>ABC News</title>
+<link>http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8</link>
+<thumbnail>http://www.danielcameronmd.com/images/news-abc.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
+<item>
+<title>BBC World News</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/   AshleyJSmith@teleworm.us/gyjhgkdt/4856.ts</link>
+<thumbnail>https://sites.google.com/site/immiszalik/_/rsrc/1472847832919/2-miznarodni-agenciie-novin-cnn-vvs-reuters-ta-insi/BBC_WorldNews_Stack_Rev_RGB%20%281%29.jpg?height=149&width=200</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
+<item>
+<title>CNN</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/   AshleyJSmith@teleworm.us/gyjhgkdt/360.ts</link>
+<thumbnail>http://bammarijuana.com/wp-content/uploads/2016/02/CNN-International-Logo.png</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
+<item>
+<title>CBC News</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/   AshleyJSmith@teleworm.us/gyjhgkdt/361.ts</link>
+<thumbnail>http://www.cbc.ca/revenuegroup/assets_c/2013/02/cbcnn-logo-gallery-thumb-638xauto-275462.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
+<item>
+<title>CTV News</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/   AshleyJSmith@teleworm.us/gyjhgkdt/2423.ts</link>
+<thumbnail>https://www.brandeps.com/logo-download/C/CTV-News-01.png</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
+<item>
+<title>MSNBC</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/   AshleyJSmith@teleworm.us/gyjhgkdt/365.ts</link>
+<thumbnail>http://fontmeme.com/images/MSNBC-Logo.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
+<item>
+<title>RT Today</title>
+<link>http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8</link>
+<thumbnail>https://mirror.umd.edu/xbmc/addons/gotham/plugin.video.rt/icon.png</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
+<item>
+<title>France 24</title>
+<link>http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8</link>
+<thumbnail>https://lh6.ggpht.com/BWV0xi-IcYkk6zJavfWi94-Mk4um78GMEJHvlOajbViRTP3Viek7hzjRmzXJJ0gWbm4I=w300</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
+<item>
+<title>Fox News</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/   AshleyJSmith@teleworm.us/gyjhgkdt/363.ts</link>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/6/67/Fox_News_Channel_logo.svg/revision/latest/scale-to-width-down/200?cb=20091120214359</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
+<item>
+<title>Fox Business</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/   AshleyJSmith@teleworm.us/gyjhgkdt/4600.ts</link>
+<thumbnail>https://pbs.twimg.com/profile_images/699974743751929856/nf8OCM2A.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
+<item>
+<title>ESPN News</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/   AshleyJSmith@teleworm.us/gyjhgkdt/4065.ts</link>
+<thumbnail>http://www.ilovesatellitetv.com/images/espn-news-logo.gif</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
+<item>
+<title>Sky Sports News</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/   AshleyJSmith@teleworm.us/gyjhgkdt/203.ts</link>
+<thumbnail>http://andylamb.co.uk/andyh/img/carousel/logo_skysportsnews.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>

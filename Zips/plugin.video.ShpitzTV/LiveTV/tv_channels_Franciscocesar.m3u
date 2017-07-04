@@ -1,0 +1,1181 @@
+#EXTM3U
+#EXTINF:-1,###  CANAIS ABERTOS ###
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1325.ts
+#EXTINF:-1,TV ANHANGUERA HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/834.ts
+#EXTINF:-1,GLOBO SP HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/513.ts
+#EXTINF:-1,GLOBO SP  SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1065.ts
+#EXTINF:-1,GLOBO RJ HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/467.ts
+#EXTINF:-1,GLOBO RJ HD (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1506.ts
+#EXTINF:-1,GLOBO MG HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/466.ts
+#EXTINF:-1,GLOBO VITORIA HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/152.ts
+#EXTINF:-1,RBS TV SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1492.ts
+#EXTINF:-1,GLOBO BRASILIA SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1532.ts
+#EXTINF:-1,TV BAHIA HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/983.ts
+#EXTINF:-1,GLOBO NORDESTE HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/817.ts
+#EXTINF:-1,GLOBO INTERNACIONAL
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/153.ts
+#EXTINF:-1,SBT HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/411.ts
+#EXTINF:-1,SBT SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/678.ts
+#EXTINF:-1,REDE RECORD HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/478.ts
+#EXTINF:-1,REDE RECORD HD ( OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/937.ts
+#EXTINF:-1,REDE RECORD USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/912.ts
+#EXTINF:-1,REDE RECORD SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/679.ts
+#EXTINF:-1,RECORD SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/659.ts
+#EXTINF:-1,BAND HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/523.ts
+#EXTINF:-1,BAND
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/857.ts
+#EXTINF:-1,BAND SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/959.ts
+#EXTINF:-1,REDE TV SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/414.ts
+#EXTINF:-1,CNT  SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1530.ts
+#EXTINF:-1,TV CULTURA HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/681.ts
+#EXTINF:-1,CANAL RURAL SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/761.ts
+#EXTINF:-1,CANAL DO BOI SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1362.ts
+#EXTINF:-1,NBR SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/763.ts
+#EXTINF:-1,CANÇAO NOVA SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1360.ts
+#EXTINF:-1,TV APARECIDA SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/790.ts
+#EXTINF:-1,TV GAZETA HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/789.ts
+#EXTINF:-1,REDE BRASIL  SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/788.ts
+#EXTINF:-1,### ESPORTES ###
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1326.ts
+#EXTINF:-1,SPORTV HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1404.ts
+#EXTINF:-1,SPORTV HD ( OPÇAO 2 )
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1494.ts
+#EXTINF:-1,SPORTV SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/212.ts
+#EXTINF:-1,SPORTV 2 HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/508.ts
+#EXTINF:-1,SPORTV 2 HD (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1495.ts
+#EXTINF:-1,SPORTV 2 SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/213.ts
+#EXTINF:-1,SPORTV 3 HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/511.ts
+#EXTINF:-1,SPORTV 3 HD (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1496.ts
+#EXTINF:-1,SPORTV 3 SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/214.ts
+#EXTINF:-1,FOX SPORTS-HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/464.ts
+#EXTINF:-1,FOX SPORTS HD (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1493.ts
+#EXTINF:-1,FOX SPORTS
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/876.ts
+#EXTINF:-1,FOX SPORTS SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/695.ts
+#EXTINF:-1,FOX SPORTS 2 HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/465.ts
+#EXTINF:-1,FOX SPORTS 2 (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/877.ts
+#EXTINF:-1,FOX SPORTS 2
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/878.ts
+#EXTINF:-1,FOX SPORTS 2 SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/696.ts
+#EXTINF:-1,EI MAXX - HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/660.ts
+#EXTINF:-1,EI MAXX HD (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1504.ts
+#EXTINF:-1,EIMAX SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1069.ts
+#EXTINF:-1,EI MAXX - 2 HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/661.ts
+#EXTINF:-1,EI MAXX 2 SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1070.ts
+#EXTINF:-1,ESPORTE INTERATIVO HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/662.ts
+#EXTINF:-1,ESPN BRASIL HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1109.ts
+#EXTINF:-1,ESPN BRASIL HD (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/520.ts
+#EXTINF:-1,ESPN BRASIL SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1023.ts
+#EXTINF:-1,ESPN- HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/521.ts
+#EXTINF:-1,ESPN HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/697.ts
+#EXTINF:-1,ESPN + HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/522.ts
+#EXTINF:-1,ESPN +
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/698.ts
+#EXTINF:-1,BAND SPORTS HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/515.ts
+#EXTINF:-1,BAND SPORTS SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/717.ts
+#EXTINF:-1,COMBATE HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/451.ts
+#EXTINF:-1,COMBATE HD (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1505.ts
+#EXTINF:-1,COMBATE
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/862.ts
+#EXTINF:-1,COMBATE SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/114.ts
+#EXTINF:-1,ALL SPORTS BR HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/765.ts
+#EXTINF:-1,FISHTV SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/854.ts
+#EXTINF:-1,PFC - SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/537.ts
+#EXTINF:-1,PFC INTERNACIONAL
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/186.ts
+#EXTINF:-1,PREMIER 24HS HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/509.ts
+#EXTINF:-1,PREMIER 24HS HD (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1526.ts
+#EXTINF:-1,PREMIER 24HS SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1090.ts
+#EXTINF:-1,PREMIER - 1
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/645.ts
+#EXTINF:-1,PREMIER - 2
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/646.ts
+#EXTINF:-1,PREMIER - 3
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/647.ts
+#EXTINF:-1,PREMIER  4
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/648.ts
+#EXTINF:-1,PREMIER - 5
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/649.ts
+#EXTINF:-1,PREMIER - 6
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/650.ts
+#EXTINF:-1,PREMIER - 7
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/651.ts
+#EXTINF:-1,PREMIER - 8
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/652.ts
+#EXTINF:-1,PREMIER - 9
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/653.ts
+#EXTINF:-1,PREMIER - 10
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/654.ts
+#EXTINF:-1,PREMIER 2 HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/510.ts
+#EXTINF:-1,PREMIER 3 HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/543.ts
+#EXTINF:-1,PREMIER 4 HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/544.ts
+#EXTINF:-1,PREMIER 5 HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/545.ts
+#EXTINF:-1,PREMIER 6 HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/976.ts
+#EXTINF:-1,PREMIER 7 HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/977.ts
+#EXTINF:-1,### FILMES E SERIES ###
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1327.ts
+#EXTINF:-1,TELECINE PREMIUM HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/487.ts
+#EXTINF:-1,TELECINE PREMIUM HD (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1511.ts
+#EXTINF:-1,TELECINE PREMIUM SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1049.ts
+#EXTINF:-1,TELECINE ACTION HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/483.ts
+#EXTINF:-1,TELECINE ACTION HD (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1513.ts
+#EXTINF:-1,TELECINE ACTION SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1050.ts
+#EXTINF:-1,TELECINE TOUCH HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/488.ts
+#EXTINF:-1,TELECINE TOUCH HD ( OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1510.ts
+#EXTINF:-1,TELECINE TOUCH SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1057.ts
+#EXTINF:-1,TELECINE PIPOCA HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/486.ts
+#EXTINF:-1,TELECINE PIPOCA HD (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1514.ts
+#EXTINF:-1,TELECINE PIPOCA SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/687.ts
+#EXTINF:-1,TELECINE FUN HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/485.ts
+#EXTINF:-1,TELECINE FUN HD (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1512.ts
+#EXTINF:-1,TELECINE FUN SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1047.ts
+#EXTINF:-1,TELECINE CULT HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/484.ts
+#EXTINF:-1,TELECINE CULT SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/685.ts
+#EXTINF:-1,HBO HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/473.ts
+#EXTINF:-1,HBO HD (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1518.ts
+#EXTINF:-1,HBO SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1031.ts
+#EXTINF:-1,HBO 2 HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/690.ts
+#EXTINF:-1,HBO 2 HD (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1508.ts
+#EXTINF:-1,HBO2 SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1030.ts
+#EXTINF:-1,HBO PLUS HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/497.ts
+#EXTINF:-1,HBO PLUS HD (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1517.ts
+#EXTINF:-1,HBO PLUS SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1032.ts
+#EXTINF:-1,HBO FAMILY HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/472.ts
+#EXTINF:-1,HBO FAMILY HD (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1509.ts
+#EXTINF:-1,HBO FAMILY SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/691.ts
+#EXTINF:-1,HBO SIGNATURE HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/474.ts
+#EXTINF:-1,HBO SIGNATURE HD (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1516.ts
+#EXTINF:-1,HBO SIGNATURE SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/694.ts
+#EXTINF:-1,MAX HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/501.ts
+#EXTINF:-1,MAX SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/728.ts
+#EXTINF:-1,MAX UP HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/503.ts
+#EXTINF:-1,MAX UP SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/730.ts
+#EXTINF:-1,MAX PRIME HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/502.ts
+#EXTINF:-1,MAX PRIME SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/729.ts
+#EXTINF:-1,MEGAPIX HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/475.ts
+#EXTINF:-1,MEGAPIX SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1026.ts
+#EXTINF:-1,CINEMAX HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/450.ts
+#EXTINF:-1,CINEMAX SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1044.ts
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/709.ts
+#EXTINF:-1,SPACE HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/479.ts
+#EXTINF:-1,SPACE - SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1042.ts
+#EXTINF:-1,A&E HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/745.ts
+#EXTINF:-1,AXN HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/447.ts
+#EXTINF:-1,AXN HD (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1521.ts
+#EXTINF:-1,AXN SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1028.ts
+#EXTINF:-1,TCM SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/682.ts
+#EXTINF:-1,TNT HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/482.ts
+#EXTINF:-1,TNT HD (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1519.ts
+#EXTINF:-1,TNT SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1073.ts
+#EXTINF:-1,TNT SERIES HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1105.ts
+#EXTINF:-1,TNT SERIES SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1046.ts
+#EXTINF:-1,WARNER CHANNEL HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/500.ts
+#EXTINF:-1,WARNER CHANNEL SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1072.ts
+#EXTINF:-1,FOX HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/972.ts
+#EXTINF:-1,FOX HD (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1507.ts
+#EXTINF:-1,FOX SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1110.ts
+#EXTINF:-1,FOX PREMIUM 1 HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/978.ts
+#EXTINF:-1,FOX PREMIUM  2 HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1310.ts
+#EXTINF:-1,FX HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/462.ts
+#EXTINF:-1,FX HD (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1520.ts
+#EXTINF:-1,FX  SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1043.ts
+#EXTINF:-1,FOX ACTION HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/743.ts
+#EXTINF:-1,FOX LIFE - SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/463.ts
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/700.ts
+#EXTINF:-1,STUDIO UNIVERSAL SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/720.ts
+#EXTINF:-1,CANAL SONY  HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/507.ts
+#EXTINF:-1,CANAL SONY SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/719.ts
+#EXTINF:-1,LIFETIME SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/725.ts
+#EXTINF:-1,AMC SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/701.ts
+#EXTINF:-1,SYFY SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/480.ts
+#EXTINF:-1,COMEDY CENTRAL SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/849.ts
+#EXTINF:-1,TBS SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/683.ts
+#EXTINF:-1,I-SAT  SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/727.ts
+#EXTINF:-1,CANAL BRASIL HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/708.ts
+#EXTINF:-1,### INFANTIL ###
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1328.ts
+#EXTINF:-1,BOOMERANG HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/448.ts
+#EXTINF:-1,DISNEY XD - SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/460.ts
+#EXTINF:-1,DISNEY XD HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/590.ts
+#EXTINF:-1,DISNEY JUNIOR HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/459.ts
+#EXTINF:-1,DISNEY CHANNEL HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/494.ts
+#EXTINF:-1,DISCOVERY KIDS HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/455.ts
+#EXTINF:-1,DISCOVERY KIDS SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1058.ts
+#EXTINF:-1,CARTOON NETWORK  HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/449.ts
+#EXTINF:-1,CARTOON NETWORK  SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/587.ts
+#EXTINF:-1,TOONCAST HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/489.ts
+#EXTINF:-1,TOONCAST SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/702.ts
+#EXTINF:-1,NICKLODEON SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/477.ts
+#EXTINF:-1,NICK JR SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/506.ts
+#EXTINF:-1,GLOOB HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/156.ts
+#EXTINF:-1,GLOOB  SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/823.ts
+#EXTINF:-1,### VARIEDADES E MUSICAS
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1329.ts
+#EXTINF:-1,MULTISHOW HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/476.ts
+#EXTINF:-1,MULTISHOW SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/174.ts
+#EXTINF:-1,MTV HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/620.ts
+#EXTINF:-1,OFF HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/183.ts
+#EXTINF:-1,VIVA HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/491.ts
+#EXTINF:-1,VIVA  SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/243.ts
+#EXTINF:-1,BIS HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/102.ts
+#EXTINF:-1,VH1 HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/676.ts
+#EXTINF:-1,VH 1 MEGA HITS SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/735.ts
+#EXTINF:-1,TruTV SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1071.ts
+#EXTINF:-1,WOOHOO SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1361.ts
+#EXTINF:-1,FOOD NETWORK  SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1531.ts
+#EXTINF:-1,Play TV SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1025.ts
+#EXTINF:-1,MUSIC BOX BRASIL  SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/762.ts
+#EXTINF:-1,PRIME BOX BRASIL  SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/764.ts
+#EXTINF:-1,GLOBOSAT HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/93.ts
+#EXTINF:-1,GNT HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/157.ts
+#EXTINF:-1,GNT SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/829.ts
+#EXTINF:-1,GLOBO NEWS HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/663.ts
+#EXTINF:-1,GLOBO NEWS SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1108.ts
+#EXTINF:-1,RECORD NEWS SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/734.ts
+#EXTINF:-1,BAND NEWS HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/495.ts
+#EXTINF:-1,BAND NEWS  SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/726.ts
+#EXTINF:-1,CNN SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/724.ts
+#EXTINF:-1,HISTORY CHANNEL HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/499.ts
+#EXTINF:-1,HISTORY CHANNEL  SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1067.ts
+#EXTINF:-1,H2 HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/470.ts
+#EXTINF:-1,H2 SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/714.ts
+#EXTINF:-1,TLC HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/644.ts
+#EXTINF:-1,TLC SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/825.ts
+#EXTINF:-1,E!  SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/632.ts
+#EXTINF:-1,NATGEO HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/498.ts
+#EXTINF:-1,NATGEO SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1202.ts
+#EXTINF:-1,NAT GEO WILD HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/712.ts
+#EXTINF:-1,NATGEO WILD SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/787.ts
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/516.ts
+#EXTINF:-1,DISCOVERY CHANNEL SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1055.ts
+#EXTINF:-1,DISCOVERY TURBO HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1059.ts
+#EXTINF:-1,DISCOVERY TURBO SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1060.ts
+#EXTINF:-1,DISCOVERY CIVILIZATION  SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/737.ts
+#EXTINF:-1,DISCOVERY SCIENCE SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/736.ts
+#EXTINF:-1,DISCOVERY HOME & HEALTH  HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/656.ts
+#EXTINF:-1,DISCOVERY HOME & HEALTH SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1054.ts
+#EXTINF:-1,DISCOVERY THEATER - HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/655.ts
+#EXTINF:-1,INVESTIGATION DISCOVERY - HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/658.ts
+#EXTINF:-1,ANIMAL PLANET HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1324.ts
+#EXTINF:-1,ANIMAL PLANET SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/711.ts
+#EXTINF:-1,### PORTUGAL CHANNEL ###
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1040.ts
+#EXTINF:-1,GLOBO PORTUGAL SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/733.ts
+#EXTINF:-1,GLOBO PREMIUM SD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1024.ts
+#EXTINF:-1,RECORD PT FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/416.ts
+#EXTINF:-1,TV CINE 1 FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/777.ts
+#EXTINF:-1,TV CINE 2 FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/778.ts
+#EXTINF:-1,TV CINE 3 FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/779.ts
+#EXTINF:-1,TV CINE 4 FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/780.ts
+#EXTINF:-1,TV CINE SERIES FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/781.ts
+#EXTINF:-1,AMC HD - PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/767.ts
+#EXTINF:-1,AXN FULL HD - PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/776.ts
+#EXTINF:-1,AXN BLACK FULL HD - PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/783.ts
+#EXTINF:-1,AXN White FULL HD - PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/786.ts
+#EXTINF:-1,FOX FULL HD - PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/771.ts
+#EXTINF:-1,FOX LIFE FULL HD PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/963.ts
+#EXTINF:-1,FOX COMEDY HD - PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/784.ts
+#EXTINF:-1,FOX MOVIES FULL HD PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/962.ts
+#EXTINF:-1,FOX CRIME FULL HD - PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/785.ts
+#EXTINF:-1,HOLLYWOOD HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/782.ts
+#EXTINF:-1,DISCOVERY SHOW CASE HD - PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/770.ts
+#EXTINF:-1,NAT GEO WILD HD - PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/768.ts
+#EXTINF:-1,NAT GEO HD - PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/769.ts
+#EXTINF:-1,BABY FIRTS - PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1384.ts
+#EXTINF:-1,CARTOON NETWORK - PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1386.ts
+#EXTINF:-1,FASHION TV HD - PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1455.ts
+#EXTINF:-1,HISTORY HD - PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1320.ts
+#EXTINF:-1,MCM POP - PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1311.ts
+#EXTINF:-1,MCM TOP - PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1312.ts
+#EXTINF:-1,MTV DANCE - PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1314.ts
+#EXTINF:-1,SYFY HD - PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1319.ts
+#EXTINF:-1,CRIME INVESTIGATION - PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1388.ts
+#EXTINF:-1,CMTV HD - PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1389.ts
+#EXTINF:-1,CBS REALITY - PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1387.ts
+#EXTINF:-1,CANAL Q - PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1374.ts
+#EXTINF:-1,SIC HD - PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1317.ts
+#EXTINF:-1,SIC MULHER - PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1315.ts
+#EXTINF:-1,SIC CARAS - PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1378.ts
+#EXTINF:-1,SIC RADICAL  HD - PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1316.ts
+#EXTINF:-1,TV GALICIA - PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1379.ts
+#EXTINF:-1,TVI - PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/774.ts
+#EXTINF:-1,TVI FICÇAO - PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1380.ts
+#EXTINF:-1,TVI REALITY - PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1381.ts
+#EXTINF:-1,RTP - PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1322.ts
+#EXTINF:-1,RTP 2 - PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/772.ts
+#EXTINF:-1,RTP MADEIRA - PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1377.ts
+#EXTINF:-1,RTP AFRICA - PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1376.ts
+#EXTINF:-1,RTP ACORES - PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1375.ts
+#EXTINF:-1,RTP MEMORIA - PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1321.ts
+#EXTINF:-1,24 KITCHEN HD - PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1382.ts
+#EXTINF:-1,SUNDANCE - PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1392.ts
+#EXTINF:-1,MOTORVISION - PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1391.ts
+#EXTINF:-1,E! - PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1390.ts
+#EXTINF:-1,MCS EXTREME - PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1313.ts
+#EXTINF:-1,CINEMUNDO - PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/964.ts
+#EXTINF:-1,CAÇA E PESCA - PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1385.ts
+#EXTINF:-1,A BOLA - PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1383.ts
+#EXTINF:-1,SPORT TV + FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/971.ts
+#EXTINF:-1,SPORTV  PT 1 FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/666.ts
+#EXTINF:-1,SPORTV  PT 2 FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/667.ts
+#EXTINF:-1,SPORTV  PT 3 FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/668.ts
+#EXTINF:-1,SPORTV  PT 4 FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/669.ts
+#EXTINF:-1,SPORTV   PT 5 FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/674.ts
+#EXTINF:-1,BENFICA TV HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/675.ts
+#EXTINF:-1,EUROSPORT HD - PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1318.ts
+#EXTINF:-1,REAL MADRID TV - PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/766.ts
+#EXTINF:-1,BEIN SPORTS - PT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/758.ts
+#EXTINF:-1,### USA CHANNELL ###
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/999.ts
+#EXTINF:-1,ABC HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/990.ts
+#EXTINF:-1,NBC - USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/988.ts
+#EXTINF:-1,MSNBC HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/989.ts
+#EXTINF:-1,FOX NEWS HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/998.ts
+#EXTINF:-1,SEC NETWORK - USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1367.ts
+#EXTINF:-1,BNN - USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1370.ts
+#EXTINF:-1,FINE LIVING - USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1371.ts
+#EXTINF:-1,TBS HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1366.ts
+#EXTINF:-1,BET - USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1002.ts
+#EXTINF:-1,CNBC - USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/992.ts
+#EXTINF:-1,FOX HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/993.ts
+#EXTINF:-1,CBSN HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/991.ts
+#EXTINF:-1,CW HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/994.ts
+#EXTINF:-1,CNN HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1001.ts
+#EXTINF:-1,DIY NETWORK - USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1359.ts
+#EXTINF:-1,SPIKE HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1358.ts
+#EXTINF:-1,BRAVO HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1363.ts
+#EXTINF:-1,OXYGEN HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1365.ts
+#EXTINF:-1,BTN HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1364.ts
+#EXTINF:-1,FOOD NETWORK HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1004.ts
+#EXTINF:-1,HGTV HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1357.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC - USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1005.ts
+#EXTINF:-1,OUTDOOR CHANNEL - USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1373.ts
+#EXTINF:-1,FUEL TV  HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1372.ts
+#EXTINF:-1,E! HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1254.ts
+#EXTINF:-1,LIFETIME MOVIE NETWORK HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1250.ts
+#EXTINF:-1,ANIMAL PLANET HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1251.ts
+#EXTINF:-1,TNT HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1006.ts
+#EXTINF:-1,FX HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1003.ts
+#EXTINF:-1,AMC HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1275.ts
+#EXTINF:-1,A&E HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1273.ts
+#EXTINF:-1,HBO HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/997.ts
+#EXTINF:-1,CINEMAX ACTION HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1012.ts
+#EXTINF:-1,CINEMAX MOREMAX - USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1274.ts
+#EXTINF:-1,BEIN SPORTS HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1431.ts
+#EXTINF:-1,ESPN HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1253.ts
+#EXTINF:-1,FIGHT SPORT - USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1013.ts
+#EXTINF:-1,GOL TV - USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1010.ts
+#EXTINF:-1,NFL NETWORK HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1009.ts
+#EXTINF:-1,NHL NETWORK HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1008.ts
+#EXTINF:-1,NBA TV HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1007.ts
+#EXTINF:-1,BOOMERANG - USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1261.ts
+#EXTINF:-1,CARTOON NETWORK - USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1000.ts
+#EXTINF:-1,NICKELODEN HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1011.ts
+#EXTINF:-1,DISCOVERY CHANNEL HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1015.ts
+#EXTINF:-1,H2 - USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1016.ts
+#EXTINF:-1,HISTORY HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1014.ts
+#EXTINF:-1,VH1 CLASSIC - USA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1262.ts
+#EXTINF:-1,CITY TV HD - CA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1255.ts
+#EXTINF:-1,CBC HD - CA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1259.ts
+#EXTINF:-1,CP24 HD - CA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1256.ts
+#EXTINF:-1,GLOBAL HD - CA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1258.ts
+#EXTINF:-1,TSN HD - CA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1260.ts
+#EXTINF:-1,SPORTNET HD - CA
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1257.ts
+#EXTINF:-1,UNIVISION HD
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/995.ts
+#EXTINF:-1,TELEMUNDO
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/996.ts
+#EXTINF:-1,UNIMAS
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1323.ts
+#EXTINF:-1,### ITALIA  CHANNELL ###
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1272.ts
+#EXTINF:-1,RAI HD - IT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1263.ts
+#EXTINF:-1,RAI 2 HD - IT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1264.ts
+#EXTINF:-1,RAI 3 HD - IT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1265.ts
+#EXTINF:-1,RAI 4 HD - IT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1266.ts
+#EXTINF:-1,RAI 5 HD - IT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1267.ts
+#EXTINF:-1,RAI MOVIE - IT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1268.ts
+#EXTINF:-1,SKY TG24 - IT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1270.ts
+#EXTINF:-1,MEDIASET - IT
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1269.ts
+#EXTINF:-1,### RADIOS ###
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1134.ts
+#EXTINF:-1,RADIO Transamerica FM
+http://transamerica.crossradio.com.br:9114/live.mp3
+#EXTINF:-1,RADIO Mania FM
+http://radio.servercsi.com.br:8595/;
+#EXTINF:-1,RADIO Jovem Pan FM
+http://live.webradio.upx.net.br:8112/;
+#EXTINF:-1,RADIO Liberdade FM
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1121.ts
+#EXTINF:-1,RADIO 104 FM
+http://noasrv.caster.fm:10127/stream
+#EXTINF:-1,RADIO CaiÃ§ara FM-AM
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1119.ts
+#EXTINF:-1,RADIO CapÃ£o FM
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1118.ts
+#EXTINF:-1,RADIO Coca Cola FM
+http://ic.imusicaradios.com.br:8000/brasil.stream.http?url=tunein
+#EXTINF:-1,RADIO Continental FM
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1120.ts
+#EXTINF:-1,RADIO Eldorado FM
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1123.ts
+#EXTINF:-1,RADIO FM Premium
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1114.ts
+#EXTINF:-1,RADIO Funk Brasil
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1125.ts
+#EXTINF:-1,RADIO Funk NeurÃ³tico
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1127.ts
+#EXTINF:-1,RADIO Grenal FM
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1116.ts
+#EXTINF:-1,RADIO ImbÃ© FM
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1111.ts
+#EXTINF:-1,RADIO Mix FM
+http://mixaac.crossradio.com.br:1100/live
+#EXTINF:-1,RADIO Pampa FM
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1122.ts
+#EXTINF:-1,RADIO Praia FM
+http://noasrv.caster.fm:10132/stream
+#EXTINF:-1,RADIO Xangri-lÃ¡ FM
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1113.ts
+#EXTINF:-1,RADIO Princesa FM
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1112.ts
+#EXTINF:-1,RADIO TramandaÃ­ FM
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1115.ts
+#EXTINF:-1,### FILMES ON DEMAND ###
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1089.ts
+#EXTINF:-1,Corra (2017) 720p Audio ts
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1539.mp4
+#EXTINF:-1,Kong A Ilha da Caveira (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1538.mp4
+#EXTINF:-1,A Bela & A Fera (2017) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1534.mp4
+#EXTINF:-1,Campo Minado (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1545.mp4
+#EXTINF:-1,O Espaço Entre Nós (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1546.mp4
+#EXTINF:-1,O Sinal - Frequeciancia do Medo (2015) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1543.mp4
+#EXTINF:-1,Headshot (2017) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1528.mp4
+#EXTINF:-1,Personal Shopper (2017) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1527.mp4
+#EXTINF:-1,Power Rangers (2017) 720p LEGENDADO
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1533.mp4
+#EXTINF:-1,Power Rangers (2017) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1536.mp4
+#EXTINF:-1,Truque De Mestre 2 (2016) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1537.mp4
+#EXTINF:-1,Sem Limites 2 (2017) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1535.mp4
+#EXTINF:-1,Clube da Luta
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1203.mp4
+#EXTINF:-1,Resident Evil 6: O Capítulo Final
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1083.mp4
+#EXTINF:-1,Rogue One  Uma História Star Wars
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1101.mp4
+#EXTINF:-1,Anjos da Noite 5
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1092.mp4
+#EXTINF:-1,Esquadrão Suicida  H265
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1097.mp4
+#EXTINF:-1,1 Contra todos o filme H265
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1430.mp4
+#EXTINF:-1,X-Men: Apocalipse
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1103.mp4
+#EXTINF:-1,Harry Potter e a Pedra Filosofal (2001) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1469.mp4
+#EXTINF:-1,Harry Potter e a Camara Secreta (2002) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1468.mp4
+#EXTINF:-1,Harry Potter e o Prisioneiro de Azakaban (2004) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1470.mp4
+#EXTINF:-1,Harry Potter e o Cálice de Fogo (2005) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1368.mp4
+#EXTINF:-1,Harry Potter Ordem da fenix (2007) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1210.mp4
+#EXTINF:-1,Harry Potter e o Enigma do Principe (2009) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1369.mp4
+#EXTINF:-1,Harry Potter Reliquia da Morte parte 1 (2010) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1214.mp4
+#EXTINF:-1,Harry Potter e as Reliquias da Morte Parte 2 (2011) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1215.mp4
+#EXTINF:-1,Forrest Gump O Contador De Historias
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1208.mp4
+#EXTINF:-1,Austrália
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1247.mp4
+#EXTINF:-1,Brilho Eterno de uma Mente Sem Lembranças
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1246.mp4
+#EXTINF:-1,O Misterioso Caso de Judith Winstead
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1233.mp4
+#EXTINF:-1,Viral
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1052.mp4
+#EXTINF:-1,Assassin's creed
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1078.mp4
+#EXTINF:-1,Batman vs. Superman: A Origem da Justiça
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1094.mp4
+#EXTINF:-1,Coração de Cavaleiro
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1205.mp4
+#EXTINF:-1,Minha mãe é uma peça 2
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1099.mp4
+#EXTINF:-1,Passageiros
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1087.mp4
+#EXTINF:-1,Portal dos Guerreiros
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1100.mp4
+#EXTINF:-1,Silêncio
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1102.mp4
+#EXTINF:-1,A Bailarina
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1279.mp4
+#EXTINF:-1,A cabana (2017) 1080p audio 9
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1276.mp4
+#EXTINF:-1,A chantagem
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1280.mp4
+#EXTINF:-1,A ultima ressaca do Ano
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1283.mp4
+#EXTINF:-1,Breaking bad the movie
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1284.mp4
+#EXTINF:-1,Dominação
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1285.mp4
+#EXTINF:-1,Ela Dança Eu Danço
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1288.mp4
+#EXTINF:-1,Ela Dança Eu Danço 2
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1289.mp4
+#EXTINF:-1,Ela Dança Eu Danço 3
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1290.mp4
+#EXTINF:-1,Ela Dança Eu Danço 4
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1291.mp4
+#EXTINF:-1,Ela Dança Eu Danço 5
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1292.mp4
+#EXTINF:-1,Estrelas Alem do tempo
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1286.mp4
+#EXTINF:-1,Eu Deus e Bin Laden
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1287.mp4
+#EXTINF:-1,Felipe Neto Minha Vida Não Faz Sentido
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1293.mp4
+#EXTINF:-1,Grande Muralha
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1281.mp4
+#EXTINF:-1,Hop
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1294.mp4
+#EXTINF:-1,Internet  o filme
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1295.mp4
+#EXTINF:-1,Jason Bourne
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1296.mp4
+#EXTINF:-1,John Wick: Chapter 2
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1277.mp4
+#EXTINF:-1,Lendas Do templo Perdido
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1297.mp4
+#EXTINF:-1,Logan (2017) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1298.mp4
+#EXTINF:-1,Mara E O Senhor Do Fogo 2017
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1299.mp4
+#EXTINF:-1,Nossos Amantes
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1300.mp4
+#EXTINF:-1,O Chamado 3
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1271.mp4
+#EXTINF:-1,O Tunel
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1301.mp4
+#EXTINF:-1,Peles
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1302.mp4
+#EXTINF:-1,Questão de tempo
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1303.mp4
+#EXTINF:-1,Sala Verde
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1304.mp4
+#EXTINF:-1,Sucesso Acima de tudo
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1306.mp4
+#EXTINF:-1,Tempo Esquecido
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1307.mp4
+#EXTINF:-1,The Outcasts
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1282.mp4
+#EXTINF:-1,Tumba Aberta
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1308.mp4
+#EXTINF:-1,A Hora do Rush
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1354.mp4
+#EXTINF:-1,A Hora do Rush 2
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1355.mp4
+#EXTINF:-1,A Hora do Rush 3
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1356.mp4
+#EXTINF:-1,Adrenalina
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1352.mp4
+#EXTINF:-1,Adrenalina 2
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1353.mp4
+#EXTINF:-1,America Pie
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1349.mp4
+#EXTINF:-1,American Pie 2, A Segunda Vez é Ainda Melhor
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1350.mp4
+#EXTINF:-1,American Pie 3, O Casamento
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1351.mp4
+#EXTINF:-1,Demolição
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1348.mp4
+#EXTINF:-1,E Fada!
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1334.mp4
+#EXTINF:-1,Herança de Sangue
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1332.mp4
+#EXTINF:-1,Meu Amigo Dragão
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1335.mp4
+#EXTINF:-1,Negócios Das Arabias
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1346.mp4
+#EXTINF:-1,O Grande Roubo
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1347.mp4
+#EXTINF:-1,O Lar Das Crianças Peculiares
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1345.mp4
+#EXTINF:-1,O Poder Da Coragem
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1344.mp4
+#EXTINF:-1,O Uivo
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1343.mp4
+#EXTINF:-1,Os Escolhidos
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1339.mp4
+#EXTINF:-1,Pequeno Delitos
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1336.mp4
+#EXTINF:-1,Procurando Dory
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1340.mp4
+#EXTINF:-1,Seguidores Macabros
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1338.mp4
+#EXTINF:-1,Truque De Mestre
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1341.mp4
+#EXTINF:-1,Um Amor A Altura
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1342.mp4
+#EXTINF:-1,Uma Noite De Crime
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1337.mp4
+#EXTINF:-1,xXx Reativado
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1333.mp4
+#EXTINF:-1,Velozes & Furiosos 1 (2001) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1393.mp4
+#EXTINF:-1,Velozes & Furiosos 2 (2003) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1394.mp4
+#EXTINF:-1,Velozes & Furiosos 3 (2006) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1395.mp4
+#EXTINF:-1,Velozes & Furiosos 4 (2009) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1396.mp4
+#EXTINF:-1,Velozes & Furiosos 5 (2011) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1397.mp4
+#EXTINF:-1,Velozes & Furiosos 6 (2013) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1398.mp4
+#EXTINF:-1,Velozes & Furiosos 7 (2015)  720p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1544.mp4
+#EXTINF:-1,Velozes & Furiosos 8  (2017) 720p LEGENDADO
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1220.mp4
+#EXTINF:-1,Capitão América, O Primeiro Vingador (Marvel Collection)
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1399.mp4
+#EXTINF:-1,Capitão América 2 - O Soldado Invernal (2014) 1080p (Marvel Collection)
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1400.mp4
+#EXTINF:-1,Capitão América Guerra Civil (2016) 1080p  (Marvel Collection)
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1401.mp4
+#EXTINF:-1,Homem De Ferro (Marvell Collection)
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1429.mp4
+#EXTINF:-1,Thor (Marvel Collection)
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1427.mp4
+#EXTINF:-1,Thor: O Mundo Sombrio (Marvell Collection)
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1428.mp4
+#EXTINF:-1,Vingadores (Marvel Colection)
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1419.mp4
+#EXTINF:-1,Doutor Estranho (2017) 1080p (Marvel Collection)
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1403.mp4
+#EXTINF:-1,O incrivel Hulk   (marvel Colection)
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1417.mp4
+#EXTINF:-1,Guardiões da Galáxia (2014) 1080p (Marvel Collection)
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1438.mp4
+#EXTINF:-1,Guardiões da Galáxia Vol. 2  ( TS )
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1331.mp4
+#EXTINF:-1,60 Segundos
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1411.mp4
+#EXTINF:-1,A Visita
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1413.mp4
+#EXTINF:-1,Advogado do Diabo
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1412.mp4
+#EXTINF:-1,Aguas Rasas
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1405.mp4
+#EXTINF:-1,Armageddon
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1414.mp4
+#EXTINF:-1,Kick-Ass Quebrando Tudo
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1426.mp4
+#EXTINF:-1,La La Land Cantando Estaçoes
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1415.mp4
+#EXTINF:-1,Lorax em busca da trufula perdida
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1418.mp4
+#EXTINF:-1,O Ataque dos Zumbis Bavaros
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1416.mp4
+#EXTINF:-1,Piratas do Caribe A Maldição do Pérola Negra
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1406.mp4
+#EXTINF:-1,Piratas do Caribe Navegando Em Águas Misteriosas
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1409.mp4
+#EXTINF:-1,Piratas do Caribe No Fim do Mundo
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1408.mp4
+#EXTINF:-1,Piratas do Caribe O Baú da Morte
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1407.mp4
+#EXTINF:-1,Premonição
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1421.mp4
+#EXTINF:-1,Premonição 2
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1422.mp4
+#EXTINF:-1,Premonição 3
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1423.mp4
+#EXTINF:-1,Premonição 4
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1424.mp4
+#EXTINF:-1,premonição 5
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1425.mp4
+#EXTINF:-1,Enjaulada
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1439.mp4
+#EXTINF:-1,Homem Aranha 1 (2002) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1442.mp4
+#EXTINF:-1,Homem Aranha 2 (2004) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1443.mp4
+#EXTINF:-1,Homem Aranha 3 (2007) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1444.mp4
+#EXTINF:-1,O Profissional
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1432.mp4
+#EXTINF:-1,Ray
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1433.mp4
+#EXTINF:-1,Se Beber Não Case Parte l
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1434.mp4
+#EXTINF:-1,Se Beber Nao Case Parte ll
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1435.mp4
+#EXTINF:-1,Se Beber Não Case Parte lll
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1436.mp4
+#EXTINF:-1,Spirit o corcel indomavel
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1440.mp4
+#EXTINF:-1,Uma Saída de Mestre (2003)
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1437.mp4
+#EXTINF:-1,Chamas da Vingança (2004) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1450.mp4
+#EXTINF:-1,12 Horas para Sobreviver - O Ano Da Eleição
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1446.mp4
+#EXTINF:-1,3 Turco e um bebe
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1445.mp4
+#EXTINF:-1,A Chegada
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1447.mp4
+#EXTINF:-1,As Loucas Aventuras de James West (1999) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1449.mp4
+#EXTINF:-1,Closer (2004)
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1451.mp4
+#EXTINF:-1,Como se Fosse a Primeira Vez (2004) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1452.mp4
+#EXTINF:-1,Diario De Uma Paixão (2004) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1453.mp4
+#EXTINF:-1,Fechando Negocio (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1461.mp4
+#EXTINF:-1,Fragmentado (2017) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1460.mp4
+#EXTINF:-1,Moana Um Mar de Aventuras (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1457.mp4
+#EXTINF:-1,Sing - Quem canta seus males espanta (2017) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1464.mp4
+#EXTINF:-1,Aladdin
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1448.mp4
+#EXTINF:-1,Detona Ralph
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1441.mp4
+#EXTINF:-1,Quatro Vidas de um Cachorro
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1420.mp4
+#EXTINF:-1,Nerve Um Jogo Sem Regras (2016) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1456.mp4
+#EXTINF:-1,Sandy Wexler (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1462.mp4
+#EXTINF:-1,Sete Minutos Depois da Meia Noite (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1463.mp4
+#EXTINF:-1,Sete Vidas (2008) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1465.mp4
+#EXTINF:-1,Uma Historia de Vingança (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1459.mp4
+#EXTINF:-1,Bad Milo (2015) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1466.mp4
+#EXTINF:-1,Canibais (2016) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1502.mp4
+#EXTINF:-1,Expresso do Amanhã (2015) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1500.mp4
+#EXTINF:-1,John Wick De Volta Ao Jogo (2014) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1498.mp4
+#EXTINF:-1,John Wick Um Novo Dia Para Matar (2017) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1499.mp4
+#EXTINF:-1,Edward - Mãos De Tesoura (1990) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1467.mp4
+#EXTINF:-1,A Caverna Perigo Subterraneo (2017) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1523.mp4
+#EXTINF:-1,Life (2017) 1080p  Legendado
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1525.mp4
+#EXTINF:-1,O Corpo (2017) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1524.mp4
+#EXTINF:-1,Sereia predadora (2016) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1522.mp4
+#EXTINF:-1,127 Horas  (2010) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Franciscocesar/DjFHC84848/1503.mp4
+#EXTINF:-1,### CANAIS ADULTO ###
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1481.ts
+#EXTINF:-1,ADULTO 1
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1471.ts
+#EXTINF:-1,ADULTO 2
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1472.ts
+#EXTINF:-1,ADULTO 3
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1473.ts
+#EXTINF:-1,ADULTO 4
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1474.ts
+#EXTINF:-1,ADULTO 5
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1475.ts
+#EXTINF:-1,ADULTO 6
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1476.ts
+#EXTINF:-1,ADULTO 7
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1477.ts
+#EXTINF:-1,ADULTO 8
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1478.ts
+#EXTINF:-1,ADULTO 9
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1479.ts
+#EXTINF:-1,ADULTO 10
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1480.ts
+#EXTINF:-1,ADULTO 11
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1482.ts
+#EXTINF:-1,ADULTO 12
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1483.ts
+#EXTINF:-1,ADULTO 13
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1484.ts
+#EXTINF:-1,ADULTO 14
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1485.ts
+#EXTINF:-1,ADULTO 15
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1486.ts
+#EXTINF:-1,ADULTO 16
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1487.ts
+#EXTINF:-1,ADULTO 17
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1488.ts
+#EXTINF:-1,ADULTO 18
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1489.ts
+#EXTINF:-1,ADULTO 19
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1490.ts
+#EXTINF:-1,ADULTO 20
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1491.ts
+#EXTINF:-1,Globo Anhanguera Goias
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1540.ts
+#EXTINF:-1,Globo Brasilia
+http://painel.tvdigitalsbl.net:8081/live/Franciscocesar/DjFHC84848/1541.ts

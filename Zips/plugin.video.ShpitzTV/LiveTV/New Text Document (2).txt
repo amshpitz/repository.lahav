@@ -1,0 +1,779 @@
+#EXTINF:-1,VIP SPOR EXTRA 1 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/450.ts
+#EXTINF:-1,VIP SPOR EXTRA 2 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/462.ts
+#EXTINF:-1,BeIN Sports 1 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1.ts
+#EXTINF:-1,BeIN Sports 2 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/2.ts
+#EXTINF:-1,BeIN Sports 3 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/3.ts
+#EXTINF:-1,BeIN Sports 4 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/5.ts
+#EXTINF:-1,BeIN Sports 5 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1403.ts
+#EXTINF:-1,BeIN Sports 6 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1848.ts
+#EXTINF:-1,TIVIBUSPOR 1 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/6.ts
+#EXTINF:-1,TIVIBUSPOR 2 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/448.ts
+#EXTINF:-1,TIVIBUSPOR 3 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1108.ts
+#EXTINF:-1,TIVIBUSPOR 4 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1109.ts
+#EXTINF:-1,S SPORT HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/963.ts
+#EXTINF:-1,SMART SPOR HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/964.ts
+#EXTINF:-1,TRT SPOR HD+
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/8.ts
+#EXTINF:-1,A SPOR HD+
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/14.ts
+#EXTINF:-1,NTV SPOR HD+
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/7.ts
+#EXTINF:-1,EUROSPORT 1 HD (TR)
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/999.ts
+#EXTINF:-1,EUROSPORT 2 HD (TR)
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1000.ts
+#EXTINF:-1,IDMAN TV HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/12.ts
+#EXTINF:-1,BJK TV
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/934.ts
+#EXTINF:-1,FB TV HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/933.ts
+#EXTINF:-1,GS TV
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/935.ts
+#EXTINF:-1,NBA TV
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1530.ts
+#EXTINF:-1,TJK TV
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/2046.ts
+#EXTINF:-1,BEIN BOX OFFICE 1 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1962.ts
+#EXTINF:-1,BEIN BOX OFFICE 2 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1963.ts
+#EXTINF:-1,BEIN BOX OFFICE 3 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1964.ts
+#EXTINF:-1,BEIN BOX OFFICE 3D
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1967.ts
+#EXTINF:-1,VIP CINEMA 1 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/415.ts
+#EXTINF:-1,VIP CINEMA 2 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/956.ts
+#EXTINF:-1,VIP CINEMA 3 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/30.ts
+#EXTINF:-1,VIP CINEMA 4 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/407.ts
+#EXTINF:-1,VIP CINEMA 5 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/412.ts
+#EXTINF:-1,VIP CINEMA 6 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/746.ts
+#EXTINF:-1,VIP CINEMA 7 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/955.ts
+#EXTINF:-1,VIP CINEMA 8 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/410.ts
+#EXTINF:-1,VIP CINEMA 9 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/351.ts
+#EXTINF:-1,VIP CINEMA 10 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/22.ts
+#EXTINF:-1,VIP CINEMA 11 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/416.ts
+#EXTINF:-1,VIP CINEMA 12 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/745.ts
+#EXTINF:-1,VIP CINEMA 13 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/748.ts
+#EXTINF:-1,VIP CINEMA 14 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/446.ts
+#EXTINF:-1,VIP CINEMA 15 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/966.ts
+#EXTINF:-1,VIP CINEMA 16 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/16.ts
+#EXTINF:-1,VIP CINEMA 17 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/61.ts
+#EXTINF:-1,VIP CINEMA 18 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1979.ts
+#EXTINF:-1,TR: CAPTAIN MOVIES 1
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1563.ts
+#EXTINF:-1,TR: CAPTAIN MOVIES 2
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1564.ts
+#EXTINF:-1,TR: CAPTAIN MOVIES 3
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1565.ts
+#EXTINF:-1,TR: CAPTAIN MOVIES 4
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1568.ts
+#EXTINF:-1,TR: CAPTAIN MOVIES 5
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1806.ts
+#EXTINF:-1,VIP KORKU 1 HD (+18)
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/29.ts
+#EXTINF:-1,VIP KORKU 2 HD (+18)
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/28.ts
+#EXTINF:-1,VIP KORKU 3 HD (+18)
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1981.ts
+#EXTINF:-1,VIP KORKU 4 HD (+18)
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1988.ts
+#EXTINF:-1,VIP CINEMA TURK 1 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/749.ts
+#EXTINF:-1,VIP CINEMA TURK 2 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/805.ts
+#EXTINF:-1,VIP CINEMA TURK 3 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/18.ts
+#EXTINF:-1,VIP CINEMA TURK 4 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1968.ts
+#EXTINF:-1,VIP CINEMA TURK 5 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1980.ts
+#EXTINF:-1,VIP CINEMA TURK 6 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1813.ts
+#EXTINF:-1,VIP YESILCAM 1 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1179.ts
+#EXTINF:-1,VIP YESILCAM 2 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/34.ts
+#EXTINF:-1,VIP YESILCAM 3 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1181.ts
+#EXTINF:-1,VIP YESILCAM 4 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1960.ts
+#EXTINF:-1,VIP YESILCAM 5 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1961.ts
+#EXTINF:-1,VIP YESILCAM 6 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1966.ts
+#EXTINF:-1,VIP YESILCAM 7 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1995.ts
+#EXTINF:-1,VIP ANIMASYON 1 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1178.ts
+#EXTINF:-1,VIP ANIMASYON 2 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/36.ts
+#EXTINF:-1,VIP ANIMASYON 3 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1965.ts
+#EXTINF:-1,VIP ANIMASYON 4 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1976.ts
+#EXTINF:-1,VIP ANIMASYON 5 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1977.ts
+#EXTINF:-1,VIP ANIMASYON 6 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1996.ts
+#EXTINF:-1,VIP ANIMASYON 7 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1798.ts
+#EXTINF:-1,SINE VIZYON 1 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1982.ts
+#EXTINF:-1,SINE VIZYON 2 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1983.ts
+#EXTINF:-1,SINE VIZYON 3 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1984.ts
+#EXTINF:-1,SINE VIZYON 4 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1985.ts
+#EXTINF:-1,SINE VIZYON 5 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1986.ts
+#EXTINF:-1,SINE VIZYON 6 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1987.ts
+#EXTINF:-1,SINE VIZYON 7 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1989.ts
+#EXTINF:-1,SINE VIZYON 8 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1990.ts
+#EXTINF:-1,SINE VIZYON 9 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1991.ts
+#EXTINF:-1,SINE VIZYON 10 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1992.ts
+#EXTINF:-1,LOCA 1 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/503.ts
+#EXTINF:-1,LOCA 2 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/504.ts
+#EXTINF:-1,LOCA 3 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/505.ts
+#EXTINF:-1,SALON 1 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/675.ts
+#EXTINF:-1,SALON 2 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/674.ts
+#EXTINF:-1,SALON 3 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/673.ts
+#EXTINF:-1,SiNEMA TV
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/744.ts
+#EXTINF:-1,SINEMA 1 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/23.ts
+#EXTINF:-1,SINEMA 2 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/32.ts
+#EXTINF:-1,SINEMA 3 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1327.ts
+#EXTINF:-1,SINEMA 4 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1328.ts
+#EXTINF:-1,SINEMA 5 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1329.ts
+#EXTINF:-1,SINEMA 6 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1330.ts
+#EXTINF:-1,SINEMA 7 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1331.ts
+#EXTINF:-1,SINEMA 8 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1332.ts
+#EXTINF:-1,SINEMA 9 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1333.ts
+#EXTINF:-1,SINEMA 10 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1334.ts
+#EXTINF:-1,SINEMA 11 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1353.ts
+#EXTINF:-1,SINEMA 12 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1354.ts
+#EXTINF:-1,SINEMA 13 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1355.ts
+#EXTINF:-1,SINEMA 14 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1356.ts
+#EXTINF:-1,SINEMA 15 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1357.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD+
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/73.ts
+#EXTINF:-1,NATIONAL GEO WILD HD+
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/74.ts
+#EXTINF:-1,NAT GEO PEOPLE HD+
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/454.ts
+#EXTINF:-1,BBC EARTH HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1094.ts
+#EXTINF:-1,ANIMAL PLANET HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/75.ts
+#EXTINF:-1,DISCOVERY CHANNEL TR
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/77.ts
+#EXTINF:-1,DISCOVERY SCIENCE HD TR
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/150.ts
+#EXTINF:-1,DISCOVERY SHOWCASE HD TR
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/858.ts
+#EXTINF:-1,DISCOVERY IDX TR
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/368.ts
+#EXTINF:-1,HISTORY HD TR
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/932.ts
+#EXTINF:-1,beIN iZ TV HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/835.ts
+#EXTINF:-1,TRT BELGESEL HD+
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/80.ts
+#EXTINF:-1,TARIM TV HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/2045.ts
+#EXTINF:-1,CiFTCi TV
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/2057.ts
+#EXTINF:-1,VIASAT NATURE HD TR
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1155.ts
+#EXTINF:-1,VIASAT EXPLORE TR
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1156.ts
+#EXTINF:-1,AB MOTEURS HD (TR)
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1797.ts
+#EXTINF:-1,ANIMAUX (TR)
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1795.ts
+#EXTINF:-1,CHASSE ET PECHE (TR)
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1796.ts
+#EXTINF:-1,SCIENCE & VIE TV (TR)
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1799.ts
+#EXTINF:-1,TREK HD (TR)
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1794.ts
+#EXTINF:-1,DA VINCI LEARNING HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/166.ts
+#EXTINF:-1,TRT 1 HD+
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/134.ts
+#EXTINF:-1,TRT 1 SD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/47.ts
+#EXTINF:-1,ATV HD+
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/40.ts
+#EXTINF:-1,ATV SD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/54.ts
+#EXTINF:-1,SHOW TV HD+
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/41.ts
+#EXTINF:-1,SHOW TV SD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/490.ts
+#EXTINF:-1,STAR TV HD+
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/42.ts
+#EXTINF:-1,STAR TV SD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1015.ts
+#EXTINF:-1,KANAL D HD+
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/43.ts
+#EXTINF:-1,KANAL D SD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1016.ts
+#EXTINF:-1,FOX TV HD+
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/44.ts
+#EXTINF:-1,FOX TV SD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1810.ts
+#EXTINF:-1,TV 8 HD+
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/45.ts
+#EXTINF:-1,TV 8 SD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1653.ts
+#EXTINF:-1,TV 8.5 HD+
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1200.ts
+#EXTINF:-1,TV 8.5 SD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1819.ts
+#EXTINF:-1,KANAL 7 HD+
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/380.ts
+#EXTINF:-1,KANAL 7 SD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1812.ts
+#EXTINF:-1,BEYAZ TV HD+
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/51.ts
+#EXTINF:-1,BEYAZ TV SD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1811.ts
+#EXTINF:-1,ULKE TV HD+
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1352.ts
+#EXTINF:-1,FiL TV
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/384.ts
+#EXTINF:-1,Tv2 HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/258.ts
+#EXTINF:-1,TV 360
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/126.ts
+#EXTINF:-1,KANAL A
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/755.ts
+#EXTINF:-1,TV NET
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/131.ts
+#EXTINF:-1,A2 TV
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1299.ts
+#EXTINF:-1,FOX CRIME HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1180.ts
+#EXTINF:-1,FX HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1316.ts
+#EXTINF:-1,SONY CHANNEL TV
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1849.ts
+#EXTINF:-1,DIZI TV
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1978.ts
+#EXTINF:-1,PLANET TURK
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1999.ts
+#EXTINF:-1,TLC
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1343.ts
+#EXTINF:-1,BeIN GURME HD
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/1167.ts
+#EXTINF:-1,TRT TURK
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/53.ts
+#EXTINF:-1,TRT AVAZ
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/286.ts
+#EXTINF:-1,LALEGUL TV
+http://best.ultrahd5.com:8000/live/alicetin1452/cetinbas1254/171.ts
+#EXTINF:-1,USA: WWE Raw Network HD
+http://142.4.218.121:25461/live/Asia_package/12345/2691.ts
+#EXTINF:-1,USA: Willow Cricket HD
+http://142.4.218.121:25461/live/Asia_package/12345/2679.ts
+#EXTINF:-1,USA: USA Network HD
+http://142.4.218.121:25461/live/Asia_package/12345/2681.ts
+#EXTINF:-1,USA: TSN2 HD-72
+http://142.4.218.121:25461/live/Asia_package/12345/2697.ts
+#EXTINF:-1,USA: TSN1 HD-STALK-71
+http://142.4.218.121:25461/live/Asia_package/12345/2698.ts
+#EXTINF:-1,USA: TSN 5 HD Canada-75
+http://142.4.218.121:25461/live/Asia_package/12345/2707.ts
+#EXTINF:-1,USA: TSN 4 HD-74
+http://142.4.218.121:25461/live/Asia_package/12345/2699.ts
+#EXTINF:-1,USA: TSN 3 HD-75
+http://142.4.218.121:25461/live/Asia_package/12345/2700.ts
+#EXTINF:-1,USA: TNT HD
+http://142.4.218.121:25461/live/Asia_package/12345/2693.ts
+#EXTINF:-1,USA: Tennis Channel HD
+http://142.4.218.121:25461/live/Asia_package/12345/2685.ts
+#EXTINF:-1,USA: Sprout HD
+http://142.4.218.121:25461/live/Asia_package/12345/2674.ts
+#EXTINF:-1,USA: Spike HD ( USA )
+http://142.4.218.121:25461/live/Asia_package/12345/2666.ts
+#EXTINF:-1,USA: Sports 1 HD
+http://142.4.218.121:25461/live/Asia_package/12345/2680.ts
+#EXTINF:-1,USA: NFL Network HD
+http://142.4.218.121:25461/live/Asia_package/12345/2703.ts
+#EXTINF:-1,USA: NFL Channel HD
+http://142.4.218.121:25461/live/Asia_package/12345/2701.ts
+#EXTINF:-1,USA: Network HD
+http://142.4.218.121:25461/live/Asia_package/12345/2677.ts
+#EXTINF:-1,USA: NBC Sports 1
+http://142.4.218.121:25461/live/Asia_package/12345/2702.ts
+#EXTINF:-1,USA: NBC Sport
+http://142.4.218.121:25461/live/Asia_package/12345/2704.ts
+#EXTINF:-1,USA: NBC HD
+http://142.4.218.121:25461/live/Asia_package/12345/2670.ts
+#EXTINF:-1,USA: NBA TV HD ( USA )
+http://142.4.218.121:25461/live/Asia_package/12345/2671.ts
+#EXTINF:-1,USA: NBA HD
+http://142.4.218.121:25461/live/Asia_package/12345/2692.ts
+#EXTINF:-1,USA: MLB Network HD
+http://142.4.218.121:25461/live/Asia_package/12345/2669.ts
+#EXTINF:-1,USA: Lifetime HD
+http://142.4.218.121:25461/live/Asia_package/12345/2694.ts
+#EXTINF:-1,USA: HBO HD
+http://142.4.218.121:25461/live/Asia_package/12345/2708.ts
+#EXTINF:-1,USA: Fox Sports 2 HD
+http://142.4.218.121:25461/live/Asia_package/12345/2705.ts
+#EXTINF:-1,USA: Fox Sports 1 HD
+http://142.4.218.121:25461/live/Asia_package/12345/2706.ts
+#EXTINF:-1,USA: Fox News HD ( USA )
+http://142.4.218.121:25461/live/Asia_package/12345/2709.ts
+#EXTINF:-1,USA: Fox Life HD
+http://142.4.218.121:25461/live/Asia_package/12345/2695.ts
+#EXTINF:-1,USA: ESPN HD ( USA )
+http://142.4.218.121:25461/live/Asia_package/12345/2676.ts
+#EXTINF:-1,USA: ESPN 2 HD ( USA )
+http://142.4.218.121:25461/live/Asia_package/12345/2675.ts
+#EXTINF:-1,USA: DIY Network HD (n)
+http://142.4.218.121:25461/live/Asia_package/12345/2683.ts
+#EXTINF:-1,USA: Discovery Science HD
+http://142.4.218.121:25461/live/Asia_package/12345/2684.ts
+#EXTINF:-1,USA: CBS Sports Network HD
+http://142.4.218.121:25461/live/Asia_package/12345/2688.ts
+#EXTINF:-1,USA: CBS Action
+http://142.4.218.121:25461/live/Asia_package/12345/2686.ts
+#EXTINF:-1,USA: BTN Sports HD
+http://142.4.218.121:25461/live/Asia_package/12345/2678.ts
+#EXTINF:-1,USA: Bein Sports US HD
+http://142.4.218.121:25461/live/Asia_package/12345/2672.ts
+#EXTINF:-1,USA: Astro Sports
+http://142.4.218.121:25461/live/Asia_package/12345/2682.ts
+#EXTINF:-1,USA: AMC HD
+http://142.4.218.121:25461/live/Asia_package/12345/2668.ts
+#EXTINF:-1,USA: AFN Sports 2
+http://142.4.218.121:25461/live/Asia_package/12345/2689.ts
+#EXTINF:-1,USA: AFN Sports 1
+http://142.4.218.121:25461/live/Asia_package/12345/2690.ts
+#EXTINF:-1,USA: ABC News HD
+http://142.4.218.121:25461/live/Asia_package/12345/2696.ts
+#EXTINF:-1,USA: A&E HD
+http://142.4.218.121:25461/live/Asia_package/12345/2673.ts
+#EXTINF:-1,AR: Jeem Kids ( ar )
+http://142.4.218.121:25461/live/Asia_package/12345/2687.ts
+#EXTINF:-1,AR: Jeem Kids
+http://142.4.218.121:25461/live/Asia_package/12345/1908.ts
+#EXTINF:-1,USA Sports 2
+http://142.4.218.121:25461/live/Asia_package/12345/1539.ts
+#EXTINF:-1,USA Sports
+http://142.4.218.121:25461/live/Asia_package/12345/1538.ts
+#EXTINF:-1,USA Spectrum
+http://142.4.218.121:25461/live/Asia_package/12345/1537.ts
+#EXTINF:-1,USA Prime Pacific
+http://142.4.218.121:25461/live/Asia_package/12345/1536.ts
+#EXTINF:-1,USA Prime Atlantic
+http://142.4.218.121:25461/live/Asia_package/12345/1535.ts
+#EXTINF:-1,SALVATION -TAMIL CHANNEL--NEWS
+http://142.4.218.121:25461/live/Asia_package/12345/1534.ts
+#EXTINF:-1,USA Movie
+http://142.4.218.121:25461/live/Asia_package/12345/1533.ts
+#EXTINF:-1,USA HD Sports
+http://142.4.218.121:25461/live/Asia_package/12345/1532.ts
+#EXTINF:-1,SKY SPORTS 2-1080P-CRICKET -IPTVPEARL
+http://142.4.218.121:25461/live/Asia_package/12345/1531.ts
+#EXTINF:-1,USA 8 ID Xtra HD
+http://142.4.218.121:25461/live/Asia_package/12345/1543.ts
+#EXTINF:-1,USA 8 DTX HD
+http://142.4.218.121:25461/live/Asia_package/12345/1540.ts
+#EXTINF:-1,USA 8 Discovery Science HD
+http://142.4.218.121:25461/live/Asia_package/12345/1542.ts
+#EXTINF:-1,USA 8 Discovery HD Showcase
+http://142.4.218.121:25461/live/Asia_package/12345/1541.ts
+#EXTINF:-1,ENCODER-4-Y CHANNEL PUNJABI-UK: TLC
+http://142.4.218.121:25461/live/Asia_package/12345/1175.ts
+#EXTINF:-1,COLORS UK-UK: Syfy
+http://142.4.218.121:25461/live/Asia_package/12345/1169.ts
+#EXTINF:-1,EN: 4 SEVEN (UK) -
+http://142.4.218.121:25461/live/Asia_package/12345/5215.ts
+#EXTINF:-1,EN: 5 STAR (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5216.ts
+#EXTINF:-1,EN: 5 USA
+http://142.4.218.121:25461/live/Asia_package/12345/5217.ts
+#EXTINF:-1,EN: ANIMAL PLANET (UK INFO)
+http://142.4.218.121:25461/live/Asia_package/12345/5218.ts
+#EXTINF:-1,EN: AUSTRALIA PLUS '
+http://142.4.218.121:25461/live/Asia_package/12345/5219.ts
+#EXTINF:-1,EN: BBC FOUR (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5220.ts
+#EXTINF:-1,EN: BBC NEWS (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5221.ts
+#EXTINF:-1,EN: BBC ONE (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5222.ts
+#EXTINF:-1,EN: BBC PARLIMENT (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5223.ts
+#EXTINF:-1,EN: BBC THREE (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5224.ts
+#EXTINF:-1,EN: BBC TWO (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5225.ts
+#EXTINF:-1,EN: BBC WORLD (NEWS)
+http://142.4.218.121:25461/live/Asia_package/12345/5226.ts
+#EXTINF:-1,EN: BBC1 SCOTLAND (UK) -
+http://142.4.218.121:25461/live/Asia_package/12345/5227.ts
+#EXTINF:-1,EN: BBC1 WALES
+http://142.4.218.121:25461/live/Asia_package/12345/5228.ts
+#EXTINF:-1,EN: BLAZE (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5229.ts
+#EXTINF:-1,EN: BLOOMBERG (NEWS)
+http://142.4.218.121:25461/live/Asia_package/12345/5230.ts
+#EXTINF:-1,EN: CBS ACTION (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5231.ts
+#EXTINF:-1,EN: CBS DRAMA (UK) -
+http://142.4.218.121:25461/live/Asia_package/12345/5232.ts
+#EXTINF:-1,EN: CBS REALITY (UK) -
+http://142.4.218.121:25461/live/Asia_package/12345/5233.ts
+#EXTINF:-1,EN: CHANNEL 4 (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5234.ts
+#EXTINF:-1,EN: CHANNEL 5 (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5235.ts
+#EXTINF:-1,EN: CHANNEL AKA (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5236.ts
+#EXTINF:-1,EN: CNC WORLD
+http://142.4.218.121:25461/live/Asia_package/12345/5237.ts
+#EXTINF:-1,EN: CNN EUROPE
+http://142.4.218.121:25461/live/Asia_package/12345/5238.ts
+#EXTINF:-1,EN: CNN INTERNATIONAL (NEWS)
+http://142.4.218.121:25461/live/Asia_package/12345/5239.ts
+#EXTINF:-1,EN: COMEDY CENTRAL (UK) -
+http://142.4.218.121:25461/live/Asia_package/12345/5240.ts
+#EXTINF:-1,EN: COMMUNITY CH (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5241.ts
+#EXTINF:-1,EN: CRIME AND INVESTIGATION (UK) -
+http://142.4.218.121:25461/live/Asia_package/12345/5242.ts
+#EXTINF:-1,EN: DAVE (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5243.ts
+#EXTINF:-1,EN: DISCOVERY (UK INFO)
+http://142.4.218.121:25461/live/Asia_package/12345/5244.ts
+#EXTINF:-1,EN: DISCOVERY HISTORY (UK INFO)
+http://142.4.218.121:25461/live/Asia_package/12345/5245.ts
+#EXTINF:-1,EN: DISCOVERY INVESTIGATION (UK INFO)
+http://142.4.218.121:25461/live/Asia_package/12345/5246.ts
+#EXTINF:-1,EN: DISCOVERY SCIENCE (UK INFO)
+http://142.4.218.121:25461/live/Asia_package/12345/5247.ts
+#EXTINF:-1,EN: DISCOVERY SHED (UK INFO)
+http://142.4.218.121:25461/live/Asia_package/12345/5248.ts
+#EXTINF:-1,EN: DISCOVERY TURBO (UK INFO)
+http://142.4.218.121:25461/live/Asia_package/12345/5249.ts
+#EXTINF:-1,EN: E! ENTERTAINMENT
+http://142.4.218.121:25461/live/Asia_package/12345/5250.ts
+#EXTINF:-1,EN: E4 (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5251.ts
+#EXTINF:-1,EN: FILM4 (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5252.ts
+#EXTINF:-1,EN: FINE LIVING NETWORK (UK) -
+http://142.4.218.121:25461/live/Asia_package/12345/5253.ts
+#EXTINF:-1,EN: FLAVA (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5254.ts
+#EXTINF:-1,EN: FOOD NETWORK (UK) *
+http://142.4.218.121:25461/live/Asia_package/12345/5299.ts
+#EXTINF:-1,EN: FORCES TV (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5255.ts
+#EXTINF:-1,EN: FOX (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5256.ts
+#EXTINF:-1,EN: FOX NEWS (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5257.ts
+#EXTINF:-1,EN: FX TV
+http://142.4.218.121:25461/live/Asia_package/12345/5259.ts
+#EXTINF:-1,EN: GINX ESPORTS (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5260.ts
+#EXTINF:-1,EN: GOLD (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5261.ts
+#EXTINF:-1,EN: HBO
+http://142.4.218.121:25461/live/Asia_package/12345/5262.ts
+#EXTINF:-1,EN: HEART TV (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5263.ts
+#EXTINF:-1,EN: HISTORY (UK INFO)
+http://142.4.218.121:25461/live/Asia_package/12345/5264.ts
+#EXTINF:-1,EN: HISTORY 2 (UK INFO)
+http://142.4.218.121:25461/live/Asia_package/12345/5265.ts
+#EXTINF:-1,EN: HOME (UK) -
+http://142.4.218.121:25461/live/Asia_package/12345/5266.ts
+#EXTINF:-1,EN: HOME AND HEALTH (UK INFO)
+http://142.4.218.121:25461/live/Asia_package/12345/5267.ts
+#EXTINF:-1,EN: HORROR CHANNEL (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5268.ts
+#EXTINF:-1,EN: ITV (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5269.ts
+#EXTINF:-1,EN: ITV BE (UK) -
+http://142.4.218.121:25461/live/Asia_package/12345/5270.ts
+#EXTINF:-1,EN: ITV ENCORE (UK) -
+http://142.4.218.121:25461/live/Asia_package/12345/5271.ts
+#EXTINF:-1,EN: ITV2 (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5272.ts
+#EXTINF:-1,EN: ITV3 (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5273.ts
+#EXTINF:-1,EN: ITV4 (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5274.ts
+#EXTINF:-1,EN: KEEP IT COUNTRY (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5275.ts
+#EXTINF:-1,EN: KUNG FU CLASSIC
+http://142.4.218.121:25461/live/Asia_package/12345/5276.ts
+#EXTINF:-1,EN: LIFE TIME (UK) -
+http://142.4.218.121:25461/live/Asia_package/12345/5277.ts
+#EXTINF:-1,EN: LIFE TIME 1 (UK) *
+http://142.4.218.121:25461/live/Asia_package/12345/5258.ts
+#EXTINF:-1,EN: LONDON LIVE (UK) -
+http://142.4.218.121:25461/live/Asia_package/12345/5278.ts
+#EXTINF:-1,EN: LOTUS MOVIES '
+http://142.4.218.121:25461/live/Asia_package/12345/5279.ts
+#EXTINF:-1,EN: M2O TV
+http://142.4.218.121:25461/live/Asia_package/12345/5280.ts
+#EXTINF:-1,EN: MAGIC TV (UK) -
+http://142.4.218.121:25461/live/Asia_package/12345/5281.ts
+#EXTINF:-1,EN: MORE4 (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5282.ts
+#EXTINF:-1,EN: MOVIES 4 MEN (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5283.ts
+#EXTINF:-1,EN: MOVIES NOW
+http://142.4.218.121:25461/live/Asia_package/12345/5284.ts
+#EXTINF:-1,EN: MTV BASE (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5285.ts
+#EXTINF:-1,EN: MTV DANCE (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5286.ts
+#EXTINF:-1,EN: MTV HITS (UK) -
+http://142.4.218.121:25461/live/Asia_package/12345/5287.ts
+#EXTINF:-1,EN: MTV MUSIC (UK) -
+http://142.4.218.121:25461/live/Asia_package/12345/5288.ts
+#EXTINF:-1,EN: MTV ROCKS (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5289.ts
+#EXTINF:-1,EN: NASA
+http://142.4.218.121:25461/live/Asia_package/12345/5290.ts
+#EXTINF:-1,EN: NAT GEO CHANNEL (UK INFO)
+http://142.4.218.121:25461/live/Asia_package/12345/5291.ts
+#EXTINF:-1,EN: NAT GEO WILD (UK INFO)
+http://142.4.218.121:25461/live/Asia_package/12345/5292.ts
+#EXTINF:-1,EN: NBC (USA)
+http://142.4.218.121:25461/live/Asia_package/12345/5293.ts
+#EXTINF:-1,EN: OIREACHTAS (UK) -
+http://142.4.218.121:25461/live/Asia_package/12345/5294.ts
+#EXTINF:-1,EN: PICK TV (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5295.ts
+#EXTINF:-1,EN: PSYCHIC TODAY
+http://142.4.218.121:25461/live/Asia_package/12345/5296.ts
+#EXTINF:-1,EN: QUEST (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5297.ts
+#EXTINF:-1,EN: REAL LIVES (INFO)
+http://142.4.218.121:25461/live/Asia_package/12345/5298.ts
+#EXTINF:-1,EN: REALLY (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5300.ts
+#EXTINF:-1,EN: RTE ONE (UK) -
+http://142.4.218.121:25461/live/Asia_package/12345/5301.ts
+#EXTINF:-1,EN: RTE TWO (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5302.ts
+#EXTINF:-1,EN: S4C (UK) -
+http://142.4.218.121:25461/live/Asia_package/12345/5303.ts
+#EXTINF:-1,EN: SHOW BIZ (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5304.ts
+#EXTINF:-1,EN: SKY 2 (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5305.ts
+#EXTINF:-1,EN: SKY ALIBI (UK) -
+http://142.4.218.121:25461/live/Asia_package/12345/5306.ts
+#EXTINF:-1,EN: SKY ARTS 1 (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5307.ts
+#EXTINF:-1,EN: SKY ATLANTIC (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5308.ts
+#EXTINF:-1,EN: SKY LIVING (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5309.ts
+#EXTINF:-1,EN: SKY MOVIES ACTION (UK) -
+http://142.4.218.121:25461/live/Asia_package/12345/5310.ts
+#EXTINF:-1,EN: SKY MOVIES CHRISTMAS (UK) -
+http://142.4.218.121:25461/live/Asia_package/12345/5311.ts
+#EXTINF:-1,EN: SKY MOVIES COMEDY (UK) -
+http://142.4.218.121:25461/live/Asia_package/12345/5312.ts
+#EXTINF:-1,EN: SKY MOVIES CRIME/THRILLER (UK) -
+http://142.4.218.121:25461/live/Asia_package/12345/5313.ts
+#EXTINF:-1,EN: SKY MOVIES DRAMA (UK) -
+http://142.4.218.121:25461/live/Asia_package/12345/5314.ts
+#EXTINF:-1,EN: SKY MOVIES FAMILY (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5315.ts
+#EXTINF:-1,EN: SKY MOVIES MODERN GREAT (UK) -
+http://142.4.218.121:25461/live/Asia_package/12345/5316.ts
+#EXTINF:-1,EN: SKY MOVIES PREMIER (UK) -
+http://142.4.218.121:25461/live/Asia_package/12345/5317.ts
+#EXTINF:-1,EN: SKY MOVIES SCiFi/HORROR (UK) -
+http://142.4.218.121:25461/live/Asia_package/12345/5318.ts
+#EXTINF:-1,EN: SKY MOVIES SELECT (UK) -
+http://142.4.218.121:25461/live/Asia_package/12345/5319.ts
+#EXTINF:-1,EN: SKY MOVIES SHOWCASE (UK) -
+http://142.4.218.121:25461/live/Asia_package/12345/5320.ts
+#EXTINF:-1,EN: SKY NEWS (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5321.ts
+#EXTINF:-1,EN: SKY ONE (UK) -
+http://142.4.218.121:25461/live/Asia_package/12345/5322.ts
+#EXTINF:-1,EN: SONY MOVIE (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5323.ts
+#EXTINF:-1,EN: SPIKE (UK) -
+http://142.4.218.121:25461/live/Asia_package/12345/5324.ts
+#EXTINF:-1,EN: STAR MOVIES
+http://142.4.218.121:25461/live/Asia_package/12345/5325.ts
+#EXTINF:-1,EN: SYFY (UK) -
+http://142.4.218.121:25461/live/Asia_package/12345/5326.ts
+#EXTINF:-1,EN: TCM (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5327.ts
+#EXTINF:-1,EN: TG4 (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5328.ts
+#EXTINF:-1,EN: TLC (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5329.ts
+#EXTINF:-1,EN: TRAVEL CHANNEL (UK INFO)
+http://142.4.218.121:25461/live/Asia_package/12345/5330.ts
+#EXTINF:-1,EN: TRAVEL XP HD (INFO)
+http://142.4.218.121:25461/live/Asia_package/12345/5331.ts
+#EXTINF:-1,EN: TRU CRIME (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5332.ts
+#EXTINF:-1,EN: TRU TV (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5333.ts
+#EXTINF:-1,EN: TRUE DRAMA (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5334.ts
+#EXTINF:-1,EN: TRUE ENTERTAINMENT (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5335.ts
+#EXTINF:-1,EN: TRUE MOVIES 1 (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5336.ts
+#EXTINF:-1,EN: TRUE MOVIES 2 (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5337.ts
+#EXTINF:-1,EN: UNIVERSAL (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5338.ts
+#EXTINF:-1,EN: UTV IRELAND (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5339.ts
+#EXTINF:-1,EN: V CHANNEL
+http://142.4.218.121:25461/live/Asia_package/12345/5340.ts
+#EXTINF:-1,EN: VH1 (UK) -
+http://142.4.218.121:25461/live/Asia_package/12345/5341.ts
+#EXTINF:-1,EN: VH1 CLASSIC (UK) -
+http://142.4.218.121:25461/live/Asia_package/12345/5342.ts
+#EXTINF:-1,EN: VICELAND (UK INFO)
+http://142.4.218.121:25461/live/Asia_package/12345/5343.ts
+#EXTINF:-1,EN: VINTAGE (UK) -
+http://142.4.218.121:25461/live/Asia_package/12345/5344.ts
+#EXTINF:-1,EN: VIVA HITS (UK) -
+http://142.4.218.121:25461/live/Asia_package/12345/5345.ts
+#EXTINF:-1,EN: WARNER BROTHERS
+http://142.4.218.121:25461/live/Asia_package/12345/5346.ts
+#EXTINF:-1,EN: WATCH (UK)
+http://142.4.218.121:25461/live/Asia_package/12345/5347.ts
+#EXTINF:-1,UK | Sky ScFiHorror Movies
+http://142.4.218.121:25461/live/Asia_package/12345/8154.ts
+#EXTINF:-1,UK | Sky Select Movies
+http://142.4.218.121:25461/live/Asia_package/12345/8153.ts
+#EXTINF:-1,UK | Sky Sp News HQ
+http://142.4.218.121:25461/live/Asia_package/12345/8152.ts
+#EXTINF:-1,UK | Sky Sports 1
+http://142.4.218.121:25461/live/Asia_package/12345/8151.ts
+#EXTINF:-1,UK | Sky Sports 2
+http://142.4.218.121:25461/live/Asia_package/12345/8150.ts
+#EXTINF:-1,UK | Sky Sports 3
+http://142.4.218.121:25461/live/Asia_package/12345/8149.ts
+#EXTINF:-1,UK | Sky Sports 4
+http://142.4.218.121:25461/live/Asia_package/12345/8148.ts
+#EXTINF:-1,UK | Sky Sports 5
+http://142.4.218.121:25461/live/Asia_package/12345/8147.ts
+#EXTINF:-1,UK | Sky Sports F1
+http://142.4.218.121:25461/live/Asia_package/12345/8146.ts
+#EXTINF:-1,UK | Sky Sports Mix
+http://142.4.218.121:25461/live/Asia_package/12345/8145.ts
+#EXTINF:-1,UK | Sky Thriller Movies
+http://142.4.218.121:25461/live/Asia_package/12345/8144.ts
+#EXTINF:-1,UK | Spike UK
+http://142.4.218.121:25461/live/Asia_package/12345/8143.ts
+#EXTINF:-1,UK | SyFy
+http://142.4.218.121:25461/live/Asia_package/12345/8142.ts
+#EXTINF:-1,UK | TCM
+http://142.4.218.121:25461/live/Asia_package/12345/8141.ts
+#EXTINF:-1,UK | TLC UK
+http://142.4.218.121:25461/live/Asia_package/12345/8140.ts
+#EXTINF:-1,UK | Travel Channel UK
+http://142.4.218.121:25461/live/Asia_package/12345/8139.ts
+#EXTINF:-1,UK | True Entertainment
+http://142.4.218.121:25461/live/Asia_package/12345/8138.ts
+#EXTINF:-1,UK | True Movies 1
+http://142.4.218.121:25461/live/Asia_package/12345/8137.ts
+#EXTINF:-1,UK | True Movies 2
+http://142.4.218.121:25461/live/Asia_package/12345/8136.ts
+#EXTINF:-1,UK | Universal Channel UK
+http://142.4.218.121:25461/live/Asia_package/12345/8135.ts
+#EXTINF:-1,UK | UTV
+http://142.4.218.121:25461/live/Asia_package/12345/8134.ts
+#EXTINF:-1,UK | VH1
+http://142.4.218.121:25461/live/Asia_package/12345/8133.ts
+#EXTINF:-1,UK | VH1 Classic
+http://142.4.218.121:25461/live/Asia_package/12345/8132.ts
+#EXTINF:-1,UK | Vintage UK
+http://142.4.218.121:25461/live/Asia_package/12345/8131.ts
+#EXTINF:-1,UK | Watch
+http://142.4.218.121:25461/live/Asia_package/12345/8130.ts
+#EXTINF:-1,UK | Yesterday
+http://142.4.218.121:25461/live/Asia_package/12345/8129.ts
+#EXTINF:-1,VIP | ASTRO SUPERSPORT 1
+http://142.4.218.121:25461/live/Asia_package/12345/8111.ts
+#EXTINF:-1,VIP | ASTRO SUPERSPORT 2
+http://142.4.218.121:25461/live/Asia_package/12345/8110.ts
+#EXTINF:-1,VIP | ASTRO SUPERSPORT 3
+http://142.4.218.121:25461/live/Asia_package/12345/8109.ts
+#EXTINF:-1,VIP | ASTRO SUPERSPORT 4
+http://142.4.218.121:25461/live/Asia_package/12345/8108.ts
+ 

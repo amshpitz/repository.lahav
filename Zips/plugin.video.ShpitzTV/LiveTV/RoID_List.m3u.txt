@@ -1,0 +1,122 @@
+##################################################
+# Channel1
+##################################################
+name=<Channel1> site=<כאן|11> url=<http://82.80.192.2/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8> icon=< >
+##################################################
+# Channel33
+##################################################
+name=<Channel33> site=<כאן|33> url=<http://82.80.192.27/ipbc_IPBCmakantvLVMRepeat/_definst_/smil:IPBCmakantvLVM.smil/playlist.m3u8> icon=< >
+
+
+##################################################
+# Kan11
+##################################################
+name =<Kan11> site=< > url=< > icon=< >
+
+##################################################
+# Channel10
+##################################################
+name=<Channel10> site=<ערוץ 10> url=<http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8> icon=< >
+
+##################################################
+# Channel2
+##################################################
+name=<Channel2> site=<NeveIlan link1> url=<http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile1.m3u8> icon=<https://raw.githubusercontent.com/RoidosDiamond/RoiD/master/Images/Channel2_v02.jpg>
+name=<Channel2> site=<NeveIlan link2> url=<http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile3.m3u8> icon=<https://raw.githubusercontent.com/RoidosDiamond/RoiD/master/Images/Channel2_v02.jpg>
+name=<Channel2> site=<ערוץ החדשות - קשת> url=<http://oklivetv.com/xplay/xplay.php?idds=4d5445324d51> icon=<https://raw.githubusercontent.com/RoidosDiamond/RoiD/master/Images/Channel2_v02.jpg>
+name=<Channel2> site=<ערוץ החדשות - רשת> url=<http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan01/_definst_/live/stream_profile1.m3u8> icon=<https://raw.githubusercontent.com/RoidosDiamond/RoiD/master/Images/Channel2_v02.jpg>
+
+
+##################################################
+# Channel20
+##################################################
+name=<Channel20> site=<ch20> url=<http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/high/chunks.m3u8> icon=<https://raw.githubusercontent.com/RoidosDiamond/RoiD/master/Images/Channel20_v02.jpg>
+name =<Channel20> site=<הדלפה> url=<http://www.hadlafa.net/p/20.html[CLOUDFLARE]> icon=<https://raw.githubusercontent.com/RoidosDiamond/RoiD/master/Images/Hadlafa_v02.jpg>
+
+##################################################
+# Channel21
+##################################################
+name=<Channel21> site=<ch21> url=<http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/playlist.m3u8> icon=<https://raw.githubusercontent.com/RoidosDiamond/RoiD/master/Images/Channel21_v02.jpg>
+
+##################################################
+# Channel24
+##################################################
+name=<Channel24> site=<keshet> url=<http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-b.m3u8> icon=<https://raw.githubusercontent.com/RoidosDiamond/RoiD/master/Images/Channel24_v02.jpg>
+
+##################################################
+# Kan33
+##################################################
+name =<Kan33> site=< > url=< > icon=< >
+
+##################################################
+# i24News
+##################################################
+name=<i24News> site=<i24News> url=<http://watchfomny.tv/Video/Israel/i24news/i24news.php> icon=<https://raw.githubusercontent.com/RoidosDiamond/RoiD/master/Images/i24News_v02.jpg>
+
+##################################################
+# Hidabroot
+##################################################
+
+##################################################
+# ILand
+##################################################
+name=<ILand> site=<ILand> url=<http://146.185.61.140:1935/live/myStream/playlist.m3u8> icon=<https://raw.githubusercontent.com/RoidosDiamond/RoiD/master/Images/ILand_v02.jpg>
+
+##################################################
+# SportOne
+##################################################
+name=<SportOne> site=<champions-il> url=<http://www.champions-il.us/p/one.html> icon=<https://raw.githubusercontent.com/RoidosDiamond/RoiD/master/Images/Champions_v02.jpg>
+
+##################################################
+# Sport1
+##################################################
+name=<Sport1> site=<Nivdal> url=<http://link.nivdal.win/2015/01/s9.html> icon=<https://raw.githubusercontent.com/RoidosDiamond/RoiD/master/Images/Nivdal_v02.jpg>
+name=<Sport1> site=<champions-il> url=<http://www.champions-il.us/p/stream-16.html> icon=<https://raw.githubusercontent.com/RoidosDiamond/RoiD/master/Images/Champions_v02.jpg>
+
+##################################################
+# Sport2
+##################################################
+name=<Sport2> site=<Nivdal> url=<http://link.nivdal.win/2014/04/s7.html> icon=<https://raw.githubusercontent.com/RoidosDiamond/RoiD/master/Images/Nivdal_v02.jpg>
+name=<Sport2> site=<champions-il> url=<http://www.champions-il.us/p/stream-17.html> icon=<https://raw.githubusercontent.com/RoidosDiamond/RoiD/master/Images/Champions_v02.jpg>
+name =<Sport2> site=<הדלפה> url=<http://www.hadlafa.net/sport2[CLOUDFLARE]> icon=<https://raw.githubusercontent.com/RoidosDiamond/RoiD/master/Images/Hadlafa_v02.jpg>
+
+##################################################
+# Sport3
+##################################################
+name=<Sport3> site=<champions-il> url=<http://www.champions-il.us/p/3_25.html> icon=<https://raw.githubusercontent.com/RoidosDiamond/RoiD/master/Images/Champions_v02.jpg>
+
+##################################################
+# Sport4
+##################################################
+name=<Sport4> site=<champions-il> url=<http://www.champions-il.us/p/4_25.html> icon=<https://raw.githubusercontent.com/RoidosDiamond/RoiD/master/Images/Champions_v02.jpg>
+
+##################################################
+# Sport5
+##################################################
+name=<Sport5> site=<Nivdal> url=<http://link.nivdal.win/2014/04/2_22.html> icon=<https://raw.githubusercontent.com/RoidosDiamond/RoiD/master/Images/Nivdal_v02.jpg>
+name=<Sport5> site=<champions-il> url=<http://www.champions-il.us/p/5_11.html> icon=<https://raw.githubusercontent.com/RoidosDiamond/RoiD/master/Images/Champions_v02.jpg>
+name =<Sport5> site=<Temp link 1 from Facebook 29.4> url=<http://www.facebook.com/video/playback/playlist.m3u8?v=619992021535917> icon=<https://raw.githubusercontent.com/RoidosDiamond/RoiD/master/Images/FacebookLive_v02.jpg>
+
+##################################################
+# Sport5plus
+##################################################
+name=<Sport5plus> site=<champions-il> url=<http://www.champions-il.us/p/5.html> icon=<https://raw.githubusercontent.com/RoidosDiamond/RoiD/master/Images/Champions_v02.jpg>
+
+##################################################
+# Sport5live
+##################################################
+name=<Sport5live> site=<Nivdal> url=<http://link.nivdal.win/2014/11/s8.html> icon=<https://raw.githubusercontent.com/RoidosDiamond/RoiD/master/Images/Nivdal_v02.jpg>
+name=<Sport5live> site=<champions-il> url=<http://www.champions-il.us/p/5_14.html> icon=<https://raw.githubusercontent.com/RoidosDiamond/RoiD/master/Images/Champions_v02.jpg>
+
+##################################################
+# Sport5gold
+##################################################
+name =Sport5gold> site=<ProTV> url=<http://www.protv.today/p/sport-5-plus-gold.html> icon=<https://raw.githubusercontent.com/RoidosDiamond/RoiD/master/Images/ProTV_v02.jpg>
+name=<Sport5gold> site=<champions-il> url=<http://www.champions-il.us/p/5_79.html> icon=<https://raw.githubusercontent.com/RoidosDiamond/RoiD/master/Images/Champions_v02.jpg>
+name =<Sport5gold> site=<הדלפה> url=<http://www.hadlafa.net/sport5-gold[CLOUDFLARE]> icon=<https://raw.githubusercontent.com/RoidosDiamond/RoiD/master/Images/Hadlafa_v02.jpg>
+
+
+##################################################
+# More
+##################################################
+CHname =<xxxxxx> url=<xxxxxx> icon=<xxxxxx>

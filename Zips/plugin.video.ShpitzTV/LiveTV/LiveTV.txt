@@ -1,0 +1,102 @@
+<layouttype>thumbnail</layouttype>
+
+
+
+<channels>
+<channel>
+<name>All</name>
+<thumbnail>https://cdn2.iconfinder.com/data/icons/dark-action-bar-2/96/select_all-512.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/fouzo14/SuperEliteIptv/master/LiveTV/ALL/All.txt</externallink>
+<fanart>http://www.nicovdmeulen.com/wp-content/uploads/2013/11/Nico-van-der-Meulen-glass-house-50.jpg</fanart>
+<info> </info>
+</channel>
+
+<channel>
+<name>Israel Live TV</name>
+<thumbnail>https://cdn3.iconfinder.com/data/icons/glypho-movie-and-video/64/theater-masks-512.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/IsraelLive.xml</externallink>
+<fanart>http://www.nicovdmeulen.com/wp-content/uploads/2013/11/Nico-van-der-Meulen-glass-house-50.jpg</fanart>
+<info> </info>
+</channel>
+
+<channel>
+<name>Israel Sport Live</name>
+<thumbnail>https://cdn3.iconfinder.com/data/icons/glypho-movie-and-video/64/theater-masks-512.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/IsraelSport.xml</externallink>
+<fanart>http://www.nicovdmeulen.com/wp-content/uploads/2013/11/Nico-van-der-Meulen-glass-house-50.jpg</fanart>
+<info> </info>
+</channel>
+
+<channel>
+<name>Israel YES Live</name>
+<thumbnail>https://cdn3.iconfinder.com/data/icons/glypho-movie-and-video/64/theater-masks-512.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/IsraelYES.xml</externallink>
+<fanart>http://www.nicovdmeulen.com/wp-content/uploads/2013/11/Nico-van-der-Meulen-glass-house-50.jpg</fanart>
+<info> </info>
+</channel>
+
+<channel>
+<name>Israel HOT Live</name>
+<thumbnail>https://cdn3.iconfinder.com/data/icons/glypho-movie-and-video/64/theater-masks-512.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/IsraelHOT.xml</externallink>
+<fanart>http://www.nicovdmeulen.com/wp-content/uploads/2013/11/Nico-van-der-Meulen-glass-house-50.jpg</fanart>
+<info> </info>
+</channel>
+
+<channel>
+<name>Music Live</name>
+<thumbnail>https://cdn3.iconfinder.com/data/icons/glypho-movie-and-video/64/theater-masks-512.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/MusicLive.xml</externallink>
+<fanart>http://www.nicovdmeulen.com/wp-content/uploads/2013/11/Nico-van-der-Meulen-glass-house-50.jpg</fanart>
+<info> </info>
+</channel>
+
+<channel>
+<name>Israel Entertainment</name>
+<thumbnail>https://cdn3.iconfinder.com/data/icons/glypho-movie-and-video/64/theater-masks-512.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/IsraelEntertainment.xml</externallink>
+<fanart>http://www.nicovdmeulen.com/wp-content/uploads/2013/11/Nico-van-der-Meulen-glass-house-50.jpg</fanart>
+<info> </info>
+</channel>
+
+<channel>
+<name>Entertainment</name>
+<thumbnail>https://cdn3.iconfinder.com/data/icons/glypho-movie-and-video/64/theater-masks-512.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/fouzo14/SuperEliteIptv/master/LiveTV/Entertainment/Entertainment.xml</externallink>
+<fanart>http://www.nicovdmeulen.com/wp-content/uploads/2013/11/Nico-van-der-Meulen-glass-house-50.jpg</fanart>
+<info> </info>
+</channel>
+
+<channel>
+<name>Kids</name>
+<thumbnail>http://mallishok.ru/wp-content/uploads/2014/11/%D0%B8%D0%B3%D1%80%D1%83%D1%88%D0%BA%D0%B82.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/fouzo14/SuperEliteIptv/master/LiveTV/kids/kids.xml</externallink>
+<fanart>http://www.nicovdmeulen.com/wp-content/uploads/2013/11/Nico-van-der-Meulen-glass-house-50.jpg</fanart>
+<info> </info>
+</channel>
+
+<channel>
+<name>News</name>
+<thumbnail>http://www.a1dedicatedservers.com/images/news.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/fouzo14/SuperEliteIptv/master/LiveTV/News/News.xml</externallink>
+<fanart>http://www.nicovdmeulen.com/wp-content/uploads/2013/11/Nico-van-der-Meulen-glass-house-50.jpg</fanart>
+<info> </info>
+</channel>
+
+<channel>
+<name>Sports</name>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sport_balls.svg/2000px-Sport_balls.svg.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/fouzo14/SuperEliteIptv/master/LiveTV/Sports/Sports.xml</externallink>
+<fanart>http://www.nicovdmeulen.com/wp-content/uploads/2013/11/Nico-van-der-Meulen-glass-house-50.jpg</fanart>
+<info> </info>
+</channel>
+
+<channel>
+<name>Spanish</name>
+<thumbnail>http://www.ibiza-hotels.com/tour_guide/spanish_logo.gif</thumbnail>
+<externallink>https://raw.githubusercontent.com/fouzo14/SuperEliteIptv/master/LiveTV/Spanish/Spanish.xml</externallink>
+<fanart>http://www.nicovdmeulen.com/wp-content/uploads/2013/11/Nico-van-der-Meulen-glass-house-50.jpg</fanart>
+<info> </info>
+</channel>
+
+</channels>
