@@ -12,6 +12,14 @@
 </channel>
 
 <channel>
+<name>TV Show</name>
+<thumbnail>http://img2.turbomilk.com/portfolio/new/an-msdn-tv-logo.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/TVShow.txt</externallink>
+<fanart>http://img.talkandroid.com/uploads/2016/09/movie-theater.jpg</fanart>
+<info> </info>
+</channel>
+
+<channel>
 <name>Movies</name>
 <thumbnail>http://icons.iconarchive.com/icons/designbolts/free-multimedia/1024/Clapper-icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/fouzo14/SuperEliteIptv/master/Movies/movies.txt</externallink>
