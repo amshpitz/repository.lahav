@@ -1,13 +1,13 @@
 <item>
 <title>Batman v Superman: Dawn of Justice</title>
-<link>http://dl2.heydl.org/film/2016-7/Batman.v.Superman.Dawn.of.Justice.2016.EXTENDED.1080p.5.1CH.HeyDL.mkv</link>
+<link>http:https://watchseries-online.pl/episode/power-s04e02</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
 <fanart>http://www.mediastinger.com/wp-content/uploads/2016/01/Batman-v-Superman-Dawn-of-Justice-2016-after-credits-hq.jpg</fanart>
 <info>Fearing that the actions of Superman are left unchecked, Batman takes on the Man of Steel, while the world wrestles with what kind of a hero it really needs.</info>
 </item>
 <item>
 <title>Captain America: The Winter Soldier</title>
-<link>http://dl2.heydl.org/film/2016-4/1/Captain.America.The.Winter.Soldier.2014.1080p.5.1CH.HeyDL.mkv</link>
+<link>https://gomovies.is/film/the-loch-season-01-21040/</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzA2NDkwODAwM15BMl5BanBnXkFtZTgwODk5MTgzMTE@._V1_SY1000_CR0,0,685,1000_AL_.jpg</thumbnail>
 <fanart>http://cdn.wallpapersafari.com/54/82/kjS2Xe.jpg</fanart>
 <info>As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat from history: an assassin known as the Winter Soldier.</info>
