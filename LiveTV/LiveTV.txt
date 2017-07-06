@@ -67,6 +67,13 @@
 <info> </info>
 </channel>
 
+<name>UK Live TV</name>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/icon_uk_channel.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/UKchannels.xml</externallink>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/icon_uk_channel.jpg</fanart>
+<info> </info>
+</channel>
+
 <channel>
 <name>Entertainment</name>
 <thumbnail>https://cdn3.iconfinder.com/data/icons/glypho-movie-and-video/64/theater-masks-512.png</thumbnail>
