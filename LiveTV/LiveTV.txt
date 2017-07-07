@@ -84,9 +84,9 @@
 </channel>
 
 <channel>
-<name>Fido UK Live TV</name>
+<name>Fido Sport Live TV</name>
 <thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/icon_uk_channel.jpg<</thumbnail>
-<externallink>http://fantazyrepo.uk/addonimages/fido.addon/Livetv/uk.new.xml</externallink>
+<externallinkhttp://fantazyrepo.uk/addonimages/fido.addon/Livetv/sport.new.xml</externallink>
 <fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/icon_uk_channel.jpg<</fanart>
 <info> </info>
 </channel>
