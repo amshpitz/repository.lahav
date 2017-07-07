@@ -76,9 +76,9 @@
 </channel>
 
 <channel>
-<name>Fido USA Live TV</name>
+<name>Fido UK AND USA Live TV</name>
 <thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/US-TV.jpg</thumbnail>
-<externallink>http://fantazyrepo.uk/addonimages/fido.addon/Livetv/usa.new.xml</externallink>
+<externallink>http://fantazyrepo.uk/addonimages/fido.addon/Livetv/ukandusa.new.xml</externallink>
 <fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/US-TV.jpg</fanart>
 <info> </info>
 </channel>
