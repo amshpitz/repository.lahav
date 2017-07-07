@@ -1,7 +1,8 @@
 
+
 <item>
-<title>USA: A&E</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/9315.ts</link>
+<title>USA LIST</title>
+<link>plugin://plugin.video.Fido/?fanart=http://fantazyrepo.uk/addonimages/livetv/LiveTV.jpg&mode=1&name=USA&url=http://bit.ly/2oBuRa9</link>
 <thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/US-TV.jpg?height=149&width=200</thumbnail>
 <fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/US-TV.jpg</fanart>
 </item>
