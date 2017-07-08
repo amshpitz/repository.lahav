@@ -1,6 +1,20 @@
 <item>
     
 <item>
+<title>TEST Dance Workout</title>
+<link>ignorme</link>
+<jsonrpc>
+plugin://plugin.video.youtube/channel/UCbqgDzBvusOKtSWvoePrjLA/playlist/PL9vsk6jg0N5yJhKn25rktanAhuTS9ILjo/
+</jsonrpc>
+<thumbnail>
+https://yt3.ggpht.com/-DQAbvRvgqho/AAAAAAAAAAI/AAAAAAAAAAA/P2o8x0G7TnU/s288-c-k-no-mo-rj-c0xffffff/photo.jpg
+</thumbnail>
+<fanart>
+http://fantazyrepo.uk/addonimages/fido.addon/Fitness/fitness.jpg
+</fanart>
+</item>
+
+<item>
 <title>30 Mins Aerobic Dance Workout</title>
 <link>ignorme</link>
 <jsonrpc>
