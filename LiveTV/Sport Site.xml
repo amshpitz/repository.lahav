@@ -4,7 +4,7 @@
 <title>LiveTV.ru</title>
 <link>ignorme</link>
 <jsonrpc>
-plugin://plugin.video.SportsDevil/?item=title=LiveTV.ru&url=livesports%2Flivetv.ru.cfg&definedIn=livesports.cfg&director=LiveTV.ru
+plugin://plugin.video.SportsDevil/?mode=1&item=title=LiveTV.ru&url=livesports%2Flivetv.ru.cfg&definedIn=livesports.cfg&director=LiveTV.ru
 </jsonrpc>
 <thumbnail>
 https://yt3.ggpht.com/-DQAbvRvgqho/AAAAAAAAAAI/AAAAAAAAAAA/P2o8x0G7TnU/s288-c-k-no-mo-rj-c0xffffff/photo.jpg
