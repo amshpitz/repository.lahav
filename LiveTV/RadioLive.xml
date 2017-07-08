@@ -1,0 +1,44 @@
+
+<item>
+<title>כאן ב</title>
+<link>http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCbetLAM</link>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/Radio/kan_BET.jpg?height=149&width=200</thumbnail>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/Radio/kan_BET.jpg</fanart>
+</item>
+<item>
+<title>100 FM</title>
+<link>http://100fm.streamgates.net/Radios100Fm</link>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/Radio/100fm.jpg?height=149&width=200</thumbnail>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/Radio/100fm.jpg</fanart>
+</item>
+<item>
+<title>102 FM</title>
+<link>http://102.livecdn.biz/102fm_aac</link>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/Radio/102fm.jpg?height=149&width=200</thumbnail>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/Radio/102fm.jpg</fanart>
+</item>
+<item>
+<title>103 FM</title>
+<link>http://103fm.live.streamgates.net/103fm_live/1multix/icecast.audio</link>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/Radio/103fm.jpg?height=149&width=200</thumbnail>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/Radio/103fm.jpg</fanart>
+</item>
+<item>
+<title>גלצ</title>
+<link>http://glzwizzlv.bynetcdn.com/glz/glz_aac/playlist.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/Radio/galz.jpg?height=149&width=200</thumbnail>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/Radio/galz.jpg</fanart>
+</item>
+<item>
+<title>גלגלצ</title>
+<link>http://glzwizzlv.bynetcdn.com/glglz/glglz_aac/playlist.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/Radio/galgalz.jpg?height=149&width=200</thumbnail>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/Radio/galgalz.jpg</fanart>
+</item>
+
+<item>
+<title>TEST CNN</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://145.239.108.17:6500/live/walter128/tQhhin9J/8692.ts</link>
+<thumbnail>https://sites.google.com/site/immiszalik/_/rsrc/1472847832919/2-miznarodni-agenciie-novin-cnn-vvs-reuters-ta-insi/BBC_WorldNews_Stack_Rev_RGB%20%281%29.jpg?height=149&width=200</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/0e/c8/ad/0ec8ad5cdac8be4bb2eddc605e8e1947.jpg</fanart>
+</item>
