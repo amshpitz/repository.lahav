@@ -36,20 +36,20 @@
 </channel>
 
 <channel>
+<name>Oblivion IPTV</name>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/165a5801.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/OblivionIPTV.xml</externallink>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/165a5801.jpg</fanart>
+<info> </info>
+</channel>
+
+<channel>
 <name>WORLD CAMS Live</name>
 <thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/icon_uk_channel.jpg<</thumbnail>
 <externallink>http://fantazyrepo.uk/addonimages/fido.addon/Livetv/webcams.new.xml</externallink>
 <fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/icon_uk_channel.jpg<</fanart>
 <info> </info>
 </channel>
-
-<item>
-<title>[COLOR blue]>>> Sports Devil Live TV >>>[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/</jsonrpc>
-<thumbnail>http://maverickrepo.net/data/iptvicon.png</thumbnail>
-<fanart></fanart>
-</item>
 
 <channel>
 <name>Movies</name>
