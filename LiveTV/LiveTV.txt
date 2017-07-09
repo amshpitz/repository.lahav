@@ -125,14 +125,6 @@
 </channel>
 
 <channel>
-<name>Fido WORLD CAMS Live</name>
-<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/icon_uk_channel.jpg<</thumbnail>
-<externallink>http://fantazyrepo.uk/addonimages/fido.addon/Livetv/webcams.new.xml</externallink>
-<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/icon_uk_channel.jpg<</fanart>
-<info> </info>
-</channel>
-
-<channel>
 <name>Fido WORLD SPORTS CHANNELS</name>
 <thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/icon_uk_channel.jpg<</thumbnail>
 <externallink>http://fantazyrepo.uk/addonimages/fido.addon/Livetv/sport.new.xml</externallink>
