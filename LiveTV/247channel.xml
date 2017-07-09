@@ -41,9 +41,9 @@ http://fantazyrepo.uk/addonimages/newmovies/newmovies.jpg
 </item>
 
 <item>
-<title>[COLORblue]LiveTV.ru [/COLOR]</title>
+<title>[COLORblue]http://livetv.sx [/COLOR]</title>
 <sportsdevil>http://livetv.sx/enx/allupcoming/</sportsdevil>
-<referer>http://www.LiveTV.ru</referer>
+<referer>http://livetv.sx</referer>
 <thumbnail>
 http://static.comicvine.com/uploads/original/7/74477/2285030-enterprise_meet_star_destroyer_b.jpg
 </thumbnail>
@@ -64,6 +64,19 @@ http://static.comicvine.com/uploads/original/7/74477/2285030-enterprise_meet_sta
 http://fantazyrepo.uk/addonimages/newmovies/newmovies.jpg
 </fanart>
 </item>
+
+<item>
+<title>[COLORblue]http://livetv.sx [/COLOR]</title>
+<sportsdevil>http://livetv.sx/enx/allupcoming/</sportsdevil>
+<referer>http://livetv.sx</referer>
+<thumbnail>
+http://static.comicvine.com/uploads/original/7/74477/2285030-enterprise_meet_star_destroyer_b.jpg
+</thumbnail>
+<fanart>
+http://fantazyrepo.uk/addonimages/newmovies/newmovies.jpg
+</fanart>
+</item>
+
 <item>
 <title>
 [COLORblue]Harry Potter vs Lord Of The Rings [/COLOR]
