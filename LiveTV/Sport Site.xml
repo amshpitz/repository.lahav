@@ -9,9 +9,9 @@
 </item>
 
 <item>
-<title>[COLOR blue]>>> LiveTV.RU Sports Devil Live TV 3 >>>[/COLOR]</title>
+<title>[COLOR blue]>>> LiveTV.RU Sports Devil Live TV 4 >>>[/COLOR]</title>
 <link>ignorme</link>
-<jsonrpc>plugin.video.SportsDevil/?mode=1&item=title%3DLiveTV.ru%26url%3Dlivesports%252Flivetv.ru.cfg</jsonrpc>
+<jsonrpc>plugin.video.SportsDevil/?mode=1&item=title%3DLiveTV.ru</jsonrpc>
 <thumbnail>http://maverickrepo.net/data/iptvicon.png</thumbnail>
 <fanart></fanart>
 </item>
