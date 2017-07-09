@@ -11,7 +11,7 @@
 <item>
 <title>[COLOR blue]>>> LiveTV.RU Sports Devil Live TV >>>[/COLOR]</title>
 <link>ignorme</link>
-<jsonrpc>plugin.video.SportsDevil%2f%3fmode%3d1%26item%3dtitle%253DLiveTV.ru%2526url%253Dlivesports%25252Flivetv.ru.cfg%2526definedIn%253Dlivesports.cfg%2526director%253DLiveTV.ru%2526genre%253DLive%252BSports%2526type%253Drss</jsonrpc>
+<jsonrpc>plugin.video.SportsDevil/?mode=1&item=title%3DLiveTV.ru%26url%3Dlivesports%252Flivetv.ru.cfg%26definedIn%3Dlivesports.cfg%26director%3DLiveTV.ru</jsonrpc>
 <thumbnail>http://maverickrepo.net/data/iptvicon.png</thumbnail>
 <fanart></fanart>
 </item>
