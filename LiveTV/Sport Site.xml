@@ -9,17 +9,11 @@
 </item>
 
 <item>
-<title>BeFit</title>
+<title>[COLOR blue]>>> LiveTV.RU Sports Devil Live TV >>>[/COLOR]</title>
 <link>ignorme</link>
-<jsonrpc>
-Plugin://plugin.video.youtube/channel/UCD0nBMLdq_KbIK9u-mzpNkA/playlists/?page=1
-</jsonrpc>
-<thumbnail>
-https://yt3.ggpht.com/-H6YodrSuTiQ/AAAAAAAAAAI/AAAAAAAAAAA/mcMy87MgLEI/s288-c-k-no-mo-rj-c0xffffff/photo.jpg
-</thumbnail>
-<fanart>
-http://fantazyrepo.uk/addonimages/fido.addon/Fitness/fitness.jpg
-</fanart>
+<jsonrpc>plugin.video.SportsDevil/?mode=1&item=title%3DLiveTV.ru%26url%3Dlivesports%252Flivetv.ru.cfg%26definedIn%3Dlivesports.cfg%26director%3DLiveTV.ru%26genre%3DLive%2BSports%26type%3Drss</jsonrpc>
+<thumbnail>http://maverickrepo.net/data/iptvicon.png</thumbnail>
+<fanart></fanart>
 </item>
 
 
