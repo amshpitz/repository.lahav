@@ -36,9 +36,9 @@
 </channel>
 
 <channel>
-<name>Oblivion IPTV</name>
+<name>Supremacy Live</name>
 <thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/165a5801.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/OblivionIPTV.xml</externallink>
+<externallink>http://stephen-builds.uk/supremacy/LiveTV/live.txt</externallink>
 <fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/165a5801.jpg</fanart>
 <info> </info>
 </channel>
