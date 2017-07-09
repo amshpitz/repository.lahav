@@ -1,17 +1,11 @@
 <item>
 
 <item>
-<title>LiveTV.ru</title>
+<title>[COLOR blue]>>> Sports Devil Live TV >>>[/COLOR]</title>
 <link>ignorme</link>
-<jsonrpc>
-plugin://plugin.video.SportsDevil/?mode=1
-</jsonrpc>
-<thumbnail>
-https://yt3.ggpht.com/-DQAbvRvgqho/AAAAAAAAAAI/AAAAAAAAAAA/P2o8x0G7TnU/s288-c-k-no-mo-rj-c0xffffff/photo.jpg
-</thumbnail>
-<fanart>
-http://fantazyrepo.uk/addonimages/fido.addon/Fitness/fitness.jpg
-</fanart>
+<jsonrpc>plugin://plugin.video.SportsDevil/</jsonrpc>
+<thumbnail>http://maverickrepo.net/data/iptvicon.png</thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
