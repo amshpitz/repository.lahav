@@ -28,10 +28,10 @@
 </channel>
 
 <channel>
-<name>From Site</name>
-<thumbnail>http://img2.turbomilk.com/portfolio/new/an-msdn-tv-logo.png</thumbnail>
-<externallink>plugin://plugin.video.SportsDevil/?item=title=LiveTV.ru&url=livesports%2Flivetv.ru.cfg&definedIn=livesports.cfg&director=LiveTV.ru&genre=Live+Sports&type=rss&icon=D%3A%5Ckodi173_TEST%5Capp%5Cportable_data%5Caddons%5Cplugin.video.SportsDevil%5Cresources%5Cimages%5Clivetv_ru.png</externallink>
-<fanart>http://img.talkandroid.com/uploads/2016/09/movie-theater.jpg</fanart>
+<name>Maverick TV</name>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/165a5801.jpg</thumbnail>
+<externallink>http://maverickrepo.net/data/home/home.xml</externallink>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/165a5801.jpg</fanart>
 <info> </info>
 </channel>
 
