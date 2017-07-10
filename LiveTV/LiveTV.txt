@@ -67,6 +67,14 @@
 </channel>
 
 <channel>
+<name>UKTurk Sport Live</name>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/fitness.jpg</thumbnail>
+<externallink>http://addoncloud.org/ukturk/UKTurk/SportsList.txt</externallink>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/fitness.jpg</fanart>
+<info> </info>
+</channel>
+
+<channel>
 <name>UK Live TV</name>
 <thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/icon_uk_channel.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/UKchannels.xml</externallink>
@@ -82,29 +90,6 @@
 <info> </info>
 </channel>
 
-<channel>
-<name>Fido USA Live TV</name>
-<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/US-TV.jpg</thumbnail>
-<externallink>http://fantazyrepo.uk/addonimages/fido.addon/Livetv/usa.new.xml</externallink>
-<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/US-TV.jpg</fanart>
-<info> </info>
-</channel>
-
-<channel>
-<name>Fido Sport Live TV</name>
-<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/icon_uk_channel.jpg<</thumbnail>
-<externallink>http://fantazyrepo.uk/addonimages/fido.addon/Livetv/sport.new.xml</externallink>
-<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/icon_uk_channel.jpg<</fanart>
-<info> </info>
-</channel>
-
-<channel>
-<name>Fido UK Live TV</name>
-<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/icon_uk_channel.jpg<</thumbnail>
-<externallink>http://fantazyrepo.uk/addonimages/fido.addon/Livetv/uk.new.xml</externallink>
-<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/icon_uk_channel.jpg<</fanart>
-<info> </info>
-</channel>
 
 <channel>
 <name>Fido Music Live TV</name>
