@@ -296,7 +296,7 @@
     <email>ramicspa@gmail.com</email>
   </extension>
 </addon>
-    
+
 <addon id="plugin.video.ShpitzTV"
        name="ShpitzTV IPTV"
        version="1.0.1"
@@ -505,71 +505,77 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.phstreams" name="Phoenix" version="3.2.3" provider-name="tvaddons.ag">
-	<requires>
-		<import addon="xbmc.python" version="2.1.0" />
-		<import addon="plugin.video.youtube" version="5.2.1" optional="true" />
-		<import addon="script.module.pyxbmct" version="1.1.4" />
-		<import addon="script.module.urlresolver" version="3.0.0"/>
-		<import addon="script.module.liveresolver" version="0.1.24"/>
-		<import addon="script.video.F4mProxy" version="2.2.3"/>
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="default.py">
-		<provides>video</provides>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Phoenix</summary>
-		<description lang="en">Discover Great Streaming Playlists, Please visit www.tvaddons.ag for help and support!</description>
-		<platform>all</platform>
-		<forum>http://forums.tvaddons.ag/forums/220-PHOENIX-LIVE-STREAMS</forum>
-		<website>http://www.tvaddons.ag/</website>
-		<assets>
-			<icon>icon.png</icon>
-			<fanart>fanart.jpg</fanart>
-			<screenshot>resources/screenshots/screenshot-01.jpg</screenshot>
-			<screenshot>resources/screenshots/screenshot-02.jpg</screenshot>
-			<screenshot>resources/screenshots/screenshot-03.jpg</screenshot>
-		</assets>
-		<news>Updated Providers</news>
-	</extension>
-</addon>
-
-<addon id="plugin.video.ukturk" name="UK Turk Playlists" version="3.0.29" provider-name="MetalKettle">
+<addon id="plugin.video.MaverickTV"
+       name="Maverick TV"
+       version="5.0"
+       provider-name="Maverick">
   <requires>
-    <import addon="script.module.simplejson" version="3.3.0"/>
     <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.t0mm0.common" version="2.0.0"/>
+	<import addon="script.module.t0mm0.common" version="2.0.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.youtube.dl" optional="true"/>
     <import addon="plugin.video.youtube" version="3.0.0"/>
-    <import addon="script.module.urlresolver"  version="2.1.2"/>
+    <import addon="script.module.urlresolver" />
+    <import addon="script.module.simplejson" />
     <import addon="script.common.plugin.cache" version="2.5.2"/>
     <import addon="script.module.metahandler" version="2.5.1"/>
-    <import addon="script.video.F4mProxy" version="2.5.3"/>
-    <import addon="script.module.liveresolver" version="0.1.24"/>
+
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">Free Playlists courtesy of @uk_turk</summary>
-    <description lang="en">Free Playlists courtesy of @uk_turk</description>
-    <platform>all</platform>
-  </extension>
-</addon>
-<addon id="plugin.video.Vodil" name="Vod IL" version="1.2.2" provider-name="kodi senyor">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="plugin.video.youtube"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="addon.py">
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <language>he</language>
-    <summary lang="he">הרחבה לצפיה בסרטונים מיוטיוב</summary>
-    <description lang="he">הרחבה לצפיה בתכנים מיוטיוב</description>
-    <disclaimer lang="en">kodi senyor Is Not Affiliated With The Content In This Addon</disclaimer>
+    <summary lang="en">Maverick TV</summary>
+    <description lang="en">Maverick TV</description>
     <platform>all</platform>
   </extension>
+</addon>
+
+<addon id="plugin.video.ukturk" name="UK Turk Playlists" version="4.0.9" provider-name="UKTurk">
+
+  <requires>
+
+    <import addon="script.module.simplejson" version="3.3.0"/>
+
+    <import addon="xbmc.python" version="2.1.0"/>
+
+    <import addon="script.module.t0mm0.common" version="2.0.0"/>
+
+    <import addon="plugin.video.youtube" version="3.0.0"/>
+
+    <import addon="script.module.urlresolver"  version="2.1.2"/>
+
+    <import addon="script.common.plugin.cache" version="2.5.2"/>
+
+    <import addon="script.module.metahandler" version="2.5.1"/>
+
+    <import addon="script.video.F4mProxy" version="2.5.3"/>
+
+    <import addon="script.module.liveresolver" version="0.1.24"/>
+
+  </requires>
+
+  <extension point="xbmc.python.pluginsource" library="default.py">
+
+        <provides>video</provides>
+
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+
+    <summary lang="en">Free Playlists courtesy of @uk_turk</summary>
+
+    <description lang="en">Free Playlists courtesy of @uk_turk</description>
+
+    <platform>all</platform>
+
+  </extension>
+
 </addon>
 
 <addon id="plugin.video.ZemTV-shani"
