@@ -1,0 +1,64 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+
+<channel>
+<name>TV Show</name>
+<thumbnail>http://img2.turbomilk.com/portfolio/new/an-msdn-tv-logo.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/TVShow.txt</externallink>
+<fanart>http://img.talkandroid.com/uploads/2016/09/movie-theater.jpg</fanart>
+<info> </info>
+</channel>
+
+<channel>
+<name>Falcon TV Show</name>
+<thumbnail>http://img2.turbomilk.com/portfolio/new/an-msdn-tv-logo.png</thumbnail>
+<externallink>http://ajbuilds.uk/falcon/tv_shows.xml</externallink>
+<fanart>http://img.talkandroid.com/uploads/2016/09/movie-theater.jpg</fanart>
+<info> </info>
+</channel>
+
+<channel>
+<name>Maverick TV</name>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/165a5801.jpg</thumbnail>
+<externallink>http://maverickrepo.net/data/home/home.xml</externallink>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/165a5801.jpg</fanart>
+<info> </info>
+</channel>
+
+<channel>
+<name>WORLD CAMS Live</name>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/icon_uk_channel.jpg<</thumbnail>
+<externallink>http://fantazyrepo.uk/addonimages/fido.addon/Livetv/webcams.new.xml</externallink>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/icon_uk_channel.jpg<</fanart>
+<info> </info>
+</channel>
+
+<channel>
+<name>Movies</name>
+<thumbnail>http://icons.iconarchive.com/icons/designbolts/free-multimedia/1024/Clapper-icon.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/fouzo14/SuperEliteIptv/master/Movies/movies.txt</externallink>
+<fanart>http://img.talkandroid.com/uploads/2016/09/movie-theater.jpg</fanart>
+<info> </info>
+</channel>
+
+<channel>
+<name>Kids</name>
+<thumbnail>http://daily-devotional.org/wp-content/uploads/2016/10/15517160600_8f5cdf7816_o.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/fouzo14/SuperEliteIptv/master/Kids/Kids.txt</externallink>
+<fanart>http://img.talkandroid.com/uploads/2016/09/movie-theater.jpg</fanart>
+<info> </info>
+</channel>
+
+<channel>
+<name>3D</name>
+<thumbnail>https://cdn3.iconfinder.com/data/icons/3d-printing-icon-set/512/3d.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/fouzo14/SuperEliteIptv/master/3D/3D.txt</externallink>
+<fanart>http://img.talkandroid.com/uploads/2016/09/movie-theater.jpg</fanart>
+<info> </info>
+</channel>
+
+
+
+</channels>
