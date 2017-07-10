@@ -67,9 +67,9 @@
 </channel>
 
 <channel>
-<name>Superemacy Live Sport</name>
+<name>Maverick Sports Live</name>
 <thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/fitness.jpg</thumbnail>
-<externallink>http://stephen-builds.uk/supremacy/Live%20Events/LiveEvents.txt</externallink>
+<externallink>http://maverickrepo.net/data/sports/sports.xml</externallink>
 <fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/fitness.jpg</fanart>
 <info> </info>
 </channel>
