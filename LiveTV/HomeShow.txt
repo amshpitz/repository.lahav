@@ -20,9 +20,9 @@
 </channel>
 
 <channel>
-<name>Falcon TV Show</name>
+<name>Tv From Site</name>
 <thumbnail>http://img2.turbomilk.com/portfolio/new/an-msdn-tv-logo.png</thumbnail>
-<externallink>http://ajbuilds.uk/falcon/tv_shows.xml</externallink>
+<externallink>main.Main()</externallink>
 <fanart>http://img.talkandroid.com/uploads/2016/09/movie-theater.jpg</fanart>
 <info> </info>
 </channel>
