@@ -57,15 +57,6 @@
 <info> </info>
 </channel>
 
-
-<channel>
-<name>Sport Site</name>
-<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/fitness.jpg</thumbnail>
-<externallink>https://github.com/amshpitz/repository.lahav/blob/master/LiveTV/SportSite.xml</externallink>
-<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/fitness.jpg</fanart>
-<info> </info>
-</channel>
-
 <channel>
 <name>Maverick Sports Live</name>
 <thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/fitness.jpg</thumbnail>
