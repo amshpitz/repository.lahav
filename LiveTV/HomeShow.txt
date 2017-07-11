@@ -4,6 +4,22 @@
 <channels>
 
 <channel>
+<name>Live TV</name>
+<thumbnail>http://img2.turbomilk.com/portfolio/new/an-msdn-tv-logo.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/LiveTV.txt</externallink>
+<fanart>http://img.talkandroid.com/uploads/2016/09/movie-theater.jpg</fanart>
+<info> </info>
+</channel>
+
+<channel>
+<name>Israel Radio Live</name>
+<thumbnail>http://img2.turbomilk.com/portfolio/new/an-msdn-tv-logo.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/RadioLive.xml</externallink>
+<fanart>http://img.talkandroid.com/uploads/2016/09/movie-theater.jpg</fanart>
+<info> </info>
+</channel>
+
+<channel>
 <name>TV Show</name>
 <thumbnail>http://img2.turbomilk.com/portfolio/new/an-msdn-tv-logo.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/TVShow.txt</externallink>
@@ -20,7 +36,7 @@
 </channel>
 
 <channel>
-<name>Tv From Site</name>
+<name>TV Live and VOD From israel and World Site</name>
 <thumbnail>http://img2.turbomilk.com/portfolio/new/an-msdn-tv-logo.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/SportSite.xml</externallink>
 <fanart>http://img.talkandroid.com/uploads/2016/09/movie-theater.jpg</fanart>
@@ -31,6 +47,14 @@
 <name>Maverick TV</name>
 <thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/165a5801.jpg</thumbnail>
 <externallink>http://maverickrepo.net/data/home/home.xml</externallink>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/165a5801.jpg</fanart>
+<info> </info>
+</channel>
+
+<channel>
+<name>Supremacy Live</name>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/165a5801.jpg</thumbnail>
+<externallink>http://stephen-builds.uk/supremacy/LiveTV/live.txt</externallink>
 <fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/165a5801.jpg</fanart>
 <info> </info>
 </channel>
