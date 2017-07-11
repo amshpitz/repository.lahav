@@ -19,7 +19,7 @@
 <item>
 <title>[COLOR blue]>>> ShpitzVod VOD and Live TV from Site  TEST>>>[/COLOR]</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ShpitzVod/?item=title=%5BCOLOR+white%5D%5BB%5DTvil.me%5B%2FB%5D%5B%2FCOLOR%5D+-+VOD+From+All+Over+The+World+%28%D7%AA%D7%A8%D7%92%D7%95%D7%9D+%D7%9E%D7%95%D7%91%D7%A0%D7%94%29&url=VOD%2FTvil.cfg&definedIn=VOD%2F_VOD_Menu.cfg&director=RoiD&type=rss</jsonrpc>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=title=LiveTV.ru&url=livesports%2Flivetv.ru.cfg&definedIn=livesports.cfg&director=LiveTV.ru&genre=Live+Sports&type=rss</jsonrpc>
 <thumbnail>http://maverickrepo.net/data/iptvicon.png</thumbnail>
 <fanart></fanart>
 </item>
