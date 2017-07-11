@@ -17,12 +17,11 @@
 </item>
 
 <item>
-<title>[COLOR blue]>>> ShpitzVod VOD and Live TV from Site  TEST>>>[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=title=LiveTV.ru&url=livesports%2Flivetv.ru.cfg&definedIn=livesports.cfg&director=LiveTV.ru&genre=Live+Sports&type=rss</jsonrpc>
+<title>[COLOR lime]livetv.ru[/COLOR]</title>
+<sportsdevil>http://livetv141.net/enx/allupcoming/</sportsdevil>
+<referer>http://livetv141.net/enx/allupcoming/</referer>
 <thumbnail>http://maverickrepo.net/data/iptvicon.png</thumbnail>
 <fanart></fanart>
 </item>
-
 
 </item>
