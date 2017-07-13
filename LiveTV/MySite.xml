@@ -10,8 +10,8 @@
 </item>
 <item>
 	<title>CNN USA</title>
-	<sportsdevil>http://www.liveonlinetv247.info/embed/cnn.php</sportsdevil>
-	<referer>http://www.liveonlinetv247.info/embed/cnn.php</referer>
+	<sportsdevil>https://www.streamlive.to/view/68967/CNN</sportsdevil>
+	<referer>https://www.streamlive.to/view/68967/CNN</referer>
 	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png</thumbnail>
 	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
 </item>
@@ -43,8 +43,8 @@
 
 <item>
 	<title>Fox News MY</title>
-	<sportsdevil>http://www.sdwnet.me/channels/FOX-News.html</sportsdevil>
-	<referer>http://www.sdwnet.me/channels/FOX-News.html</referer>
+	<sportsdevil>https://www.streamlive.to/view/68968/Fox-News</sportsdevil>
+	<referer>https://www.streamlive.to/view/68968/Fox-News</referer>
 	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png</thumbnail>
 	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
 </item>
@@ -58,9 +58,9 @@
 </item>
 
 <item>
-	<title>NFL Network MY</title>
-	<sportsdevil>http://www.sdwnet.me/channels/NFL-Network.html</sportsdevil>
-	<referer>http://www.sdwnet.me/channels/NFL-Network.html</referer>
+	<title>NFL Network</title>
+	<sportsdevil>https://www.streamlive.to/view/72886/NFL-Network</sportsdevil>
+	<referer>https://www.streamlive.to/view/72886/NFL-Network</referer>
 	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png</thumbnail>
 	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
 </item>
@@ -90,6 +90,14 @@
 </item>
 
 <item>
+	<title>Discovery</title>
+	<sportsdevil>https://www.streamlive.to/view/69110/Discovery</sportsdevil>
+	<referer>https://www.streamlive.to/view/69110/Discovery</referer>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png</thumbnail>
+	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
+</item>
+
+<item>
 	<title>FOX Sport 1</title>
 	<sportsdevil>http://v2.ustreamix.com/stream.php?id=fox-sports-1-b</sportsdevil>
 	<referer>http://v2.ustreamix.com/stream.php?id=fox-sports-1-b</referer>
@@ -101,6 +109,14 @@
 	<title>ESPN</title>
 	<sportsdevil>https://www.streamlive.to/view/69029/ESPN</sportsdevil>
 	<referer>https://www.streamlive.to/view/69029/ESPN</referer>
+	<thumbnail>http://www.powyeah.com/wp-content/uploads/2016/06/fight-network.png</thumbnail>
+	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
+</item>
+
+<item>
+	<title>HBO</title>
+	<sportsdevil>https://www.streamlive.to/view/69021/HBO</sportsdevil>
+	<referer>https://www.streamlive.to/view/69021/HBO</referer>
 	<thumbnail>http://www.powyeah.com/wp-content/uploads/2016/06/fight-network.png</thumbnail>
 	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
 </item>
