@@ -49,6 +49,14 @@
 </item>
 
 <item>
+	<title>10-News</title>
+	<sportsdevil>http://streema.com/tv/play/Channel_10</sportsdevil>
+	<referer>http://streema.com/tv/play/Channel_10</referer>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png</thumbnail>
+	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
+</item>
+
+<item>
 	<title>The Fight Network</title>
 	<sportsdevil>http://www.shadow-net.org/channels/Fight-Network.html</sportsdevil>
 	<referer>http://www.shadow-net.org/channels/Fight-Network.html</referer>
