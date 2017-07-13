@@ -46,7 +46,7 @@
 <channel>
 <name>TEST TV</name>
 <thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/165a5801.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/SportSite2.xml</externallink>
+<externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/MySite.xml</externallink>
 <fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/165a5801.jpg</fanart>
 <info> </info>
 </channel>
