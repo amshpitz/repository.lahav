@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<tag>Joker</tag>
+<item>
+	<title>[COLOR lime] **** Sports Devil Required ****[/COLOR]</title>
+	<sportsdevil>http://</sportsdevil>
+	<referer></referer>
+	<thumbnail>http://maverickrepo.co.uk/data/alpha.jpg</thumbnail>
+	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
+</item>
+<item>
+	<title>Box Nation</title>
+	<sportsdevil>http://www.shadow-net.org/channels/BoxNation.html</sportsdevil>
+	<referer>http://www.shadow-net.org/channels/BoxNation.html</referer>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png</thumbnail>
+	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
+</item>
+
+<item>
+	<title>Fox News MY</title>
+	<sportsdevil>http://www.sdwnet.me/channels/FOX-News.html</sportsdevil>
+	<referer>http://www.sdwnet.me/channels/FOX-News.html</referer>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png</thumbnail>
+	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
+</item>
+
+<item>
+	<title>NFL MY</title>
+	<sportsdevil>http://www.sdwnet.me/channels/NFL-Network.html</sportsdevil>
+	<referer>http://www.sdwnet.me/channels/NFL-Network.html</referer>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png</thumbnail>
+	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
+</item>
+
+<item>
+	<title>History-US</title>
+	<sportsdevil>http://www.sdwnet.me/channels/History-US.html</sportsdevil>
+	<referer>http://www.sdwnet.me/channels/History-US.html</referer>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png</thumbnail>
+	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
+</item>
+
+<item>
+	<title>Sky-News</title>
+	<sportsdevil>http://www.sdwnet.me/channels/Sky-News.html</sportsdevil>
+	<referer>http://www.sdwnet.me/channels/Sky-News.html</referer>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png</thumbnail>
+	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
+</item>
+
+<item>
+	<title>10-News</title>
+	<sportsdevil>http://streema.com/tv/play/Channel_10</sportsdevil>
+	<referer>http://streema.com/tv/play/Channel_10</referer>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png</thumbnail>
+	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
+</item>
+
+<item>
+	<title>The Fight Network</title>
+	<sportsdevil>http://www.shadow-net.org/channels/Fight-Network.html</sportsdevil>
+	<referer>http://www.shadow-net.org/channels/Fight-Network.html</referer>
+	<thumbnail>http://www.powyeah.com/wp-content/uploads/2016/06/fight-network.png</thumbnail>
+	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
+</item>
