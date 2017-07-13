@@ -50,7 +50,15 @@
 </item>
 
 <item>
-	<title>NFL MY</title>
+	<title>BBC-News 1</title>
+	<sportsdevil>http://www.filmon.com/group/uk-live-tv</sportsdevil>
+	<referer>http://www.filmon.com/group/uk-live-tv</referer>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png</thumbnail>
+	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
+</item>
+
+<item>
+	<title>NFL Network MY</title>
 	<sportsdevil>http://www.sdwnet.me/channels/NFL-Network.html</sportsdevil>
 	<referer>http://www.sdwnet.me/channels/NFL-Network.html</referer>
 	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png</thumbnail>
