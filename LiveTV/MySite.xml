@@ -163,7 +163,6 @@
 	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
 </item>
 
-
 <item>
 	<title>History-UK</title>
 	<sportsdevil>http://www.sdwnet.me/channels/History-UK.html</sportsdevil>
@@ -172,6 +171,21 @@
 	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
 </item>
 
+<item>
+	<title>Food-Network</title>
+	<sportsdevil>https://www.streamlive.to/view/69023/Food-Network</sportsdevil>
+	<referer>https://www.streamlive.to/view/69023/Food-Network</referer>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png</thumbnail>
+	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
+</item>
+
+<item>
+	<title>Travel chanel</title>
+	<sportsdevil>https://www.streamlive.to/view/69019/Travel-chanel</sportsdevil>
+	<referer>https://www.streamlive.to/view/69019/Travel-chanel</referer>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png</thumbnail>
+	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
+</item>
 
 <item>
 	<title>[COLOR lime] **** Entertainment ****[/COLOR]</title>
@@ -189,3 +203,58 @@
 	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
 </item>
 
+<item>
+	<title>TNT</title>
+	<sportsdevil>https://www.streamlive.to/view/69020/TNT</sportsdevil>
+	<referer>https://www.streamlive.to/view/69020/TNT</referer>
+	<thumbnail>http://www.powyeah.com/wp-content/uploads/2016/06/fight-network.png</thumbnail>
+	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
+</item>
+
+<item>
+	<title>ABC</title>
+	<sportsdevil>https://www.streamlive.to/view/68969/ABC</sportsdevil>
+	<referer>https://www.streamlive.to/view/68969/ABC</referer>
+	<thumbnail>http://www.powyeah.com/wp-content/uploads/2016/06/fight-network.png</thumbnail>
+	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
+</item>
+
+<item>
+	<title>AMC</title>
+	<sportsdevil>https://www.streamlive.to/view/68963/AMC</sportsdevil>
+	<referer>https://www.streamlive.to/view/68963/AMC</referer>
+	<thumbnail>http://www.powyeah.com/wp-content/uploads/2016/06/fight-network.png</thumbnail>
+	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
+</item>
+
+<item>
+	<title>CBS</title>
+	<sportsdevil>https://www.streamlive.to/view/69956/CBS</sportsdevil>
+	<referer>https://www.streamlive.to/view/69956/CBS</referer>
+	<thumbnail>http://www.powyeah.com/wp-content/uploads/2016/06/fight-network.png</thumbnail>
+	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
+</item>
+
+<item>
+	<title>Showtime</title>
+	<sportsdevil>https://www.streamlive.to/view/69036/Showtime</sportsdevil>
+	<referer>https://www.streamlive.to/view/69036/Showtime</referer>
+	<thumbnail>http://www.powyeah.com/wp-content/uploads/2016/06/fight-network.png</thumbnail>
+	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
+</item>
+
+<item>
+	<title>Syfy</title>
+	<sportsdevil>https://www.streamlive.to/view/68966/Syfy</sportsdevil>
+	<referer>https://www.streamlive.to/view/68966/Syfy</referer>
+	<thumbnail>http://www.powyeah.com/wp-content/uploads/2016/06/fight-network.png</thumbnail>
+	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
+</item>
+
+<item>
+	<title>USA Network</title>
+	<sportsdevil>https://www.streamlive.to/view/73018/USA-Network</sportsdevil>
+	<referer>https://www.streamlive.to/view/73018/USA-Network</referer>
+	<thumbnail>http://www.powyeah.com/wp-content/uploads/2016/06/fight-network.png</thumbnail>
+	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
+</item>
