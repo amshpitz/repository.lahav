@@ -8,6 +8,15 @@
 	<thumbnail>http://maverickrepo.co.uk/data/alpha.jpg</thumbnail>
 	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
 </item>
+
+<item>
+	<title>[COLOR lime] **** NEWS ****[/COLOR]</title>
+	<sportsdevil>http://</sportsdevil>
+	<referer></referer>
+	<thumbnail>http://maverickrepo.co.uk/data/alpha.jpg</thumbnail>
+	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
+</item>
+
 <item>
 	<title>CNN USA</title>
 	<sportsdevil>https://www.streamlive.to/view/68967/CNN</sportsdevil>
@@ -17,9 +26,9 @@
 </item>
 
 <item>
-	<title>beinsports10</title>
-	<sportsdevil>http://www.liveonlinetv247.info/embed/beinsports10.php</sportsdevil>
-	<referer>http://www.liveonlinetv247.info/embed/beinsports10.php</referer>
+	<title>Sky-News</title>
+	<sportsdevil>http://www.sdwnet.me/channels/Sky-News.html</sportsdevil>
+	<referer>http://www.sdwnet.me/channels/Sky-News.html</referer>
 	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png</thumbnail>
 	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
 </item>
@@ -57,6 +66,15 @@
 	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
 </item>
 
+
+<item>
+	<title>[COLOR lime] **** SPORT ****[/COLOR]</title>
+	<sportsdevil>http://</sportsdevil>
+	<referer></referer>
+	<thumbnail>http://maverickrepo.co.uk/data/alpha.jpg</thumbnail>
+	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
+</item>
+
 <item>
 	<title>NFL Network</title>
 	<sportsdevil>https://www.streamlive.to/view/72886/NFL-Network</sportsdevil>
@@ -66,34 +84,18 @@
 </item>
 
 <item>
-	<title>History-UK</title>
-	<sportsdevil>http://www.sdwnet.me/channels/History-UK.html</sportsdevil>
-	<referer>http://www.sdwnet.me/channels/History-UK.html</referer>
+	<title>beinsports10</title>
+	<sportsdevil>http://www.liveonlinetv247.info/embed/beinsports10.php</sportsdevil>
+	<referer>http://www.liveonlinetv247.info/embed/beinsports10.php</referer>
 	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png</thumbnail>
 	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
 </item>
 
 <item>
-	<title>Sky-News</title>
-	<sportsdevil>http://www.sdwnet.me/channels/Sky-News.html</sportsdevil>
-	<referer>http://www.sdwnet.me/channels/Sky-News.html</referer>
-	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png</thumbnail>
-	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
-</item>
-
-<item>
-	<title>Discovery-History</title>
-	<sportsdevil>http://www.sdwnet.me/channels/Discovery-History.html</sportsdevil>
-	<referer>http://www.sdwnet.me/channels/Discovery-History.html</referer>
-	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png</thumbnail>
-	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
-</item>
-
-<item>
-	<title>Discovery</title>
-	<sportsdevil>https://www.streamlive.to/view/69110/Discovery</sportsdevil>
-	<referer>https://www.streamlive.to/view/69110/Discovery</referer>
-	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png</thumbnail>
+	<title>eurosport-2</title>
+	<sportsdevil>http://v2.ustreamix.com/stream.php?id=eurosport-2-fr</sportsdevil>
+	<referer>http://v2.ustreamix.com/stream.php?id=eurosport-2-fr</referer>
+	<thumbnail>http://www.powyeah.com/wp-content/uploads/2016/06/fight-network.png</thumbnail>
 	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
 </item>
 
@@ -122,10 +124,60 @@
 </item>
 
 <item>
-	<title>ESPN</title>
-	<sportsdevil>https://www.streamlive.to/view/69029/ESPN</sportsdevil>
-	<referer>https://www.streamlive.to/view/69029/ESPN</referer>
+	<title>[COLOR lime] **** Documentary ****[/COLOR]</title>
+	<sportsdevil>http://</sportsdevil>
+	<referer></referer>
+	<thumbnail>http://maverickrepo.co.uk/data/alpha.jpg</thumbnail>
+	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
+</item>
+
+<item>
+	<title>Discovery</title>
+	<sportsdevil>https://www.streamlive.to/view/69110/Discovery</sportsdevil>
+	<referer>https://www.streamlive.to/view/69110/Discovery</referer>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png</thumbnail>
+	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
+</item>
+
+<item>
+	<title>Discovery-History</title>
+	<sportsdevil>http://www.sdwnet.me/channels/Discovery-History.html</sportsdevil>
+	<referer>http://www.sdwnet.me/channels/Discovery-History.html</referer>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png</thumbnail>
+	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
+</item>
+
+<item>
+	<title>History-UK</title>
+	<sportsdevil>http://www.sdwnet.me/channels/History-UK.html</sportsdevil>
+	<referer>http://www.sdwnet.me/channels/History-UK.html</referer>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png</thumbnail>
+	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
+</item>
+
+<item>
+	<title>National Geographic</title>
+	<sportsdevil>https://www.streamlive.to/view/69018/National-Geographic</sportsdevil>
+	<referer>https://www.streamlive.to/view/69018/National-Geographic</referer>
 	<thumbnail>http://www.powyeah.com/wp-content/uploads/2016/06/fight-network.png</thumbnail>
+	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
+</item>
+
+
+<item>
+	<title>History-UK</title>
+	<sportsdevil>http://www.sdwnet.me/channels/History-UK.html</sportsdevil>
+	<referer>http://www.sdwnet.me/channels/History-UK.html</referer>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png</thumbnail>
+	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
+</item>
+
+
+<item>
+	<title>[COLOR lime] **** Entertainment ****[/COLOR]</title>
+	<sportsdevil>http://</sportsdevil>
+	<referer></referer>
+	<thumbnail>http://maverickrepo.co.uk/data/alpha.jpg</thumbnail>
 	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
 </item>
 
@@ -137,10 +189,3 @@
 	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
 </item>
 
-<item>
-	<title>eurosport-2</title>
-	<sportsdevil>http://v2.ustreamix.com/stream.php?id=eurosport-2-fr</sportsdevil>
-	<referer>http://v2.ustreamix.com/stream.php?id=eurosport-2-fr</referer>
-	<thumbnail>http://www.powyeah.com/wp-content/uploads/2016/06/fight-network.png</thumbnail>
-	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
-</item>
