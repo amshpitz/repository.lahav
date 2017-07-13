@@ -84,7 +84,7 @@
 </item>
 
 <item>
-	<title>Bein Sports 1</title>
+	<title>Bein Sports 1 FR</title>
 	<sportsdevil>http://vercanalestv.com/tv/francia/bein-sport-1.html</sportsdevil>
 	<referer>http://vercanalestv.com/tv/francia/bein-sport-1.html</referer>
 	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png</thumbnail>
@@ -92,7 +92,7 @@
 </item>
 
 <item>
-	<title>Bein Sports 2</title>
+	<title>Bein Sports 2 FR</title>
 	<sportsdevil>http://vercanalestv.com/tv/francia/bein-sport-2.html</sportsdevil>
 	<referer>http://vercanalestv.com/tv/francia/bein-sport-2.html</referer>
 	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png</thumbnail>
@@ -100,7 +100,7 @@
 </item>
 
 <item>
-	<title>Bein Sports 3</title>
+	<title>Bein Sports 3 FR</title>
 	<sportsdevil>http://vercanalestv.com/tv/francia/bein-sport-3.html</sportsdevil>
 	<referer>http://vercanalestv.com/tv/francia/bein-sport-3.html</referer>
 	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png</thumbnail>
@@ -156,7 +156,7 @@
 </item>
 
 <item>
-	<title>BT Sport 1 FR</title>
+	<title>BT Sport 1</title>
 	<sportsdevil>http://vercanalestv.com/tv/deportes/bt-sport-1.html</sportsdevil>
 	<referer>http://vercanalestv.com/tv/deportes/bt-sport-1.html</referer>
 	<thumbnail>http://www.powyeah.com/wp-content/uploads/2016/06/fight-network.png</thumbnail>
@@ -164,7 +164,7 @@
 </item>
 
 <item>
-	<title>BT Sport 2 FR</title>
+	<title>BT Sport 2</title>
 	<sportsdevil>http://vercanalestv.com/tv/deportes/bt-sport-2.html</sportsdevil>
 	<referer>http://vercanalestv.com/tv/deportes/bt-sport-2.html</referer>
 	<thumbnail>http://www.powyeah.com/wp-content/uploads/2016/06/fight-network.png</thumbnail>
@@ -172,9 +172,9 @@
 </item>
 
 <item>
-	<title>Bein Sport 3 FR</title>
-	<sportsdevil>http://vercanalestv.com/tv/francia/bein-sport-3.html</sportsdevil>
-	<referer>http://vercanalestv.com/tv/francia/bein-sport-3.html</referer>
+	<title>BT Sport 3</title>
+	<sportsdevil>http://www.stream2watch.cc/streaming-television/united-kingdom/bt-sport-3-live-stream</sportsdevil>
+	<referer>http://www.stream2watch.cc/streaming-television/united-kingdom/bt-sport-3-live-stream</referer>
 	<thumbnail>http://www.powyeah.com/wp-content/uploads/2016/06/fight-network.png</thumbnail>
 	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
 </item>
@@ -334,6 +334,15 @@
 	<title>USA Network</title>
 	<sportsdevil>https://www.streamlive.to/view/73018/USA-Network</sportsdevil>
 	<referer>https://www.streamlive.to/view/73018/USA-Network</referer>
+	<thumbnail>http://www.powyeah.com/wp-content/uploads/2016/06/fight-network.png</thumbnail>
+	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
+</item>
+
+
+<item>
+	<title>playboy live</title>
+	<sportsdevil>http://www.ibrod.tv/playboy-live-stream.html</sportsdevil>
+	<referer>http://www.ibrod.tv/playboy-live-stream.html</referer>
 	<thumbnail>http://www.powyeah.com/wp-content/uploads/2016/06/fight-network.png</thumbnail>
 	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
 </item>
