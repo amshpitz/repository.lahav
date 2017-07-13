@@ -17,6 +17,14 @@
 </item>
 
 <item>
+	<title>beinsports10</title>
+	<sportsdevil>http://www.liveonlinetv247.info/embed/beinsports10.php</sportsdevil>
+	<referer>http://www.liveonlinetv247.info/embed/beinsports10.php</referer>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png</thumbnail>
+	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
+</item>
+
+<item>
 <title>YOUTUBE Adir Miler</title>
 <link>ignorme</link>
 <jsonrpc>Plugin://plugin.video.youtube/channel/UCGwuWQ_oCQfQ4lPASPbCvYg</jsonrpc>
