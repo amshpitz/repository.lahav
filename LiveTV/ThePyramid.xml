@@ -1,0 +1,465 @@
+<items>
+	<item>
+		<title>[B][COLORblue]WATCH SPORTSDEVIL HERE[/COLOR][/B]</title>
+		<premium>True</premium>
+		<link>ignorme</link>
+		<jsonrpc>plugin://plugin.video.SportsDevil/</jsonrpc>
+		<thumbnail>http://tombraiderbuilds.co.uk/Icons/sports.jpg</thumbnail>
+		<fanart></fanart>
+	</item>
+	<item>
+		<title>[COLORblue]Sky Sports 1[/COLOR]</title>
+		<sportsdevil>http://mamahd.com/sky-sports-1-live-free-stream-1.html</sportsdevil>
+		<referer></referer>
+		<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+		<fanart></fanart>
+	</item>
+	<item>
+		<title>[COLORblue]Sky Sports 1[/COLOR]</title>
+		<sportsdevil>http://liveonlinetv247.info/embed/skysports1.php</sportsdevil>
+		<referer></referer>
+		<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+		<fanart></fanart>
+	</item>
+	<item>
+		<title>[COLORblue]Sky Sports 2[/COLOR]</title>
+		<sportsdevil>http://liveonlinetv247.info/embed/skysports2.php</sportsdevil>
+		<referer></referer>
+		<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+		<fanart></fanart>
+	</item>
+	<item>
+		<title>[COLORblue]Sky Sports 2[/COLOR]</title>
+		<sportsdevil>http://mamahd.com/sky-sports-2-live-stream-1.html</sportsdevil>
+		<referer></referer>
+		<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+		<fanart></fanart>
+	</item>
+	<item>
+		<title>[COLORblue]Sky Sports 3[/COLOR]</title>
+		<sportsdevil>http://liveonlinetv247.info/embed/skysports3.php</sportsdevil>
+		<referer></referer>
+		<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+		<fanart></fanart>
+	</item>
+	<item>
+		<title>[COLORblue]Sky Sports 3[/COLOR]</title>
+		<sportsdevil>http://mamahd.com/sky-sports-3-live-stream-1.html</sportsdevil>
+		<referer></referer>
+		<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+		<fanart></fanart>
+	</item>
+	<item>
+		<title>[COLORblue]Sky Sports 4[/COLOR]</title>
+		<sportsdevil>http://liveonlinetv247.info/embed/skysports4.php</sportsdevil>
+		<referer></referer>
+		<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+		<fanart></fanart>
+	</item>
+	<item>
+		<title>[COLORblue]Sky Sports 4[/COLOR]</title>
+		<sportsdevil>http://mamahd.com/sky-sports-4-live-stream-1.html</sportsdevil>
+		<referer></referer>
+		<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+		<fanart></fanart>
+	</item>
+	<item>
+		<title>[COLORblue]Sky Sports 5[/COLOR]</title>
+		<sportsdevil>http://liveonlinetv247.info/embed/skysports5.php</sportsdevil>
+		<referer></referer>
+		<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+		<fanart></fanart>
+	</item>
+	<item>
+		<title>[COLORblue]Sky Sports News[/COLOR]</title>
+		<sportsdevil>http://liveonlinetv247.info/embed/skysportsnews.php</sportsdevil>
+		<referer></referer>
+		<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+		<fanart></fanart>
+	</item>
+	<item>
+		<title>[COLORblue]Sky Sports F1[/COLOR]</title>
+		<sportsdevil>http://liveonlinetv247.info/embed/skysportsf1.php</sportsdevil>
+		<referer></referer>
+		<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+		<fanart>G2D158W.png</fanart>
+	</item>
+	<item>
+		<title>[COLORblue]Sky Sports Cricket[/COLOR]</title>
+		<sportsdevil>http://liveonlinetv247.info/embed/skysportscricket.php</sportsdevil>
+		<referer></referer>
+		<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+		<fanart></fanart>
+	</item>
+	<item>
+		<title>[COLORblue]Racing UK[/COLOR]</title>
+		<sportsdevil>http://liveonlinetv247.info/embed/racinguk.php</sportsdevil>
+		<referer></referer>
+		<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+		<fanart></fanart>
+	</item>
+	<item>
+		<title>[COLORblue]At The Races[/COLOR]</title>
+		<sportsdevil>http://liveonlinetv247.info/embed/attheraces.php</sportsdevil>
+		<referer></referer>
+		<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+		<fanart></fanart>
+	</item>
+	<item>
+		<title>[COLORblue]Box Nation[/COLOR]</title>
+		<sportsdevil>http://liveonlinetv247.info/embed/boxnation.php</sportsdevil>
+		<referer></referer>
+		<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+		<fanart></fanart>
+	</item>
+	<item>
+		<title>[COLORblue]BT Sports 1[/COLOR]</title>
+		<sportsdevil>http://liveonlinetv247.info/embed/btsport1.php</sportsdevil>
+		<referer></referer>
+		<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+		<fanart></fanart>
+	</item>
+	<item>
+		<title>[COLORblue]BT Sports 2[/COLOR]</title>
+		<sportsdevil>http://liveonlinetv247.info/embed/btsport2.php</sportsdevil>
+		<referer></referer>
+		<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+		<fanart></fanart>
+	</item>
+	<item>
+		<title>[COLORblue]BT Sports 3[/COLOR]</title>
+		<sportsdevil>http://liveonlinetv247.info/embed/btsport3.php</sportsdevil>
+		<referer></referer>
+		<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+		<fanart></fanart>
+	</item>
+	<item>
+		<title>[COLORblue]BT Sports Europe[/COLOR]</title>
+		<sportsdevil>http://liveonlinetv247.info/embed/btsporteurope.php</sportsdevil>
+		<referer></referer>
+		<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+		<fanart></fanart>
+	</item>
+	<item>
+		<title>[COLORblue]BT Sports ESPN[/COLOR]</title>
+		<sportsdevil>http://liveonlinetv247.info/embed/btsportespn.php</sportsdevil>
+		<referer></referer>
+		<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+		<fanart></fanart>
+	</item>
+	<item>
+		<title>[COLORblue]Mutv[/COLOR]</title>
+		<sportsdevil>http://liveonlinetv247.info/embed/mutv.php</sportsdevil>
+		<referer></referer>
+		<thumbnail>/thumbnail>
+			<fanart></fanart>
+		</item>
+		<item>
+			<title>[COLORblue]Lfctv[/COLOR]</title>
+			<sportsdevil>http://liveonlinetv247.info/embed/lfctv.php</sportsdevil>
+			<referer></referer>
+			<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+			<fanart></fanart>
+		</item>
+		<item>
+			<title>[COLORblue]Chelsea Tv[/COLOR]</title>
+			<sportsdevil>http://liveonlinetv247.info/embed/chelseatv.php</sportsdevil>
+			<referer></referer>
+			<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+			<fanart></fanart>
+		</item>
+		<item>
+			<title>[COLORblue]Fox Sports 1[/COLOR]</title>
+			<sportsdevil>http://liveonlinetv247.info/embed/foxsports1.php</sportsdevil>
+			<referer></referer>
+			<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+			<fanart></fanart>
+		</item>
+		<item>
+			<title>[COLORblue]Fox Sports 2[/COLOR]</title>
+			<sportsdevil>http://liveonlinetv247.info/embed/foxsports2.php</sportsdevil>
+			<referer></referer>
+			<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+			<fanart></fanart>
+		</item>
+		<item>
+			<title>[COLORblue]Setanta Sports[/COLOR]</title>
+			<sportsdevil>http://liveonlinetv247.info/embed/setantasports.php</sportsdevil>
+			<referer></referer>
+			<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+			<fanart></fanart>
+		</item>
+		<item>
+			<title>[COLOR blue]Bein Sports 1[/COLOR]</title>
+			<sportsdevil>http://www.liveonlinetv247.info/beinsports1.php</sportsdevil>
+			<referer>http://www.liveonlinetv247.info/beinsports1.php</referer>
+			<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+			<fanart></fanart>
+		</item>
+		<item>
+			<title>[COLOR blue]Bein Sports 2[/COLOR]</title>
+			<sportsdevil>http://www.liveonlinetv247.info/beinsports2.php</sportsdevil>
+			<referer>http://www.liveonlinetv247.info/beinsports2.php</referer>
+			<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+			<fanart></fanart>
+		</item>
+		<item>
+			<title>[COLOR blue]Bein Sports 3[/COLOR]</title>
+			<sportsdevil>http://www.liveonlinetv247.info/beinsports3.php</sportsdevil>
+			<referer>http://www.liveonlinetv247.info/beinsports3.php</referer>
+			<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+			<fanart></fanart>
+		</item>
+		<item>
+			<title>[COLOR blue]Bein Sports 4[/COLOR]</title>
+			<sportsdevil>http://www.liveonlinetv247.info/beinsports4.php</sportsdevil>
+			<referer>http://www.liveonlinetv247.info/beinsports4.php</referer>
+			<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+			<fanart></fanart>
+		</item>
+		<item>
+			<title>[COLOR blue]Bein Sports 5[/COLOR]</title>
+			<sportsdevil>http://www.liveonlinetv247.info/beinsports5.php</sportsdevil>
+			<referer>http://www.liveonlinetv247.info/beinsports5.php</referer>
+			<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+			<fanart></fanart>
+		</item>
+		<item>
+			<title>[COLOR blue]Bein Sports 6[/COLOR]</title>
+			<sportsdevil>http://www.liveonlinetv247.info/beinsports6.php</sportsdevil>
+			<referer>http://www.liveonlinetv247.info/beinsports6.php</referer>
+			<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+			<fanart></fanart>
+		</item>
+		<item>
+			<title>[COLOR blue]Bein Sports 7[/COLOR]</title>
+			<sportsdevil>http://www.liveonlinetv247.info/beinsports7.php</sportsdevil>
+			<referer>http://www.liveonlinetv247.info/beinsports7.php</referer>
+			<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+			<fanart></fanart>
+		</item>
+		<item>
+			<title>[COLOR blue]Bein Sports 8[/COLOR]</title>
+			<sportsdevil>http://www.liveonlinetv247.info/beinsports8.php</sportsdevil>
+			<referer>http://www.liveonlinetv247.info/beinsports8.php</referer>
+			<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+			<fanart></fanart>
+		</item>
+		<item>
+			<title>[COLOR blue]Bein Sports 9[/COLOR]</title>
+			<sportsdevil>http://www.liveonlinetv247.info/beinsports9.php</sportsdevil>
+			<referer>http://www.liveonlinetv247.info/beinsports9.php</referer>
+			<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+			<fanart></fanart>
+		</item>
+		<item>
+			<title>[COLOR blue]Bein Sports 10[/COLOR]</title>
+			<sportsdevil>http://www.liveonlinetv247.info/beinsports10.php</sportsdevil>
+			<referer>http://www.liveonlinetv247.info/beinsports10.php</referer>
+			<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+			<fanart></fanart>
+		</item>
+		<item>
+			<title>[COLOR blue]Bein Sports 11 English[/COLOR]</title>
+			<sportsdevil>http://www.liveonlinetv247.info/beinsports11.php</sportsdevil>
+			<referer>http://www.liveonlinetv247.info/beinsports11.php</referer>
+			<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+			<fanart></fanart>
+		</item>
+		<item>
+			<title>[COLOR blue]Bein Sports 12 English[/COLOR]</title>
+			<sportsdevil>http://www.liveonlinetv247.info/beinsports12.php</sportsdevil>
+			<referer>http://www.liveonlinetv247.info/beinsports12.php</referer>
+			<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+			<fanart></fanart>
+		</item>
+		<item>
+			<title>[COLOR blue]Bein Sports 13 English[/COLOR]</title>
+			<sportsdevil>http://www.liveonlinetv247.info/beinsports13.php</sportsdevil>
+			<referer>http://www.liveonlinetv247.info/beinsports13.php</referer>
+			<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+			<fanart></fanart>
+		</item>
+		<item>
+			<title>[COLORblue]Bein Sports 13 Eng[/COLOR]</title>
+			<sportsdevil>http://liveonlinetv247.info/embed/beinsports13.php</sportsdevil>
+			<referer></referer>
+			<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+			<fanart></fanart>
+		</item>
+		<item>
+			<title>[COLOR blue]Bein Sports 1 FR[/COLOR]</title>
+			<sportsdevil>http://www.shadow-net.org/channels/Bein-Sport-1-FR.html</sportsdevil>
+			<referer>http://www.shadow-net.org/channels/Bein-Sport-1-FR.html</referer>
+			<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+			<fanart></fanart>
+		</item>
+		<item>
+			<title>[COLOR blue]Bein Sports 1 FR [/COLOR]</title>
+			<sportsdevil>http://mamahd.com/watch-bein-1-france-live-stream-1.html</sportsdevil>
+			<referer>http://mamahd.com/watch-bein-1-france-live-stream-1.html</referer>
+			<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+			<fanart></fanart>
+		</item>
+		<item>
+			<title>[COLOR blue]Bein Sports 2 FR[/COLOR]</title>
+			<sportsdevil>http://mamahd.com/bein-2-fr-live-stream-1.html</sportsdevil>
+			<referer>http://mamahd.com/bein-2-fr-live-stream-1.html</referer>
+			<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+			<fanart></fanart>
+		</item>
+		<item>
+			<title>[COLOR blue]Bein Sports 3 FR[/COLOR]</title>
+			<sportsdevil>http://www.shadow-net.org/channels/Bein-Sport-3-FR.html</sportsdevil>
+			<referer>http://www.shadow-net.org/channels/Bein-Sport-3-FR.html</referer>
+			<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+			<fanart></fanart>
+		</item>
+		<item>
+			<title>[COLOR blue]Sky Sports One Italy[/COLOR]</title>
+			<sportsdevil>http://www.liveonlinetv247.info/skysport1italia.php</sportsdevil>
+			<referer>http://www.liveonlinetv247.info/skysport1italia.php</referer>
+			<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+			<fanart></fanart>
+		</item>
+		<item>
+			<title>[COLOR blue]Sky Sports Two Italy[/COLOR]</title>
+			<sportsdevil>http://www.liveonlinetv247.info/skysport2italia.php</sportsdevil>
+			<referer>http://www.liveonlinetv247.info/skysport2italia.php</referer>
+			<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+			<fanart></fanart>
+		</item>
+		<item>
+			<title>[COLOR blue]Sky Sports Three Italy[/COLOR]</title>
+			<sportsdevil>http://www.liveonlinetv247.info/skysport3italia.php</sportsdevil>
+			<referer>http://www.liveonlinetv247.info/skysport3italia.php</referer>
+			<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+			<fanart></fanart>
+		</item>
+		<item>
+			<title>[COLOR blue]Sky Calcio[/COLOR]</title>
+			<sportsdevil>http://www.liveonlinetv247.info/skycalcio.php</sportsdevil>
+			<referer>http://www.liveonlinetv247.info/skycalcio.php</referer>
+			<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+			<fanart></fanart>
+		</item>
+		<item>
+			<title>[COLOR blue]NBA TV[/COLOR]</title>
+			<sportsdevil>http://www.liveonlinetv247.info/nbatv.php</sportsdevil>
+			<referer>http://www.liveonlinetv247.info/nbatv.php</referer>
+			<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+			<fanart></fanart>
+		</item>
+		<item>
+			<title>[COLOR blue]Premier Sports[/COLOR]</title>
+			<sportsdevil>http://www.liveonlinetv247.info/premiersports.php</sportsdevil>
+			<referer>http://www.liveonlinetv247.info/premiersports.php</referer>
+			<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+			<fanart></fanart>
+		</item>
+		<item>
+			<title>[COLOR blue]WWE Network[/COLOR]</title>
+			<sportsdevil>http://www.liveonlinetv247.info/wwenetwork.php</sportsdevil>
+			<referer>http://www.liveonlinetv247.info/wwenetwork.php</referer>
+			<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+			<fanart></fanart>
+		</item>
+		<item>
+			<title>[COLOR blue]WWE TV[/COLOR]</title>
+			<sportsdevil>http://www.liveonlinetv247.info/wwetv.php</sportsdevil>
+			<referer>http://www.liveonlinetv247.info/wwetv.php</referer>
+			<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+			<fanart></fanart>
+		</item>
+		<item>
+			<title>[COLOR blue]Star Cricket[/COLOR]</title>
+			<sportsdevil>http://www.liveonlinetv247.info/starcricket.php</sportsdevil>
+			<referer>http://www.liveonlinetv247.info/starcricket.php</referer>
+			<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+			<fanart></fanart>
+		</item>
+		<item>
+			<title>[COLOR blue]Star Sports[/COLOR]</title>
+			<sportsdevil>http://www.liveonlinetv247.info/starsports.php</sportsdevil>
+			<referer>http://www.liveonlinetv247.info/starsports.php</referer>
+			<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+			<fanart></fanart>
+		</item>
+		<item>
+			<title>[COLOR blue]Geo Super Sports[/COLOR]</title>
+			<sportsdevil>http://www.liveonlinetv247.info/geosuper.php</sportsdevil>
+			<referer>http://www.liveonlinetv247.info/geosuper.php</referer>
+			<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+			<fanart></fanart>
+		</item>
+		<item>
+			<title>[COLOR blue]Ten One Sports[/COLOR]</title>
+			<sportsdevil>http://www.liveonlinetv247.info/ten1.php</sportsdevil>
+			<referer>http://www.liveonlinetv247.info/ten1.php</referer>
+			<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+			<fanart></fanart>
+		</item>
+		<item>
+			<title>[COLOR blue]Neo Sports[/COLOR]</title>
+			<sportsdevil>http://v2.ustreamix.com/stream.php?id=neo-sports</sportsdevil>
+			<referer>http://v2.ustreamix.com/stream.php?id=neo-sports</referer>
+			<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+			<fanart></fanart>
+		</item>
+		<item>
+			<title>[COLOR blue]PAC 12 Arizona[/COLOR]</title>
+			<sportsdevil>http://xrxs.net/video/live-p12ariz-4728.m3u8</sportsdevil>
+			<referer>http://xrxs.net/video/live-p12ariz-4728.m3u8</referer>
+			<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+			<fanart></fanart>
+		</item>
+		<item>
+			<title>[COLOR blue]PAC 12 Bay Area[/COLOR]</title>
+			<sportsdevil>http://xrxs.net/video/live-p12baya-4728.m3u8</sportsdevil>
+			<referer>http://xrxs.net/video/live-p12baya-4728.m3u8</referer>
+			<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+			<fanart></fanart>
+		</item>
+		<item>
+			<title>[COLOR blue]PAC 12 Los Angeles[/COLOR]</title>
+			<sportsdevil>http://xrxs.net/video/live-p12losa-4728.m3u8</sportsdevil>
+			<referer>http://xrxs.net/video/live-p12losa-4728.m3u8</referer>
+			<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+			<fanart></fanart>
+		</item>
+		<item>
+			<title>[COLOR blue]PAC 12 Mountain[/COLOR]</title>
+			<sportsdevil>http://xrxs.net/video/live-p12moun-4728.m3u8</sportsdevil>
+			<referer>http://xrxs.net/video/live-p12moun-4728.m3u8</referer>
+			<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+			<fanart></fanart>
+		</item>
+		<item>
+			<title>[COLOR blue]PAC 12 National[/COLOR]</title>
+			<sportsdevil>http://xrxs.net/video/live-p12netw-4728.m3u8</sportsdevil>
+			<referer>http://xrxs.net/video/live-p12netw-4728.m3u8</referer>
+			<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+			<fanart></fanart>
+		</item>
+		<item>
+			<title>[COLOR blue]PAC 12 Oregon[/COLOR]</title>
+			<sportsdevil>http://xrxs.net/video/live-p12oreg-4728.m3u8</sportsdevil>
+			<referer>http://xrxs.net/video/live-p12oreg-4728.m3u8</referer>
+			<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+			<fanart></fanart>
+		</item>
+		<item>
+			<title>[COLOR blue]PAC 12 Washington[/COLOR]</title>
+			<sportsdevil>http://xrxs.net/video/live-p12wash-4728.m3u8</sportsdevil>
+			<referer>http://xrxs.net/video/live-p12wash-4728.m3u8</referer>
+			<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+			<fanart></fanart>
+		</item>
+		<item>
+			<title>[COLORblue]Premier Sports[/COLOR]</title>
+			<sportsdevil>http://liveonlinetv247.info/embed/premiersports.php</sportsdevil>
+			<referer></referer>
+			<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+			<fanart></fanart>
+		</item>
+	</items>
