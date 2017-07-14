@@ -26,14 +26,6 @@
 </item>
 
 <item>
-	<title>ערוץ 10</title>
-	<sportsdevil>http://www.isramedia.net/10/%D7%A2%D7%A8%D7%95%D7%A6%D7%99%D7%9D-%D7%9E%D7%99%D7%A9%D7%A8%D7%90%D7%9C/%D7%A2%D7%A8%D7%95%D7%A5-10-%D7%A9%D7%99%D7%93%D7%95%D7%A8-%D7%97%D7%99</sportsdevil>
-	<referer>http://www.isramedia.net/10/%D7%A2%D7%A8%D7%95%D7%A6%D7%99%D7%9D-%D7%9E%D7%99%D7%A9%D7%A8%D7%90%D7%9C/%D7%A2%D7%A8%D7%95%D7%A5-10-%D7%A9%D7%99%D7%93%D7%95%D7%A8-%D7%97%D7%99</referer>
-	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png</thumbnail>
-	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
-</item>
-
-<item>
 	<title>Sky-News</title>
 	<sportsdevil>http://www.sdwnet.me/channels/Sky-News.html</sportsdevil>
 	<referer>http://www.sdwnet.me/channels/Sky-News.html</referer>
@@ -194,6 +186,51 @@
 	<thumbnail>http://www.powyeah.com/wp-content/uploads/2016/06/fight-network.png</thumbnail>
 	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
 </item>
+
+
+<item>
+	<title>[COLOR lime] **** MUSIC ****[/COLOR]</title>
+	<sportsdevil>http://</sportsdevil>
+	<referer></referer>
+	<thumbnail>http://maverickrepo.co.uk/data/alpha.jpg</thumbnail>
+	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
+</item>
+
+<item>
+	<title>Jazz and Blues</title>
+	<sportsdevil>http://www.filmon.com/tv/filmon-jazz-and-blues</sportsdevil>
+	<referer>http://www.filmon.com/tv/filmon-jazz-and-blues</referer>
+	<thumbnail>http://www.powyeah.com/wp-content/uploads/2016/06/fight-network.png</thumbnail>
+	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
+</item>
+
+
+<item>
+	<title>Country Music</title>
+	<sportsdevil>http://www.filmon.com/tv/country-star-tv</sportsdevil>
+	<referer>http://www.filmon.com/tv/country-star-tv</referer>
+	<thumbnail>http://www.powyeah.com/wp-content/uploads/2016/06/fight-network.png</thumbnail>
+	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
+</item>
+
+
+<item>
+	<title>Dancing Machine TV</title>
+	<sportsdevil>http://www.filmon.com/tv/dancing-machine-tv</sportsdevil>
+	<referer>http://www.filmon.com/tv/dancing-machine-tv</referer>
+	<thumbnail>http://www.powyeah.com/wp-content/uploads/2016/06/fight-network.png</thumbnail>
+	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
+</item>
+
+
+<item>
+	<title>MVTV</title>
+	<sportsdevil>http://www.filmon.com/tv/mvtv</sportsdevil>
+	<referer>http://www.filmon.com/tv/mvtv</referer>
+	<thumbnail>http://www.powyeah.com/wp-content/uploads/2016/06/fight-network.png</thumbnail>
+	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
+</item>
+
 <item>
 	<title>[COLOR lime] **** Documentary ****[/COLOR]</title>
 	<sportsdevil>http://</sportsdevil>
@@ -244,8 +281,8 @@
 
 <item>
 	<title>Food-Network</title>
-	<sportsdevil>https://www.streamlive.to/view/69023/Food-Network</sportsdevil>
-	<referer>https://www.streamlive.to/view/69023/Food-Network</referer>
+	<sportsdevil>http://www.filmon.com/tv/food-network</sportsdevil>
+	<referer>http://www.filmon.com/tv/food-network</referer>
 	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png</thumbnail>
 	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
 </item>
@@ -342,6 +379,22 @@
 	<title>USA Network</title>
 	<sportsdevil>https://www.streamlive.to/view/73018/USA-Network</sportsdevil>
 	<referer>https://www.streamlive.to/view/73018/USA-Network</referer>
+	<thumbnail>http://www.powyeah.com/wp-content/uploads/2016/06/fight-network.png</thumbnail>
+	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
+</item>
+
+<item>
+	<title>Starz Live</title>
+	<sportsdevil>http://www.ibrod.tv/starz-live-stream.html</sportsdevil>
+	<referer>http://www.ibrod.tv/starz-live-stream.html</referer>
+	<thumbnail>http://www.powyeah.com/wp-content/uploads/2016/06/fight-network.png</thumbnail>
+	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
+</item>
+
+<item>
+	<title>playboy live</title>
+	<sportsdevil>http://www.ibrod.tv/playboy-live-stream.html</sportsdevil>
+	<referer>http://www.ibrod.tv/playboy-live-stream.html</referer>
 	<thumbnail>http://www.powyeah.com/wp-content/uploads/2016/06/fight-network.png</thumbnail>
 	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
 </item>
