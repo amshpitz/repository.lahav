@@ -18,7 +18,7 @@
 </channel>
 
 <channel>
-<name>Israel Sport Live</name>
+<name>Israel Sport Live  [COLOR blue]OFFLINE[/COLOR]</name>
 <thumbnail>https://cdn3.iconfinder.com/data/icons/glypho-movie-and-video/64/theater-masks-512.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/IsraelSport.xml</externallink>
 <fanart>http://www.nicovdmeulen.com/wp-content/uploads/2013/11/Nico-van-der-Meulen-glass-house-50.jpg</fanart>
@@ -26,7 +26,7 @@
 </channel>
 
 <channel>
-<name>Israel YES Live</name>
+<name>Israel YES Live  [COLOR blue]OFFLINE[/COLOR]</name>
 <thumbnail>https://cdn3.iconfinder.com/data/icons/glypho-movie-and-video/64/theater-masks-512.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/IsraelYES.xml</externallink>
 <fanart>http://www.nicovdmeulen.com/wp-content/uploads/2013/11/Nico-van-der-Meulen-glass-house-50.jpg</fanart>
@@ -34,7 +34,7 @@
 </channel>
 
 <channel>
-<name>Israel HOT Live</name>
+<name>Israel HOT Live [COLOR blue]OFFLINE[/COLOR]</name>
 <thumbnail>https://cdn3.iconfinder.com/data/icons/glypho-movie-and-video/64/theater-masks-512.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/IsraelHOT.xml</externallink>
 <fanart>http://www.nicovdmeulen.com/wp-content/uploads/2013/11/Nico-van-der-Meulen-glass-house-50.jpg</fanart>
@@ -50,7 +50,7 @@
 </channel>
 
 <channel>
-<name>Israel Entertainment</name>
+<name>Israel Entertainment [COLOR blue]OFFLINE[/COLOR]</name>
 <thumbnail>https://cdn3.iconfinder.com/data/icons/glypho-movie-and-video/64/theater-masks-512.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/IsraelEntertainment.xml</externallink>
 <fanart>http://www.nicovdmeulen.com/wp-content/uploads/2013/11/Nico-van-der-Meulen-glass-house-50.jpg</fanart>
