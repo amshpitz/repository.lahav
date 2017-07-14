@@ -16,13 +16,13 @@
 <fanart></fanart>
 </item>
 
-<channel>
-<name>[COLOR blue]>>> UK Turm Sport Live TV >>>[/COLOR]</name>
-<thumbnail>https://cdn3.iconfinder.com/data/icons/glypho-movie-and-video/64/theater-masks-512.png</thumbnail>
-<externallink>http://addoncloud.org/ukturk/UKTurk/SportsList.txt</externallink>
-<fanart>http://www.nicovdmeulen.com/wp-content/uploads/2013/11/Nico-van-der-Meulen-glass-house-50.jpg</fanart>
-<info> </info>
-</channel>
+<item>
+<title>[COLOR blue]>>> UK Turm Sports Live TV >>>[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.ukturk/?url=http://addoncloud.org/ukturk/UKTurk/SportsList.txt&mode=1</jsonrpc>
+<thumbnail>http://maverickrepo.net/data/iptvicon.png</thumbnail>
+<fanart></fanart>
+</item>
 
 <item>
 <title>[COLOR blue]>>> ShpitzVod VOD and Live TV from Site>>>[/COLOR]</title>
