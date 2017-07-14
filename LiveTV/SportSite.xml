@@ -25,14 +25,6 @@
 </item>
 
 <item>
-<title>[COLOR blue]>>> ShpitzVod VOD and Live TV from Site>>>[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ShpitzVod/</jsonrpc>
-<thumbnail>http://maverickrepo.net/data/iptvicon.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>[COLOR lime]livetv.ru[/COLOR]</title>
 <sportsdevil>http://livetv.ru/enx/allupcoming/</sportsdevil>
 <referer>http://livetv.ru/enx/allupcoming/</referer>
