@@ -20,7 +20,7 @@
 </channel>
 
 <channel>
-<name>Sport Site</name>
+<name>Sport WEB Site</name>
 <thumbnail>http://img2.turbomilk.com/portfolio/new/an-msdn-tv-logo.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/SportSite.xml</externallink>
 <fanart>http://img.talkandroid.com/uploads/2016/09/movie-theater.jpg</fanart>
@@ -28,16 +28,15 @@
 </channel>
 
 <channel>
-<name>ThePyramid Sport</name>
+<name>Sport ThePyramid</name>
 <thumbnail>http://img2.turbomilk.com/portfolio/new/an-msdn-tv-logo.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/ThePyramid.xml</externallink>
 <fanart>http://img.talkandroid.com/uploads/2016/09/movie-theater.jpg</fanart>
 <info> </info>
 </channel>
 
-
 <channel>
-<name>Maverick Sports Live</name>
+<name>Sports Maverick Live</name>
 <thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/fitness.jpg</thumbnail>
 <externallink>http://maverickrepo.net/data/sports/sports.xml</externallink>
 <fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/fitness.jpg</fanart>
@@ -45,7 +44,7 @@
 </channel>
 
 <channel>
-<name>VOD Site</name>
+<name>VOD WEB Site</name>
 <thumbnail>http://img2.turbomilk.com/portfolio/new/an-msdn-tv-logo.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/VODSite.xml</externallink>
 <fanart>http://img.talkandroid.com/uploads/2016/09/movie-theater.jpg</fanart>
