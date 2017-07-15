@@ -68,22 +68,6 @@
 </channel>
 
 <channel>
-<name>Maverick TV</name>
-<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/165a5801.jpg</thumbnail>
-<externallink>http://maverickrepo.net/data/home/home.xml</externallink>
-<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/165a5801.jpg</fanart>
-<info> </info>
-</channel>
-
-<channel>
-<name>Supremacy Live</name>
-<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/165a5801.jpg</thumbnail>
-<externallink>http://stephen-builds.uk/supremacy/LiveTV/live.txt</externallink>
-<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/165a5801.jpg</fanart>
-<info> </info>
-</channel>
-
-<channel>
 <name>WORLD CAMS Live</name>
 <thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/icon_uk_channel.jpg<</thumbnail>
 <externallink>http://fantazyrepo.uk/addonimages/fido.addon/Livetv/webcams.new.xml</externallink>
