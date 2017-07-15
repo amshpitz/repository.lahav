@@ -32,20 +32,5 @@
 <fanart></fanart>
 </item>
 
-<item>
-<title>[COLOR lime]livetv.ru[/COLOR]</title>
-<sportsdevil>http://livetv.ru/enx/allupcoming/</sportsdevil>
-<referer>http://livetv.ru/enx/allupcoming/</referer>
-<thumbnail>http://maverickrepo.net/data/iptvicon.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-	<title>NFL Network2</title>
-	<sportsdevil>http://cricfree.sc/iframe/hdyb/calcio7.php</sportsdevil>
-	<referer></referer>
-	<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/6/6f/Logo_fox_sports.png/revision/latest?cb=20140414164158</thumbnail>
-	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
-</item>
 
 </item>
