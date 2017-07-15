@@ -3,14 +3,6 @@
 <channels>
 
 <channel>
-<name>Sports Events</name>
-<thumbnail>http://img2.turbomilk.com/portfolio/new/an-msdn-tv-logo.png</thumbnail>
-<jsonrpc>plugin://plugin.video.ShpitzLiveRU/</jsonrpc>
-<fanart>http://img.talkandroid.com/uploads/2016/09/movie-theater.jpg</fanart>
-<info> </info>
-</channel>
-
-<channel>
 <name>Sport from WEB Site</name>
 <thumbnail>http://img2.turbomilk.com/portfolio/new/an-msdn-tv-logo.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/SportSite.xml</externallink>
