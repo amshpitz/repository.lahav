@@ -42,26 +42,10 @@
 </channel>
 
 <channel>
-<name>Music Live</name>
-<thumbnail>https://cdn3.iconfinder.com/data/icons/glypho-movie-and-video/64/theater-masks-512.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/MusicLive.xml</externallink>
-<fanart>http://www.nicovdmeulen.com/wp-content/uploads/2013/11/Nico-van-der-Meulen-glass-house-50.jpg</fanart>
-<info> </info>
-</channel>
-
-<channel>
 <name>Israel Entertainment [COLOR blue]OFFLINE[/COLOR]</name>
 <thumbnail>https://cdn3.iconfinder.com/data/icons/glypho-movie-and-video/64/theater-masks-512.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/IsraelEntertainment.xml</externallink>
 <fanart>http://www.nicovdmeulen.com/wp-content/uploads/2013/11/Nico-van-der-Meulen-glass-house-50.jpg</fanart>
-<info> </info>
-</channel>
-
-<channel>
-<name>Maverick Sports Live</name>
-<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/fitness.jpg</thumbnail>
-<externallink>http://maverickrepo.net/data/sports/sports.xml</externallink>
-<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/fitness.jpg</fanart>
 <info> </info>
 </channel>
 
@@ -86,15 +70,6 @@
 <thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/US-TV.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/USAchannels.xml</externallink>
 <fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/US-TV.jpg</fanart>
-<info> </info>
-</channel>
-
-
-<channel>
-<name>Fido Music Live TV</name>
-<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/icon_uk_channel.jpg<</thumbnail>
-<externallink>http://fantazyrepo.uk/addonimages/fido.addon/Music/Music.xml</externallink>
-<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/icon_uk_channel.jpg<</fanart>
 <info> </info>
 </channel>
 
