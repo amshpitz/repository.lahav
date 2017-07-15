@@ -28,26 +28,10 @@
 </channel>
 
 <channel>
-<name>Sport from WEB Site</name>
-<thumbnail>http://img2.turbomilk.com/portfolio/new/an-msdn-tv-logo.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/SportSite.xml</externallink>
-<fanart>http://img.talkandroid.com/uploads/2016/09/movie-theater.jpg</fanart>
-<info> </info>
-</channel>
-
-<channel>
-<name>Sport ThePyramid</name>
-<thumbnail>http://img2.turbomilk.com/portfolio/new/an-msdn-tv-logo.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/ThePyramid.xml</externallink>
-<fanart>http://img.talkandroid.com/uploads/2016/09/movie-theater.jpg</fanart>
-<info> </info>
-</channel>
-
-<channel>
-<name>Sports Maverick Live</name>
-<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/fitness.jpg</thumbnail>
-<externallink>http://maverickrepo.net/data/sports/sports.xml</externallink>
-<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/fitness.jpg</fanart>
+<name>Sport</name>
+<thumbnail>https://cdn3.iconfinder.com/data/icons/glypho-movie-and-video/64/theater-masks-512.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/Sport.txt</externallink>
+<fanart>http://www.nicovdmeulen.com/wp-content/uploads/2013/11/Nico-van-der-Meulen-glass-house-50.jpg</fanart>
 <info> </info>
 </channel>
 
