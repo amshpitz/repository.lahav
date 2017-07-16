@@ -76,6 +76,14 @@
 </channel>
 
 <channel>
+<name>News</name>
+<thumbnail>http://www.a1dedicatedservers.com/images/news.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/fouzo14/SuperEliteIptv/master/LiveTV/News/News.xml</externallink>
+<fanart>http://www.nicovdmeulen.com/wp-content/uploads/2013/11/Nico-van-der-Meulen-glass-house-50.jpg</fanart>
+<info> </info>
+</channel>
+
+<channel>
 <name>WORLD CAMS Live</name>
 <thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/icon_uk_channel.jpg<</thumbnail>
 <externallink>http://fantazyrepo.uk/addonimages/fido.addon/Livetv/webcams.new.xml</externallink>
