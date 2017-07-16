@@ -60,6 +60,14 @@
 </channel>
 
 <channel>
+<name>My News Site</name>
+<thumbnail>http://img2.turbomilk.com/portfolio/new/an-msdn-tv-logo.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/NEWS.xml</externallink>
+<fanart>http://img.talkandroid.com/uploads/2016/09/movie-theater.jpg</fanart>
+<info> </info>
+</channel>
+
+<channel>
 <name>TEST TV</name>
 <thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/165a5801.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/MySite.xml</externallink>
