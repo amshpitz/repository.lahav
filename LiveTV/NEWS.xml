@@ -1,0 +1,25 @@
+<items>
+	<item>
+		<title>[B][COLORblue]WATCH SPORTSDEVIL HERE[/COLOR][/B]</title>
+		<premium>True</premium>
+		<link>ignorme</link>
+		<jsonrpc>plugin://plugin.video.SportsDevil/</jsonrpc>
+		<thumbnail>http://tombraiderbuilds.co.uk/Icons/sports.jpg</thumbnail>
+		<fanart></fanart>
+	</item>
+	<item>
+		<title>[COLORblue]BBC World News[/COLOR]</title>
+		<sportsdevil>http://www.liveonlinetv247.info/bbc.php</sportsdevil>
+		<referer></referer>
+		<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+		<fanart></fanart>
+	</item>
+	<item>
+		<title>[COLORblue]Sky Sports 1[/COLOR]</title>
+		<sportsdevil>http://liveonlinetv247.info/embed/skysports1.php</sportsdevil>
+		<referer></referer>
+		<thumbnail>http://lh3.googleusercontent.com/PvDh_VPfUas4r59zpIaR32c8xfluCPUuAY2vGpPQIpLe563qEznlG1d8OTAdm-RRv54=w300</thumbnail>
+		<fanart></fanart>
+	</item>
+
+</items>
