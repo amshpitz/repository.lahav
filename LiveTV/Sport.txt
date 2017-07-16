@@ -26,4 +26,12 @@
 <info> </info>
 </channel>
 
+<channel>
+<name>Sports UKTurk Live</name>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/fitness.jpg</thumbnail>
+<externallink>http://addoncloud.org/ukturk/UKTurk/SportsList.txt</externallink>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/fitness.jpg</fanart>
+<info> </info>
+</channel>
+
 </channels>
