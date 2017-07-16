@@ -27,7 +27,7 @@
 <item>
 <title>[COLOR blue]>>> UK Turm Sports Live TV >>>[/COLOR]</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ukturk/?url=http://addoncloud.org/ukturk/UKTurk/SportsList.txt&mode=1</jsonrpc>
+<jsonrpc>plugin://plugin.video.ukturk/?url=http://addoncloud.org/ukturk/UKTurk/SportsList.txt</jsonrpc>
 <thumbnail>http://maverickrepo.net/data/iptvicon.png</thumbnail>
 <fanart></fanart>
 </item>
