@@ -76,9 +76,17 @@
 <thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/hot.png?height=149&width=200</thumbnail>
 <fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/hot.png</fanart>
 </item>
+
 <item>
-<title>HOT Drama</title>
-<link>http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/12023.ts</link>
+<title>BT Sports 1 (UK)</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.56.31.122:25461/live/evaniomagalhaes/nCaMvNmVB2/3485.ts</link>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/icon_uk_channel.jpg?height=149&width=200</thumbnail>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/icon_uk_channel.jpg</fanart>
+</item>
+
+<item>
+<title>HOT Drama1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.onlineiptv.net:5210/live/FsmyfJ7mx1/TOfu2tDc7v/12023.ts</link>
 <thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/hot.png?height=149&width=200</thumbnail>
 <fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/hot.png</fanart>
 </item>
