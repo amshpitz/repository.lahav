@@ -68,14 +68,6 @@
 </channel>
 
 <channel>
-<name>Superemacy Live TV </name>
-<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/fitness.jpg</thumbnail>
-<externallink>http://stephen-builds.uk/supremacy/LiveTV/live.txt</externallink>
-<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/fitness.jpg</fanart>
-<info> </info>
-</channel>
-
-<channel>
 <name>UK Live TV 1</name>
 <thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/icon_uk_channel.jpg</thumbnail>
 <externallink>http://ajbuilds.uk/falcon_ultra/uk1.xml</externallink>
