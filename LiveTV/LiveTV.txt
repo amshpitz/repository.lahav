@@ -68,7 +68,7 @@
 </channel>
 
 <channel>
-<name>Superemacy Live TV</name>
+<name>Superemacy Live TV </name>
 <thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/fitness.jpg</thumbnail>
 <externallink>http://stephen-builds.uk/supremacy/LiveTV/live.txt</externallink>
 <fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/fitness.jpg</fanart>
@@ -76,17 +76,65 @@
 </channel>
 
 <channel>
-<name>UK Live TV</name>
+<name>UK Live TV 1</name>
 <thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/icon_uk_channel.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/UKchannels.xml</externallink>
+<externallink>http://ajbuilds.uk/falcon_ultra/uk1.xml</externallink>
 <fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/icon_uk_channel.jpg</fanart>
 <info> </info>
 </channel>
 
 <channel>
-<name>USA Live TV</name>
+<name>UK Live TV 2</name>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/icon_uk_channel.jpg</thumbnail>
+<externallink>http://ajbuilds.uk/falcon_ultra/uk2.xml</externallink>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/icon_uk_channel.jpg</fanart>
+<info> </info>
+</channel>
+
+<channel>
+<name>USA Live TV 1</name>
 <thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/US-TV.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/USAchannels.xml</externallink>
+<externallink>http://ajbuilds.uk/falcon_ultra/usa1.xml</externallink>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/US-TV.jpg</fanart>
+<info> </info>
+</channel>
+
+<channel>
+<name>USA Live TV 2</name>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/US-TV.jpg</thumbnail>
+<externallink>http%3a%2f%2fajbuilds.uk%2ffalcon_ultra%2fusa2.xml</externallink>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/US-TV.jpg</fanart>
+<info> </info>
+</channel>
+
+<channel>
+<name>German Live TV</name>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/US-TV.jpg</thumbnail>
+<externallink>http://ajbuilds.uk/falcon_ultra/germantv.xml</externallink>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/US-TV.jpg</fanart>
+<info> </info>
+</channel>
+
+<channel>
+<name>French Live TV</name>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/US-TV.jpg</thumbnail>
+<externallink>http://ajbuilds.uk/falcon_ultra/frenchtv.xml</externallink>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/US-TV.jpg</fanart>
+<info> </info>
+</channel>
+
+<channel>
+<name>Sky Movies Live TV</name>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/US-TV.jpg</thumbnail>
+<externallink>http://ajbuilds.uk/falcon_ultra/frenchtv.xml</externallink>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/US-TV.jpg</fanart>
+<info> </info>
+</channel>
+
+<channel>
+<name>World Live TV</name>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/US-TV.jpg</thumbnail>
+<externallink>http://ajbuilds.uk/falcon_ultra/worldtv.xml</externallink>
 <fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/US-TV.jpg</fanart>
 <info> </info>
 </channel>
