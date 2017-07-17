@@ -102,7 +102,7 @@
 <channel>
 <name>USA Live TV 2</name>
 <thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/US-TV.jpg</thumbnail>
-<externallink>http%3a%2f%2fajbuilds.uk%2ffalcon_ultra%2fusa2.xml</externallink>
+<externallink>http://ajbuilds.uk/falcon_ultra/usa2.xml</externallink>
 <fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/US-TV.jpg</fanart>
 <info> </info>
 </channel>
