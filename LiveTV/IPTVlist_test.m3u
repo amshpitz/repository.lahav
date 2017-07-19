@@ -1,86 +1,28 @@
-#EXTINF:-1,ARUTZ HAYALDEMIM (IL)
-http://ok1.se:8000/live/travis/travis/6057.ts
-#EXTINF:-1,5HD (IL)
-http://51.15.43.134:10101/hl/181_4034.ts
-#EXTINF:-1,BABY TV (IL)
-http://ok1.se:8000/live/travis/travis/6058.ts
-#EXTINF:-1,CHANNEL 10 (IL)
-http://ok1.se:8000/live/travis/travis/6059.ts
-#EXTINF:-1,CHANNEL 2 (IL)
-http://ok1.se:8000/live/travis/travis/6060.ts
-#EXTINF:-1,Channel 20 (IL)
-http://ok1.se:8000/live/travis/travis/6061.ts
-#EXTINF:-1,CHANNEL 24 (IL)
-http://ok1.se:8000/live/travis/travis/6062.ts
-#EXTINF:-1,CHANNEL 9 (IL)
-http://ok1.se:8000/live/travis/travis/6063.ts
-#EXTINF:-1,COMEDY CENTRAL HD (IL)
-http://ok1.se:8000/live/travis/travis/6064.ts
-#EXTINF:-1,FOOD CHANNEL (IL)
-http://ok1.se:8000/live/travis/travis/6065.ts
-#EXTINF:-1,FOX SPORTS HD (IL)
-http://ok1.se:8000/live/travis/travis/6066.ts
-#EXTINF:-1,HOME PLUS (IL)
-http://ok1.se:8000/live/travis/travis/6067.ts
-#EXTINF:-1,HOP IL (IL)
-http://ok1.se:8000/live/travis/travis/6068.ts
-#EXTINF:-1,HOT ACTION HD (IL)
-http://ok1.se:8000/live/travis/travis/6069.ts
-#EXTINF:-1,HOT DRAMA HD (IL)
-http://ok1.se:8000/live/travis/travis/6070.ts
-#EXTINF:-1,HOT Entertainment (IL)
-http://ok1.se:8000/live/travis/travis/6071.ts
-#EXTINF:-1,HOT FUN HD (IL)
-http://ok1.se:8000/live/travis/travis/6072.ts
-#EXTINF:-1,HOT GOLD HD (IL)
-http://ok1.se:8000/live/travis/travis/6073.ts
-#EXTINF:-1,HOT PLUS HD (IL)
-http://ok1.se:8000/live/travis/travis/6074.ts
-#EXTINF:-1,HOT ZONE HD (IL)
-http://ok1.se:8000/live/travis/travis/6075.ts
-#EXTINF:-1,HOT3 HD (IL)
-http://ok1.se:8000/live/travis/travis/6076.ts
-#EXTINF:-1,IBA Channel 1 HD (IL)
-http://ok1.se:8000/live/travis/travis/6077.ts
-#EXTINF:-1,National Geo Wild (IL)
-http://ok1.se:8000/live/travis/travis/6078.ts
-#EXTINF:-1,Nick Jr (IL)
-http://ok1.se:8000/live/travis/travis/6079.ts
-#EXTINF:-1,Nickelodeon (IL)
-http://ok1.se:8000/live/travis/travis/6080.ts
-#EXTINF:-1,ONE HD (IL)
-http://ok1.se:8000/live/travis/travis/6081.ts
-#EXTINF:-1,Sport 5  Live HD (IL)
-http://ok1.se:8000/live/travis/travis/6082.ts
-#EXTINF:-1,Sport 5 HD (IL)
-http://ok1.se:8000/live/travis/travis/6083.ts
-#EXTINF:-1,Travel Channel (IL)
-http://ok1.se:8000/live/travis/travis/6084.ts
-#EXTINF:-1,VIVA (IL)
-http://ok1.se:8000/live/travis/travis/6085.ts
-#EXTINF:-1,YES 1 HD (IL)
-http://ok1.se:8000/live/travis/travis/6086.ts
-#EXTINF:-1,YES 2 HD (IL)
-http://ok1.se:8000/live/travis/travis/6087.ts
-#EXTINF:-1,YES 3 HD (IL)
-http://ok1.se:8000/live/travis/travis/6088.ts
-#EXTINF:-1,YES 4 HD (IL)
-http://ok1.se:8000/live/travis/travis/6089.ts
-#EXTINF:-1,YES 5 HD (IL)
-http://ok1.se:8000/live/travis/travis/6090.ts
-#EXTINF:-1,YES ACTION HD (IL)
-http://ok1.se:8000/live/travis/travis/6091.ts
-#EXTINF:-1,YES CINEMA HD (IL)
-http://ok1.se:8000/live/travis/travis/6092.ts
-#EXTINF:-1,YES COMEDY HD (IL)
-http://ok1.se:8000/live/travis/travis/6093.ts
-#EXTINF:-1,YES DOCU HD (IL)
-http://ok1.se:8000/live/travis/travis/6094.ts
-#EXTINF:-1,YES DRAMA HD (IL)
-http://ok1.se:8000/live/travis/travis/6095.ts
-#EXTINF:-1,YES OH HD (IL)
-http://ok1.se:8000/live/travis/travis/6096.ts
-#EXTINF:-1,YES SPORT1 HD (IL)
-http://ok1.se:8000/live/travis/travis/6097.ts
-#EXTINF:-1,YES SPORT2 HD (IL)
-http://ok1.se:8000/live/travis/travis/6098.ts
+#EXTINF:-1,===== Israele =====
+http://iptv.iptvthebest.net:15000/live/f8163198adc87de/ccc738e2baf1f11/21389.m3u8
+#EXTINF:-1,IL: Baby TV
+http://iptv.iptvthebest.net:15000/live/f8163198adc87de/ccc738e2baf1f11/21555.m3u8
+#EXTINF:-1,IL: Channel 10
+http://iptv.iptvthebest.net:15000/live/f8163198adc87de/ccc738e2baf1f11/21554.m3u8
+#EXTINF:-1,IL: Channel 20
+http://iptv.iptvthebest.net:15000/live/f8163198adc87de/ccc738e2baf1f11/21553.m3u8
+#EXTINF:-1,IL: IBA Channel 1
+http://iptv.iptvthebest.net:15000/live/f8163198adc87de/ccc738e2baf1f11/21552.m3u8
+#EXTINF:-1,IL: NICKJR
+http://iptv.iptvthebest.net:15000/live/f8163198adc87de/ccc738e2baf1f11/21551.m3u8
+#EXTINF:-1,IL: NICKLODEON
+http://iptv.iptvthebest.net:15000/live/f8163198adc87de/ccc738e2baf1f11/21550.m3u8
+#EXTINF:-1,IL: Yes 1 HD
+http://iptv.iptvthebest.net:15000/live/f8163198adc87de/ccc738e2baf1f11/21549.m3u8
+#EXTINF:-1,IL: Yes 2 HD
+http://iptv.iptvthebest.net:15000/live/f8163198adc87de/ccc738e2baf1f11/21548.m3u8
+#EXTINF:-1,IL: Yes 3 HD
+http://iptv.iptvthebest.net:15000/live/f8163198adc87de/ccc738e2baf1f11/21547.m3u8
+#EXTINF:-1,IL: Yes 4 HD
+http://iptv.iptvthebest.net:15000/live/f8163198adc87de/ccc738e2baf1f11/21546.m3u8
+#EXTINF:-1,IL: Yes 5 HD
+http://iptv.iptvthebest.net:15000/live/f8163198adc87de/ccc738e2baf1f11/21545.m3u8
+#EXTINF:-1,IL: YES SPORT 1 HD
+http://iptv.iptvthebest.net:15000/live/f8163198adc87de/ccc738e2baf1f11/21544.m3u8
+#EXTINF:-1,IL: YES SPORT 2 HD
+http://iptv.iptvthebest.net:15000/live/f8163198adc87de/ccc738e2baf1f11/21543.m3u8
