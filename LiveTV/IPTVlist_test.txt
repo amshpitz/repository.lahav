@@ -1,0 +1,662 @@
+[
+  {
+    "group": "10556", 
+    "name": "ערוץ 10", 
+    "url": "http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8", 
+    "image": "http://upload.wikimedia.org/wikipedia/he/archive/4/48/20120408220922!Channel_10_logo.png", 
+    "tvg": "471", 
+    "type": "video"
+  }, 
+  {
+    "group": "10556", 
+    "name": "כאן 11", 
+    "url": "http://82.80.192.2/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36", 
+    "image": "https://pbs.twimg.com/profile_images/759628557555474433/IwVxLvwO.jpg", 
+    "tvg": "473", 
+    "type": "video"
+  }, 
+  {
+    "group": "10556", 
+    "name": "ערוץ 20", 
+    "url": "http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8", 
+    "image": "http://www.nrg.co.il/images/archive/300x225/1/581/251.jpg", 
+    "tvg": "478", 
+    "type": "video"
+  }, 
+  {
+    "url": "rtmp://shoppingil-s.vidnt.com/shoppingil_ShoppingIL21TVRepeat/ShoppingIL21TV_3", 
+    "type": "video", 
+    "image": "http://www.nrg.co.il/images/archive/408x153/215/638.jpg", 
+    "group": "10556", 
+    "name": "ערוץ הקניות"
+  }, 
+  {
+    "url": "http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36", 
+    "type": "video", 
+    "image": "http://ftp5.bizportal.co.il/web/giflib/news/ch2logo.jpg", 
+    "group": "10556", 
+    "name": "ערוץ החדשות 2"
+  }, 
+  {
+    "group": "10556", 
+    "name": "ערוץ 2 - קשת (HD)", 
+    "url": "http://keshethdioslive-i.akamaihd.net/hls/live/221630/CH2LIVE_HIGH/index_2296.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36", 
+    "image": "http://www.themarker.com/polopoly_fs/1.593973.1297938795!/image/4142077372.jpg_gen/derivatives/landscape_468/4142077372.jpg", 
+    "tvg": "470", 
+    "type": "video"
+  }, 
+  {
+    "group": "10556", 
+    "name": "ערוץ 2 - רשת (HD)", 
+    "url": "http://besttv1.aoslive.it.best-tv.com/reshet/studio/index.m3u8", 
+    "image": "http://www.themarker.com/polopoly_fs/1.593973.1297938795!/image/4142077372.jpg_gen/derivatives/landscape_468/4142077372.jpg", 
+    "tvg": "470", 
+    "type": "video"
+  }, 
+  {
+    "group": "10556", 
+    "name": "ערוץ 2 - כללי (SD)", 
+    "url": "http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile3.m3u8", 
+    "image": "http://www.themarker.com/polopoly_fs/1.593973.1297938795!/image/4142077372.jpg_gen/derivatives/landscape_468/4142077372.jpg", 
+    "tvg": "470", 
+    "type": "video"
+  }, 
+  {
+    "group": "10556", 
+    "name": "ערוץ 2 - רשת (SD) (1)", 
+    "url": "http://besttv1.aoslive.it.best-tv.com/reshet/studio/index_1.m3u8", 
+    "image": "http://www.themarker.com/polopoly_fs/1.593973.1297938795!/image/4142077372.jpg_gen/derivatives/landscape_468/4142077372.jpg", 
+    "tvg": "470", 
+    "type": "video"
+  }, 
+  {
+    "group": "10556", 
+    "name": "ערוץ 2 - רשת (SD) (2)", 
+    "url": "http://reshet207788-i.akamaihd.net/hls/live/207509/live/encoder_index.m3u8", 
+    "image": "http://www.themarker.com/polopoly_fs/1.593973.1297938795!/image/4142077372.jpg_gen/derivatives/landscape_468/4142077372.jpg", 
+    "tvg": "470", 
+    "type": "video"
+  }, 
+  {
+    "url": "http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36", 
+    "type": "video", 
+    "image": "http://www.themarker.com/polopoly_fs/1.593973.1297938795!/image/4142077372.jpg_gen/derivatives/landscape_468/4142077372.jpg", 
+    "group": "10556", 
+    "name": "ערוץ 2 - קשת - תוכניות ברצף (FHD)"
+  }, 
+  {
+    "group": "10556", 
+    "name": "ערוץ המוזיקה", 
+    "url": "http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-b.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36", 
+    "image": "http://www.nrg.co.il/images/archive/300x225/859/687.jpg", 
+    "tvg": "1505", 
+    "type": "video"
+  }, 
+  {
+    "url": "http://82.80.192.27/ipbc_IPBCmakantvLVMRepeat/_definst_/smil:IPBCmakantvLVM.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36", 
+    "type": "video", 
+    "image": "", 
+    "group": "10556", 
+    "name": "כאן 33"
+  }, 
+  {
+    "url": "http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8", 
+    "type": "video", 
+    "image": "http://www.aisrael.org/_uploads/extraimg/000000000(2)(1).jpg", 
+    "group": "10556", 
+    "name": "ערוץ הכנסת"
+  }, 
+  {
+    "url": "http://stream.meirtv.co.il:1935/live/live1/playlist.m3u8", 
+    "type": "video", 
+    "image": "https://yt3.ggpht.com/-F8XZlOJLDxc/AAAAAAAAAAI/AAAAAAAAAAA/w5Pj2IFP92E/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+    "group": "10556", 
+    "name": "מאירTV"
+  }, 
+  {
+    "url": "http://stream7.shidur.net/htvlive2/_definst_/smil:live2.smil/playlist.m3u8", 
+    "type": "video", 
+    "image": "http://www.tvland.co.il/Pics/hidabrutbig.jpg", 
+    "group": "10556", 
+    "name": "ערוץ ההידברות"
+  }, 
+  {
+    "url": "http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8", 
+    "type": "video", 
+    "image": "http://upload.wikimedia.org/wikipedia/he/thumb/4/47/Logo_for_banber.jpg/220px-Logo_for_banber.jpg", 
+    "group": "10556", 
+    "name": "ערוץ הקבלה"
+  }, 
+  {
+    "url": "http://146.185.61.140:1935/live/myStream/playlist.m3u8", 
+    "type": "video", 
+    "image": "https://yt3.ggpht.com/-05eXppZi984/AAAAAAAAAAI/AAAAAAAAAAA/wZTKn8Ip81o/s100-c-k-no/photo.jpg", 
+    "group": "10556", 
+    "name": "ILand"
+  }, 
+  {
+    "url": "http://ynet-lh.akamaihd.net/i/ynet_1@123290/master.m3u8", 
+    "type": "video", 
+    "image": "http://www.ynet.co.il/images/CENTRAL_1024_ynet_logo.png", 
+    "group": "10556", 
+    "name": "Ynet Live"
+  }, 
+  {
+    "url": "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBC88LAM", 
+    "type": "audio", 
+    "image": "http://upload.wikimedia.org/wikipedia/he/1/10/Radio88FM.jpg", 
+    "group": "10000", 
+    "name": "88FM"
+  }, 
+  {
+    "url": "http://213.8.143.168/891fm", 
+    "type": "audio", 
+    "image": "http://www.rlive.co.il/up/pervoe-radio.png", 
+    "group": "10000", 
+    "name": "89.1FM ?????? ?????"
+  }, 
+  {
+    "url": "http://90.cdnwz.net/90fm", 
+    "type": "audio", 
+    "image": "https://s13.postimg.org/x5qwjgcdj/90fm.jpg", 
+    "group": "10000", 
+    "name": "90FM אמצע הדרך"
+  }, 
+  {
+    "url": "http://213.8.143.168/91fmAudio", 
+    "type": "audio", 
+    "image": "https://s13.postimg.org/r635fsrl3/91fm.jpg", 
+    "group": "10000", 
+    "name": "91FM לב המדינה"
+  }, 
+  {
+    "url": "http://server1.live1.co.il:8004/livemp3", 
+    "type": "audio", 
+    "image": "http://images.globes.co.il/Images/NewGlobes/big_image/2011/kol-barama_logo_blue-1[6.jpg", 
+    "group": "10000", 
+    "name": "92.1FM רדיו קול ברמה"
+  }, 
+  {
+    "url": "http://www.ereznet.info:9393/", 
+    "type": "audio", 
+    "image": "http://www.rlive.co.il/up/93fm.png", 
+    "group": "10000", 
+    "name": "93FM רדיו קול חי"
+  }, 
+  {
+    "url": "http://radio.96fm.co.il/96fm", 
+    "type": "audio", 
+    "image": "http://www.rlive.co.il/up/96fm.png", 
+    "group": "10000", 
+    "name": "96FM רדיו קול רגע"
+  }, 
+  {
+    "url": "http://99.livecdn.biz/99fm_aac?type=.flv", 
+    "type": "audio", 
+    "image": "http://cdn-radiotime-logos.tunein.com/s8712q.png", 
+    "group": "10000", 
+    "name": "ECO99FM"
+  }, 
+  {
+    "url": "http://213.8.143.168/100fmAudio", 
+    "type": "audio", 
+    "image": "http://www.100fm.co.il/images/logo.png", 
+    "group": "10000", 
+    "name": "100FM רדיוס"
+  }, 
+  {
+    "url": "http://server1.live1.co.il:8004/jrs101fm", 
+    "type": "audio", 
+    "image": "http://albums.tapuz.co.il/RadioJerusalem/logo101FM.jpg", 
+    "group": "10000", 
+    "name": "101FM רדיו ירושלים"
+  }, 
+  {
+    "url": "http://ashams.livecdn.biz/ashams_aac", 
+    "type": "audio", 
+    "image": "http://upload.wikimedia.org/wikipedia/he/thumb/0/00/357093-5.jpg/150px-357093-5.jpg", 
+    "group": "10000", 
+    "name": "101.1FM רדיו א-שמס"
+  }, 
+  {
+    "url": "http://audio-darom.ecast.co.il/darom101", 
+    "type": "video", 
+    "image": "http://msc.wcdn.co.il/w/w-700/313287-5.jpg", 
+    "group": "10000", 
+    "name": "101.5FM רדיו דרום"
+  }, 
+  {
+    "url": "http://eilat.cdnwz.net/102fm", 
+    "type": "audio", 
+    "image": "http://www.kay.co.il/files/images/kol.ayam.aadom.102.fm.jpg", 
+    "group": "10000", 
+    "name": "102FM קול הים האדום אילת"
+  }, 
+  {
+    "url": "http://102.livecdn.biz/102fm_aac", 
+    "type": "audio", 
+    "image": "http://www.fm1.co.il/images/stations/102fm.png", 
+    "group": "10000", 
+    "name": "102FM רדיו תל אביב"
+  }, 
+  {
+    "url": "http://103fm.live.streamgates.net/103fm_live/1multix/icecast.audio", 
+    "type": "audio", 
+    "image": "http://i1.ytimg.com/i/W4jrUdKsLeZ42v0oonhMXA/mq1.jpg", 
+    "group": "10000", 
+    "name": "103FM רדיו ללא הפסקה"
+  }, 
+  {
+    "url": "http://1045fm.cdnwz.net/1045fm", 
+    "type": "audio", 
+    "image": "http://www.1045.fm/images/1045-logo-sml.png", 
+    "group": "10000", 
+    "name": "צפון ללא הפסקה 104.5FM"
+  }, 
+  {
+    "url": "http://212.179.6.235:8000/galil", 
+    "type": "audio", 
+    "image": "http://galilradio.info/images/A.jpg", 
+    "group": "10000", 
+    "name": "105.3FM קול הגליל העליון"
+  }, 
+  {
+    "url": "rtmp://server2.procast.co.il:1935/ariel/ playpath=video swfUrl=http://radio-tv-audio.procast.co.il/video/jwplayer.flash.swf pageUrl=http://radio-tv-audio.procast.co.il/video/projW.html", 
+    "type": "audio", 
+    "image": "https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash4/p206x206/426527_548276445194980_1329664700_n.jpg", 
+    "group": "10000", 
+    "name": "106FM רדיו קול אחר אריאל"
+  }, 
+  {
+    "url": "http://stream.eshelnet.com/xstream?1473838878565.mp3", 
+    "type": "audio", 
+    "image": "https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xfa1/v/t1.0-9/19078_278627990247_596865_n.jpg?oh=45da3bd8be548a0ef48df2aa7523f6f7&oe=54E22A6B&__gda__=1420444589_6cd0fc0a16f74c5dd167428a1a572925", 
+    "group": "10000", 
+    "name": "106FM רדיו אשל הנשיא"
+  }, 
+  {
+    "url": "http://106fm.livecdn.biz:7075/;stream.mp3", 
+    "type": "audio", 
+    "image": "http://www.106fm.co.il/images/css/Logo106fm.png", 
+    "group": "10000", 
+    "name": "106FM קול הקמפוס"
+  }, 
+  {
+    "url": "http://yezreel.cdnwz.net/yezreel", 
+    "type": "audio", 
+    "image": "http://www.in-on.co.il/uploads/images/logo_radio.jpg", 
+    "group": "10000", 
+    "name": "106FM קול יזרעאל"
+  }, 
+  {
+    "url": "http://netanya.cdnwz.net/netanya", 
+    "type": "audio", 
+    "image": "http://www.kufsa.co.il/images/106sn.jpg", 
+    "group": "10000", 
+    "name": "106FM קול נתניה"
+  }, 
+  {
+    "url": "http://1036fm.livecast.co.il/live1036fm", 
+    "type": "audio", 
+    "image": "http://www.rlive.co.il/images/more/kol-ramat-hasharon-106fm.jpg", 
+    "group": "10000", 
+    "name": "106FM קול רמת השרון"
+  }, 
+  {
+    "url": "http://kinneret.cdnwz.net/kinneret", 
+    "type": "audio", 
+    "image": "https://fbexternal-a.akamaihd.net/safe_image.php?d=AQBuOP_cuzHTf0xy&w=155&h=114&url=http%3A%2F%2Fpod.icast.co.il%2Fmedia%2FIndex%2FPictures%2F1e6ab99e-9242-4621-9198-3caf11ec227e.jpg", 
+    "group": "10000", 
+    "name": "106FM רדיו קול הכנרת"
+  }, 
+  {
+    "url": "http://84.94.229.99:5693/", 
+    "type": "audio", 
+    "image": "http://www.rlive.co.il/up/kol-ramla.png", 
+    "group": "10000", 
+    "name": "106FM קול רמלה"
+  }, 
+  {
+    "url": "http://kolness.livecast.co.il/liveness", 
+    "type": "audio", 
+    "image": "http://www.radio106.org.il/images/smallogo.jpg", 
+    "group": "10000", 
+    "name": "106FM קול נס ציונה"
+  }, 
+  {
+    "url": "http://switch2-streaming-212-83-eu.ilcast.com:8055/;stream/1", 
+    "type": "audio", 
+    "image": "http://www.rlive.co.il/up/kol-galim.png", 
+    "group": "10000", 
+    "name": "106FM קול גלים"
+  }, 
+  {
+    "url": "http://kolgat.livecast.co.il/livegat", 
+    "type": "audio", 
+    "image": "http://www.matnaskg.org.il/image/users/214608/ftp/my_files/radio.jpg", 
+    "group": "10000", 
+    "name": "106FM קול גת"
+  }, 
+  {
+    "url": "http://194.153.101.160:8000/idc123.mp3", 
+    "type": "audio", 
+    "image": "http://www.fm1.co.il/images/stations/1062fm.gif", 
+    "group": "10000", 
+    "name": "106.2FM הרדיו הבינתחומי"
+  }, 
+  {
+    "url": "http://switch2-streaming-212-83-eu.ilcast.com:8090/;stream/1", 
+    "type": "audio", 
+    "image": "http://www.rlive.co.il/up/kol-rishonim.png", 
+    "group": "10000", 
+    "name": "106.2FM קול ראשונים"
+  }, 
+  {
+    "url": "http://oranim.cdnwz.net:8016/oranim", 
+    "type": "audio", 
+    "image": "http://www.oranim.ac.il/sites/heb/SiteCollectionImages/radio/%D7%9C%D7%95%D7%92%D7%95%20%D7%A8%D7%93%D7%99%D7%95.jpg", 
+    "group": "10000", 
+    "name": "106.2FM אורנים"
+  }, 
+  {
+    "url": "rtmp://stream1.sapir.ac.il:1935/live/ playpath=myStream swfUrl=http://vod.sapir.ac.il/jwplayer/jwplayer.flash.swf pageUrl=http://vod.sapir.ac.il/kolhanegev/", 
+    "type": "audio", 
+    "image": "http://college.sapir.ac.il/sapir/PRcommunicates/communicates/211012_radio/kolhanegev.jpg", 
+    "group": "10000", 
+    "name": "106.4FM קול הנגב"
+  }, 
+  {
+    "url": "http://gly-switch1.level1.co.il:9000/live", 
+    "type": "video", 
+    "image": "http://www.shareyot.co.il/wp-content/uploads/2012/08/%D7%9C%D7%95%D7%92%D7%95-%D7%92%D7%9C%D7%99-%D7%99%D7%A9%D7%A8%D7%90%D7%9C.jpg", 
+    "group": "10000", 
+    "name": "106.5FM גלי ישראל"
+  }, 
+  {
+    "url": "http://1075.livecdn.biz/radiohaifa?type=.flv", 
+    "type": "audio", 
+    "image": "http://www.exioma.co.il/Files/media7.jpg", 
+    "group": "10000", 
+    "name": "107.5FM רדיו חיפה"
+  }, 
+  {
+    "url": "http://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz", 
+    "type": "audio", 
+    "image": "http://upload.wikimedia.org/wikipedia/he/d/d4/Glgl.gif", 
+    "group": "10000", 
+    "name": "גלגלצ"
+  }, 
+  {
+    "url": "http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz", 
+    "type": "audio", 
+    "image": "http://upload.wikimedia.org/wikipedia/he/4/4a/Glzlogo.jpg", 
+    "group": "10000", 
+    "name": "גלי צהל"
+  }, 
+  {
+    "url": "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCkolhamusicaLAM", 
+    "type": "audio", 
+    "image": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash2/276638_272101219557826_895477359_n.jpg", 
+    "group": "10000", 
+    "name": "קול המוזיקה"
+  }, 
+  {
+    "url": "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCtarbutLAM", 
+    "type": "audio", 
+    "image": "http://www.enosh.org.il/_Uploads/7489reshetAlefradio.png", 
+    "group": "10000", 
+    "name": "כאן - תרבות"
+  }, 
+  {
+    "url": "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCbetLAM", 
+    "type": "audio", 
+    "image": "http://upload.wikimedia.org/wikipedia/he/3/31/ReshetBetLogo.jpg", 
+    "group": "10000", 
+    "name": "רשת ב"
+  }, 
+  {
+    "url": "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCgimmelLAM", 
+    "type": "audio", 
+    "image": "http://www.iba.org.il/schedule/pictures/P230313.jpg", 
+    "group": "10000", 
+    "name": "רשת ג"
+  }, 
+  {
+    "url": "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCmakanradioLAM", 
+    "type": "audio", 
+    "image": "http://www.iba.org.il/arabil/Arabic/images/arabicLogo.jpg", 
+    "group": "10000", 
+    "name": "כאן - בערבית"
+  }, 
+  {
+    "url": "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCrekaLAM", 
+    "type": "audio", 
+    "image": "http://i.img.co/radio/39/98/9839_290.png", 
+    "group": "10000", 
+    "name": "רקע"
+  }, 
+  {
+    "url": "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCmoreshetLAM", 
+    "type": "audio", 
+    "image": "http://www.rlive.co.il/up/reshet-moreshet.png", 
+    "group": "10000", 
+    "name": "רשת מורשת"
+  }, 
+  {
+    "url": "http://46.4.41.68:8000/995fm?type=.flv", 
+    "type": "audio", 
+    "image": "http://www.rlive.co.il/up/hamesh-99-5.png", 
+    "group": "10000", 
+    "name": "99.5FM רדיו חם אש"
+  }, 
+  {
+    "url": "http://cuead.cdnwiz.com/cuead-109fmmp3-64", 
+    "type": "audio", 
+    "image": "http://109fm.co.il/images/109llogo.png", 
+    "group": "10000", 
+    "name": "109FM"
+  }, 
+  {
+    "url": "rtmp://cast04.cdnwiz.com/eolsite/ playpath=eolsite.stream swfUrl=http://live.eol.co.il/jwplayer/jwplayer.flash.swf pageUrl=http://live.eol.co.il/", 
+    "type": "audio", 
+    "image": "http://www.voiceover.co.il/vault/%D7%A7%D7%A8%D7%99%D7%99%D7%A0%D7%95%D7%AA%20%D7%9E%D7%94%D7%95%D7%AA%20%D7%94%D7%97%D7%99%D7%99%D7%9D.jpg", 
+    "group": "10000", 
+    "name": "רדיו מהות החיים"
+  }, 
+  {
+    "url": "http://mms1.no-ip.net:8030/", 
+    "type": "audio", 
+    "image": "http://www.rlive.co.il/up/radio-kol-hatzafon.png", 
+    "group": "10000", 
+    "name": "רדיו קול הצפון"
+  }, 
+  {
+    "url": "http://radio.ilcast.com:8052/;", 
+    "type": "audio", 
+    "image": "http://www.rlive.co.il/up/radio-akko.png", 
+    "group": "10000", 
+    "name": "קול עכו"
+  }, 
+  {
+    "url": "http://knight.wavestreamer.com:8474/stream/1/", 
+    "type": "audio", 
+    "image": "http://www.radioezorit.co.il/images/logo%20radio%20ezorit-big.jpg", 
+    "group": "10000", 
+    "name": "אזורית"
+  }, 
+  {
+    "url": "http://s2.kzradio.net/live/mp3/icecast.audio", 
+    "type": "audio", 
+    "image": "http://www.rlive.co.il/up/kzradio.png", 
+    "group": "10000", 
+    "name": "הקצה"
+  }, 
+  {
+    "url": "http://radioafula.cdnwiz.com/stream", 
+    "type": "audio", 
+    "image": "http://radio-afula.com/images/52fb644378263.jpg", 
+    "group": "10000", 
+    "name": "רדיו עפולה"
+  }, 
+  {
+    "url": "http://radio.menta-fm.co.il:8888", 
+    "type": "audio", 
+    "image": "http://www.brizafm.co.il/wp-content/themes/arras/images/index_1.png", 
+    "group": "10000", 
+    "name": "קול המזרח"
+  }, 
+  {
+    "url": "http://listen.clickfm.co.il/1FM", 
+    "type": "audio", 
+    "image": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-frc3/c17.17.207.207/s160x160/199826_187914704582922_2447806_n.jpg", 
+    "group": "10000", 
+    "name": "Radio 1FM"
+  }, 
+  {
+    "url": "http://listen.clickfm.co.il/click2dance", 
+    "type": "audio", 
+    "image": "http://www.radioclick.fm/uploadImages/systemFiles/click2dance730514308169140000.png", 
+    "group": "10000", 
+    "name": "Click2Dance"
+  }, 
+  {
+    "url": "http://listen.clickfm.co.il/clickfm", 
+    "type": "audio", 
+    "image": "http://www.radioclick.fm/images/logo.jpg", 
+    "group": "10000", 
+    "name": "ClickFM"
+  }, 
+  {
+    "url": "http://listen.clickfm.co.il/clickcafe", 
+    "type": "audio", 
+    "image": "http://www.radioclick.fm/uploadImages/systemFiles/cafe-136328297979.png", 
+    "group": "10000", 
+    "name": "ClickCafe"
+  }, 
+  {
+    "url": "http://listen.clickfm.co.il/hip.mp3", 
+    "type": "audio", 
+    "image": "http://www.radioclick.fm/uploadImages/systemFiles/hiphop-136.png", 
+    "group": "10000", 
+    "name": "ClickHipHop"
+  }, 
+  {
+    "url": "http://listen.clickfm.co.il/click2love", 
+    "type": "audio", 
+    "image": "http://www.radioclick.fm/uploadImages/systemFiles/Click2Love.png", 
+    "group": "10000", 
+    "name": "Click2Love"
+  }, 
+  {
+    "url": "http://listen.clickfm.co.il/clickil", 
+    "type": "audio", 
+    "image": "http://www.radioclick.fm/uploadImages/systemFiles/clickil961356470764065000.png", 
+    "group": "10000", 
+    "name": "ClickIsrael"
+  }, 
+  {
+    "url": "http://live.radio-beat.com/stream1", 
+    "type": "audio", 
+    "image": "http://www.radio-beat.com/images/beatlogo.png", 
+    "group": "10000", 
+    "name": "רדיו ביט"
+  }, 
+  {
+    "url": "http://www.rs.mizrahit.co.il:7777/", 
+    "type": "audio", 
+    "image": "http://www.isr-radio.com/wp-content/uploads/2012/08/logo2.png", 
+    "group": "10000", 
+    "name": "נושמים מזרחית"
+  }, 
+  {
+    "url": "http://cp11.livecdn.biz/radiodance_aac", 
+    "type": "audio", 
+    "image": "http://cdn-radiotime-logos.tunein.com/s195825q.png", 
+    "group": "10000", 
+    "name": "Radio Dance ISRAEL"
+  }, 
+  {
+    "url": "http://uk2-vn.mixstream.net:8004/", 
+    "type": "audio", 
+    "image": "http://www.thevoiceofpeace.co.il/wpimages/wp4ee19960_06.png", 
+    "group": "10000", 
+    "name": "קול השלום"
+  }, 
+  {
+    "url": "http://uk3-vn.mixstream.net:8264/", 
+    "type": "audio", 
+    "image": "http://www.thevoiceofpeace.co.il/wpimages/wp4ee19960_06.png", 
+    "group": "10000", 
+    "name": "קול השלום קלאסיקות"
+  }, 
+  {
+    "url": "http://sol.video.cdnwz.net/sol/studio_a/playlist.m3u8", 
+    "type": "audio", 
+    "image": "http://www.radiosol.co.il/assets/imgs/site/logo.png", 
+    "group": "10000", 
+    "name": "רדיו סול"
+  }, 
+  {
+    "url": "http://radio-yasoo.ath.cx:7500/", 
+    "type": "audio", 
+    "image": "http://www.rlive.co.il/up/radio-yasoo.png", 
+    "group": "10000", 
+    "name": "רדיו יאסו"
+  }, 
+  {
+    "url": "http://radio.kaholyavan.co.il/livegreece_aac", 
+    "type": "audio", 
+    "image": "http://i.imgsafe.org/dd8d7688fa.png", 
+    "group": "10000", 
+    "name": "כחול יוון"
+  }, 
+  {
+    "url": "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCOrientalLA", 
+    "type": "audio", 
+    "image": "http://www.kolhazman.co.il/wp-content/uploads/thumbs/2195849-18-31yq7kthc2dnyutwmi45qi.jpg", 
+    "group": "10000", 
+    "name": "כאן - ים תיכוני"
+  }, 
+  {
+    "url": "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCNostalgiaLA", 
+    "type": "audio", 
+    "image": "http://www.kolhazman.co.il/wp-content/uploads/thumbs/2195849-18-31yq7kthc2dnyutwmi45qi.jpg", 
+    "group": "10000", 
+    "name": "כאן - נוסטלגיה"
+  }, 
+  {
+    "url": "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCRegeshLA", 
+    "type": "audio", 
+    "image": "http://www.kolhazman.co.il/wp-content/uploads/thumbs/2195849-18-31yq7kthc2dnyutwmi45qi.jpg", 
+    "group": "10000", 
+    "name": "כאן - שיא הרגש"
+  }, 
+  {
+    "url": "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBC80-90LA", 
+    "type": "audio", 
+    "image": "http://www.kolhazman.co.il/wp-content/uploads/thumbs/2195849-18-31yq7kthc2dnyutwmi45qi.jpg", 
+    "group": "10000", 
+    "name": "כאן - 80-90"
+  }, 
+  {
+    "url": "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCHitsLA", 
+    "type": "audio", 
+    "image": "http://www.kolhazman.co.il/wp-content/uploads/thumbs/2195849-18-31yq7kthc2dnyutwmi45qi.jpg", 
+    "group": "10000", 
+    "name": "כאן - להיטים"
+  }, 
+  {
+    "url": "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCClassicLA", 
+    "type": "audio", 
+    "image": "http://www.kolhazman.co.il/wp-content/uploads/thumbs/2195849-18-31yq7kthc2dnyutwmi45qi.jpg", 
+    "group": "10000", 
+    "name": "כאן - קלאסיקה"
+  }, 
+  {
+    "url": "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCAlternativeLA", 
+    "type": "audio", 
+    "image": "http://www.kolhazman.co.il/wp-content/uploads/thumbs/2195849-18-31yq7kthc2dnyutwmi45qi.jpg", 
+    "group": "10000", 
+    "name": "כאן - אלטרנטיב"
+  }
+]
