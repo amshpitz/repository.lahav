@@ -10,18 +10,58 @@
 <thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/d55444d1.jpg?height=149&width=200</thumbnail>
 <fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/d55444d1.jpg</fanart>
 </item>
+
+<item>
+<title>ערוץ 2 - קשת (HD)</title>
+<link>http://keshethdioslive-i.akamaihd.net/hls/live/221630/CH2LIVE_HIGH/index_2296.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</link>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/a635af69.jpg?height=149&width=200</thumbnail>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/a635af69.jpg</fanart>
+</item>
+
+<item>
+<title>ערוץ 2 - רשת (HD)</title>
+<link>http://besttv1.aoslive.it.best-tv.com/reshet/studio/index.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/a635af69.jpg?height=149&width=200</thumbnail>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/a635af69.jpg</fanart>
+</item>
+
+<item>
+<title>ערוץ 2 - כללי (SD)</title>
+<link>http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile3.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/a635af69.jpg?height=149&width=200</thumbnail>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/a635af69.jpg</fanart>
+</item>
+
 <item>
 <title>israel-channel 2 NeveIlan link1</title>
 <link>http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile1.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/a635af69.jpg?height=149&width=200</thumbnail>
 <fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/a635af69.jpg</fanart>
 </item>
+
 <item>
 <title>israel-channel 2 NeveIlan link2</title>
 <link>http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile3.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/a635af69.jpg?height=149&width=200</thumbnail>
 <fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/a635af69.jpg</fanart>
 </item>
+
+
+<item>
+<title>ערוץ המוזיקה</title>
+<link>http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-b.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</link>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/a635af69.jpg?height=149&width=200</thumbnail>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/a635af69.jpg</fanart>
+</item>
+
+
+<item>
+<title>Ynet Live</title>
+<link>http://ynet-lh.akamaihd.net/i/ynet_1@123290/master.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/a635af69.jpg?height=149&width=200</thumbnail>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/a635af69.jpg</fanart>
+</item>
+
 <item>
 <title>israel-test </title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/live/   WendyJGoines@armyspy.com/gejfsgnk/4856.ts</link>
