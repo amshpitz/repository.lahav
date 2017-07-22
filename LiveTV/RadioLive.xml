@@ -25,16 +25,25 @@
 </item>
 <item>
 <title>גלצ</title>
-<link>http://glzwizzlv.bynetcdn.com/glz/glz_aac/playlist.m3u8</link>
+<link>http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz</link>
 <thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/Radio/galz.jpg?height=149&width=200</thumbnail>
 <fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/Radio/galz.jpg</fanart>
 </item>
+
 <item>
 <title>גלגלצ</title>
-<link>http://glzwizzlv.bynetcdn.com/glglz/glglz_aac/playlist.m3u8</link>
+<link>http://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz</link>
 <thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/Radio/galgalz.jpg?height=149&width=200</thumbnail>
 <fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/Radio/galgalz.jpg</fanart>
 </item>
+
+<item>
+<title>ECO99FM</title>
+<link>http://99.livecdn.biz/99fm_aac?type=.flv</link>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/Radio/galgalz.jpg?height=149&width=200</thumbnail>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/Radio/galgalz.jpg</fanart>
+</item>
+
 
 <item>
 <title>TEST CNN</title>
