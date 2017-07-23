@@ -31,7 +31,7 @@
 <item>
 <title>My Collection ,music,history,Religion and God</title>
 <link>ignorme</link>
-<jsonrpc>Plugin://plugin.video.youtube/channel/UCXi8BT1cg9qevOXovwEtr-Q/featured?disable_polymer=true</jsonrpc>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCWrNUcc0rtADWfXvVdY_Zaw/playlists/?page=1</jsonrpc>
 <thumbnail>https://github.com/amshpitz/repository.lahav/blob/master/Icons/channels/shpitzShow.png</thumbnail>
 <fanart>https://github.com/amshpitz/repository.lahav/blob/master/Icons/channels/shpitzShow.png</fanart>
 </item>
