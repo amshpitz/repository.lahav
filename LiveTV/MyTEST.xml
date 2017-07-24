@@ -36,6 +36,14 @@
 </item>
 
 <item>
+	<title>אלוהים ויהדות בלי סיפורי אגדות</title>
+	<link>ignorme</link>
+	<jsonrpc>Plugin://plugin.video.youtube/playlist?list=PLPpE92HjGRlnuEuWDq_HWe8RzuGKLvSoV</jsonrpc>
+	<thumbnail>https://github.com/amshpitz/repository.lahav/blob/master/Icons/channels/shpitzShow.png</thumbnail>
+	<fanart>https://github.com/amshpitz/repository.lahav/blob/master/Icons/channels/shpitzShow.png</fanart>
+</item>
+
+<item>
 	<title>FOX Sport 1</title>
 	<sportsdevil>http://v2.ustreamix.com/stream.php?id=fox-sports-1-b</sportsdevil>
 	<referer>http://v2.ustreamix.com/stream.php?id=fox-sports-1-b</referer>
