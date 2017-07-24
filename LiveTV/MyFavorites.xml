@@ -38,7 +38,7 @@
 <item>
 	<title>ScienceReasonIsrael</title>
 	<link>ignorme</link>
-	<jsonrpc>Plugin://plugin.video.youtube/channel/UC7LoG5hqe-M89pcGvOe-vCAplaylists/?page=1</jsonrpc>
+	<jsonrpc>Plugin://plugin.video.youtube/channel/UC7LoG5hqe-M89pcGvOe-vCA/playlists/?page=1</jsonrpc>
 	<thumbnail>https://github.com/amshpitz/repository.lahav/blob/master/Icons/channels/shpitzShow.png</thumbnail>
 	<fanart>https://github.com/amshpitz/repository.lahav/blob/master/Icons/channels/shpitzShow.png</fanart>
 </item>
