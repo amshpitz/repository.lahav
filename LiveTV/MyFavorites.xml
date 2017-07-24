@@ -60,9 +60,9 @@
 </item>
 
 <item>
-	<title>Lahav Channel 3</title>
+	<title>Lahav Channel 4</title>
 	<link>ignorme</link>
-	<jsonrpc>Plugin://plugin.video.youtube/channel/UCXi8BT1cg9qevOXovwEtr-Q/playlists/?page=1</jsonrpc>
+	<jsonrpc>Plugin://plugin.video.youtube/channel/UCWrNUcc0rtADWfXvVdY_Zaw/playlists?view_as=subscriber</jsonrpc>
 	<thumbnail>https://github.com/amshpitz/repository.lahav/blob/master/Icons/channels/shpitzShow.png</thumbnail>
 	<fanart>https://github.com/amshpitz/repository.lahav/blob/master/Icons/channels/shpitzShow.png</fanart>
 </item>
