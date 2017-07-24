@@ -11,6 +11,14 @@
 </item>
 
 <item>
+	<title>Lahav Youtube Channel</title>
+	<link>ignorme</link>
+	<jsonrpc>Plugin://plugin.video.youtube/channel/UCWrNUcc0rtADWfXvVdY_Zaw/playlists/?page=1</jsonrpc>
+	<thumbnail>https://github.com/amshpitz/repository.lahav/blob/master/Icons/channels/shpitzShow.png</thumbnail>
+	<fanart>https://github.com/amshpitz/repository.lahav/blob/master/Icons/channels/shpitzShow.png</fanart>
+</item>
+
+<item>
 	<title>Música Mexicanos1</title>
 	<link>ignorme</link>
 	<jsonrpc>Plugin://plugin.video.youtube/channel/UCVPvIAqt64VLlYL3sygGGMg/playlists/?page=1</jsonrpc>
@@ -38,14 +46,6 @@
 	<title>Yigal Bin-Nun</title>
 	<link>ignorme</link>
 	<jsonrpc>Plugin://plugin.video.youtube/channel/UCHqoA8ZT9PwmG4GtZkMLpOQ/playlists/?page=1</jsonrpc>
-	<thumbnail>https://github.com/amshpitz/repository.lahav/blob/master/Icons/channels/shpitzShow.png</thumbnail>
-	<fanart>https://github.com/amshpitz/repository.lahav/blob/master/Icons/channels/shpitzShow.png</fanart>
-</item>
-
-<item>
-	<title>Lahav Youtube Channel</title>
-	<link>ignorme</link>
-	<jsonrpc>Plugin://plugin.video.youtube/channel/UCWrNUcc0rtADWfXvVdY_Zaw/playlists/?page=1</jsonrpc>
 	<thumbnail>https://github.com/amshpitz/repository.lahav/blob/master/Icons/channels/shpitzShow.png</thumbnail>
 	<fanart>https://github.com/amshpitz/repository.lahav/blob/master/Icons/channels/shpitzShow.png</fanart>
 </item>
