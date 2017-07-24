@@ -68,22 +68,6 @@
 </channel>
 
 <channel>
-<name>My News Site</name>
-<thumbnail>http://img2.turbomilk.com/portfolio/new/an-msdn-tv-logo.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/NEWS.xml</externallink>
-<fanart>http://img.talkandroid.com/uploads/2016/09/movie-theater.jpg</fanart>
-<info> </info>
-</channel>
-
-<channel>
-<name>TEST TV</name>
-<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/165a5801.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/MySite.xml</externallink>
-<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/165a5801.jpg</fanart>
-<info> </info>
-</channel>
-
-<channel>
 <name>News</name>
 <thumbnail>http://www.a1dedicatedservers.com/images/news.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/fouzo14/SuperEliteIptv/master/LiveTV/News/News.xml</externallink>
@@ -109,14 +93,6 @@
 
 <channel>
 <name>Kids</name>
-<thumbnail>http://daily-devotional.org/wp-content/uploads/2016/10/15517160600_8f5cdf7816_o.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/fouzo14/SuperEliteIptv/master/Kids/Kids.txt</externallink>
-<fanart>http://img.talkandroid.com/uploads/2016/09/movie-theater.jpg</fanart>
-<info> </info>
-</channel>
-
-<channel>
-<name>Fitness</name>
 <thumbnail>http://daily-devotional.org/wp-content/uploads/2016/10/15517160600_8f5cdf7816_o.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/fouzo14/SuperEliteIptv/master/Kids/Kids.txt</externallink>
 <fanart>http://img.talkandroid.com/uploads/2016/09/movie-theater.jpg</fanart>
