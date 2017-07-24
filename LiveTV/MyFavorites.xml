@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<tag>Joker</tag>
+
+<item>
+	<title>Channel 10</title>
+	<sportsdevil>http://www.goip.co.il/tv/channel10.html</sportsdevil>
+	<referer>https://www.streamlive.to/view/72886/NFL-Network</referer>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png</thumbnail>
+	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
+</item>
+
+<item>
+	<title>Música Mexicanos1</title>
+	<link>ignorme</link>
+	<jsonrpc>Plugin://plugin.video.youtube/channel/UCVPvIAqt64VLlYL3sygGGMg/playlists/?page=1</jsonrpc>
+	<thumbnail>https://github.com/amshpitz/repository.lahav/blob/master/Icons/channels/shpitzShow.png</thumbnail>
+	<fanart>https://github.com/amshpitz/repository.lahav/blob/master/Icons/channels/shpitzShow.png</fanart>
+</item>
+
+<item>
+	<title>YOUTUBE 30 Mins Aerobic Dance Workout</title>
+	<link>ignorme</link>
+	<jsonrpc>Plugin://plugin.video.youtube/channel/UCbqgDzBvusOKtSWvoePrjLA/playlists/?page=1</jsonrpc>
+	<thumbnail>https://yt3.ggpht.com/-DQAbvRvgqho/AAAAAAAAAAI/AAAAAAAAAAA/P2o8x0G7TnU/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+	<fanart>http://fantazyrepo.uk/addonimages/fido.addon/Fitness/fitness.jpg</fanart>
+</item>
+
+
+<item>
+	<title>My Collection ,music,history,Religion and God 3  </title>
+	<link>ignorme</link>
+	<jsonrpc>Plugin://plugin.video.youtube/channel/UChDSOTifeYm4DcI0IC_2DvQ/playlists/</jsonrpc>
+	<thumbnail>https://github.com/amshpitz/repository.lahav/blob/master/Icons/channels/shpitzShow.png</thumbnail>
+	<fanart>https://github.com/amshpitz/repository.lahav/blob/master/Icons/channels/shpitzShow.png</fanart>
+</item>
+
+<item>
+	<title>ScienceReasonIsrael</title>
+	<link>ignorme</link>
+	<jsonrpc>Plugin://plugin.video.youtube/channel/UC7LoG5hqe-M89pcGvOe-vCAplaylists/?page=1</jsonrpc>
+	<thumbnail>https://github.com/amshpitz/repository.lahav/blob/master/Icons/channels/shpitzShow.png</thumbnail>
+	<fanart>https://github.com/amshpitz/repository.lahav/blob/master/Icons/channels/shpitzShow.png</fanart>
+</item>
+
+<item>
+	<title>Ars Skepti</title>
+	<link>ignorme</link>
+	<jsonrpc>Plugin://plugin.video.youtube/channel/UCk6qCY83pedrfipssW-njtg/playlists/?page=1</jsonrpc>
+	<thumbnail>https://github.com/amshpitz/repository.lahav/blob/master/Icons/channels/shpitzShow.png</thumbnail>
+	<fanart>https://github.com/amshpitz/repository.lahav/blob/master/Icons/channels/shpitzShow.png</fanart>
+</item>
+
+<item>
+	<title>FOX Sport 1</title>
+	<sportsdevil>http://v2.ustreamix.com/stream.php?id=fox-sports-1-b</sportsdevil>
+	<referer>http://v2.ustreamix.com/stream.php?id=fox-sports-1-b</referer>
+	<thumbnail>http://www.powyeah.com/wp-content/uploads/2016/06/fight-network.png</thumbnail>
+	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
+</item>
