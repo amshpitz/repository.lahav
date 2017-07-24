@@ -26,15 +26,6 @@
 	<fanart>http://fantazyrepo.uk/addonimages/fido.addon/Fitness/fitness.jpg</fanart>
 </item>
 
-
-<item>
-	<title>My Collection ,music,history,Religion and God 3  </title>
-	<link>ignorme</link>
-	<jsonrpc>Plugin://plugin.video.youtube/channel/UChDSOTifeYm4DcI0IC_2DvQ/playlists/</jsonrpc>
-	<thumbnail>https://github.com/amshpitz/repository.lahav/blob/master/Icons/channels/shpitzShow.png</thumbnail>
-	<fanart>https://github.com/amshpitz/repository.lahav/blob/master/Icons/channels/shpitzShow.png</fanart>
-</item>
-
 <item>
 	<title>ScienceReasonIsrael</title>
 	<link>ignorme</link>
@@ -62,7 +53,7 @@
 <item>
 	<title>Lahav Channel 4</title>
 	<link>ignorme</link>
-	<jsonrpc>Plugin://plugin.video.youtube/channel/UCWrNUcc0rtADWfXvVdY_Zaw/playlists?view_as=subscriber</jsonrpc>
+	<jsonrpc>Plugin://plugin.video.youtube/channel/UCWrNUcc0rtADWfXvVdY_Zaw/playlists/?page=1</jsonrpc>
 	<thumbnail>https://github.com/amshpitz/repository.lahav/blob/master/Icons/channels/shpitzShow.png</thumbnail>
 	<fanart>https://github.com/amshpitz/repository.lahav/blob/master/Icons/channels/shpitzShow.png</fanart>
 </item>
