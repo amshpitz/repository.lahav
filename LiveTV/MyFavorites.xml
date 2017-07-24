@@ -44,6 +44,14 @@
 </item>
 
 <item>
+	<title>Yigal Bin-Nun</title>
+	<link>ignorme</link>
+	<jsonrpc>Plugin://plugin.video.youtube/channel/UCHqoA8ZT9PwmG4GtZkMLpOQ/playlists/?page=1</jsonrpc>
+	<thumbnail>https://github.com/amshpitz/repository.lahav/blob/master/Icons/channels/shpitzShow.png</thumbnail>
+	<fanart>https://github.com/amshpitz/repository.lahav/blob/master/Icons/channels/shpitzShow.png</fanart>
+</item>
+
+<item>
 	<title>Ars Skepti</title>
 	<link>ignorme</link>
 	<jsonrpc>Plugin://plugin.video.youtube/channel/UCk6qCY83pedrfipssW-njtg/playlists/?page=1</jsonrpc>
