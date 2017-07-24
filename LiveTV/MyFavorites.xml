@@ -52,7 +52,7 @@
 </item>
 
 <item>
-	<title>Yigal Bin-Nun</title>
+	<title>Lahav Channel</title>
 	<link>ignorme</link>
 	<jsonrpc>Plugin://plugin.video.youtube/channel/UCJXeouwb9OuANHtDrIqwsiQ/playlists/?page=1</jsonrpc>
 	<thumbnail>https://github.com/amshpitz/repository.lahav/blob/master/Icons/channels/shpitzShow.png</thumbnail>
