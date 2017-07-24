@@ -11,9 +11,9 @@
 </item>
 
 <item>
-<title>YOUTUBE aviv</title>
+<title>Música Mexicanos</title>
 <link>ignorme</link>
-<jsonrpc>Plugin://plugin.video.youtube/channel/UCEOWnJ3ilO9lny4HE-7VTkA</jsonrpc>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCVPvIAqt64VLlYL3sygGGMg/playlists</jsonrpc>
 <thumbnail>https://github.com/amshpitz/repository.lahav/blob/master/Icons/channels/shpitzShow.png</thumbnail>
 <fanart>https://github.com/amshpitz/repository.lahav/blob/master/Icons/channels/shpitzShow.png</fanart>
 </item>
