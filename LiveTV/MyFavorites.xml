@@ -11,9 +11,9 @@
 </item>
 
 <item>
-	<title>Lahav Youtube Channel</title>
+	<title>Lahav Youtube Channels</title>
 	<link>ignorme</link>
-	<jsonrpc>Plugin://plugin.video.youtube/channel/UCWrNUcc0rtADWfXvVdY_Zaw/playlists/?page=1</jsonrpc>
+	<jsonrpc>Plugin://plugin.video.shpitzyoutube</jsonrpc>
 	<thumbnail>https://github.com/amshpitz/repository.lahav/blob/master/Icons/channels/shpitzShow.png</thumbnail>
 	<fanart>https://github.com/amshpitz/repository.lahav/blob/master/Icons/channels/shpitzShow.png</fanart>
 </item>
