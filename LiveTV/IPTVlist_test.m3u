@@ -1,28 +1,76 @@
 #EXTINF:-1,===== Israele =====
-http://iptv.iptvthebest.net:15000/live/f8163198adc87de/ccc738e2baf1f11/21389.m3u8
-#EXTINF:-1,IL: Baby TV
-http://iptv.iptvthebest.net:15000/live/f8163198adc87de/ccc738e2baf1f11/21555.m3u8
-#EXTINF:-1,IL: Channel 10
-http://iptv.iptvthebest.net:15000/live/f8163198adc87de/ccc738e2baf1f11/21554.m3u8
-#EXTINF:-1,IL: Channel 20
-http://iptv.iptvthebest.net:15000/live/f8163198adc87de/ccc738e2baf1f11/21553.m3u8
-#EXTINF:-1,IL: IBA Channel 1
-http://iptv.iptvthebest.net:15000/live/f8163198adc87de/ccc738e2baf1f11/21552.m3u8
-#EXTINF:-1,IL: NICKJR
-http://iptv.iptvthebest.net:15000/live/f8163198adc87de/ccc738e2baf1f11/21551.m3u8
-#EXTINF:-1,IL: NICKLODEON
-http://iptv.iptvthebest.net:15000/live/f8163198adc87de/ccc738e2baf1f11/21550.m3u8
-#EXTINF:-1,IL: Yes 1 HD
-http://iptv.iptvthebest.net:15000/live/f8163198adc87de/ccc738e2baf1f11/21549.m3u8
-#EXTINF:-1,IL: Yes 2 HD
-http://iptv.iptvthebest.net:15000/live/f8163198adc87de/ccc738e2baf1f11/21548.m3u8
-#EXTINF:-1,IL: Yes 3 HD
-http://iptv.iptvthebest.net:15000/live/f8163198adc87de/ccc738e2baf1f11/21547.m3u8
-#EXTINF:-1,IL: Yes 4 HD
-http://iptv.iptvthebest.net:15000/live/f8163198adc87de/ccc738e2baf1f11/21546.m3u8
-#EXTINF:-1,IL: Yes 5 HD
-http://iptv.iptvthebest.net:15000/live/f8163198adc87de/ccc738e2baf1f11/21545.m3u8
-#EXTINF:-1,IL: YES SPORT 1 HD
-http://iptv.iptvthebest.net:15000/live/f8163198adc87de/ccc738e2baf1f11/21544.m3u8
-#EXTINF:-1,IL: YES SPORT 2 HD
-http://iptv.iptvthebest.net:15000/live/f8163198adc87de/ccc738e2baf1f11/21543.m3u8
+#EXTM3U
+#EXTINF:-1,yes 1
+http://s1-p3.peer5.net/edge/1-1.stream/chunklist.m3u8
+#EXTINF:-1,yes 2
+http://s1-p3.peer5.net/edge/2-1.stream/chunklist.m3u8
+#EXTINF:-1,yes 3
+http://s1-p3.peer5.net/edge/3-1.stream/chunklist.m3u8
+#EXTINF:-1,yes 4
+http://s1-p3.peer5.net/edge/4-1.stream/chunklist.m3u8
+#EXTINF:-1,yes 5
+http://s1-p3.peer5.net/edge/5-1.stream/chunklist.m3u8
+#EXTINF:-1,yes drama
+http://s1-p3.peer5.net/edge/6-1.stream/chunklist.m3u8
+#EXTINF:-1,yes action
+http://s1-p3.peer5.net/edge/7-1.stream/chunklist.m3u8
+#EXTINF:-1,yes oh
+http://s1-p3.peer5.net/edge/8-1.stream/chunklist.m3u8
+#EXTINF:-1,yes קולנוע ישראלי
+http://s1-p3.peer5.net/edge/9-1.stream/chunklist.m3u8
+#EXTINF:-1,yes comedy
+http://s1-p3.peer5.net/edge/10-1.stream/chunklist.m3u8
+#EXTINF:-1,yes bolywood
+http://s1-p3.peer5.net/edge/11-1.stream/chunklist.m3u8
+#EXTINF:-1,yes doco
+http://s1-p3.peer5.net/edge/12-1.stream/chunklist.m3u8
+#EXTINF:-1,yes n.g.
+http://s1-p3.peer5.net/edge/13-1.stream/chunklist.m3u8
+#EXTINF:-1,yes n.G.wild
+http://s1-p3.peer5.net/edge/14-1.stream/chunklist.m3u8
+#EXTINF:-1,yes history HD
+http://s1-p3.peer5.net/edge/15-1.stream/chunklist.m3u8
+#EXTINF:-1,ערוץ הטיולים
+http://s1-p3.peer5.net/edge/16-1.stream/chunklist.m3u8
+#EXTINF:-1,ערוץ הבריאות
+http://s1-p3.peer5.net/edge/17-1.stream/chunklist.m3u8
+#EXTINF:-1,בית+
+http://s1-p3.peer5.net/edge/18-1.stream/chunklist.m3u8
+#EXTINF:-1,ערוץ החיים הטובים
+http://s1-p3.peer5.net/edge/19-1.stream/chunklist.m3u8
+#EXTINF:-1,ערוץ האוכל
+http://s1-p3.peer5.net/edge/20-1.stream/chunklist.m3u8
+#EXTINF:-1,ערוץ הדברות
+http://s1-p3.peer5.net/edge/21-1.stream/chunklist.m3u8
+#EXTINF:-1,ערוץ E
+http://s1-p3.peer5.net/edge/22-1.stream/chunklist.m3u8
+#EXTINF:-1,viva
+http://s1-p3.peer5.net/edge/23-1.stream/chunklist.m3u8
+#EXTINF:-1,viva+
+http://s1-p3.peer5.net/edge/24-1.stream/chunklist.m3u8
+#EXTINF:-1,ערוץ ים תיכוני
+http://s1-p3.peer5.net/edge/25-1.stream/chunklist.m3u8
+#EXTINF:-1,ערוץ 24
+http://s1-p3.peer5.net/edge/26-1.stream/chunklist.m3u8
+#EXTINF:-1,ערוץ 2
+http://s1-p3.peer5.net/edge/27-1.stream/chunklist.m3u8
+#EXTINF:-1,ערוץ 10
+http://s1-p3.peer5.net/edge/28-1.stream/chunklist.m3u8
+#EXTINF:-1,כאן 11
+http://s1-p3.peer5.net/edge/29-1.stream/chunklist.m3u8
+#EXTINF:-1,ערוץ 20
+http://s1-p3.peer5.net/edge/30-1.stream/chunklist.m3u8
+#EXTINF:-1,ערוץ 9
+http://s1-p3.peer5.net/edge/31-1.stream/chunklist.m3u8
+#EXTINF:-1,hot 3
+http://s1-p3.peer5.net/edge/70-1.stream/chunklist.m3u8
+#EXTINF:-1, hot action
+http://s1-p3.peer5.net/edge/71-1.stream/chunklist.m3u8
+#EXTINF:-1, hot fun
+http://s1-p3.peer5.net/edge/72-1.stream/chunklist.m3u8
+#EXTINF:-1, hot gold
+http://s1-p3.peer5.net/edge/73-1.stream/chunklist.m3u8
+#EXTINF:-1,hot drama
+http://s1-p3.peer5.net/edge/74-1.stream/chunklist.m3u8
+#EXTINF:-1,ערוץ הילדים
+http://s1-p3.peer5.net/edge/75-1.stream/chunklist.m3u8
