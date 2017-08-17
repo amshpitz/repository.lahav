@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<tag>Joker</tag>
+
+<item>
+	<title> NFL-Network</title>
+	<sportsdevil>https://www.streamlive.to/view/72886/NFL-Network</sportsdevil>
+	<referer>https://www.streamlive.to/view/72886/NFL-Network</referer>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png</thumbnail>
+	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
+</item>
+
+<item>
+	<title>FOX Sport 1</title>
+	<sportsdevil>http://v2.ustreamix.com/stream.php?id=fox-sports-1-b</sportsdevil>
+	<referer>http://v2.ustreamix.com/stream.php?id=fox-sports-1-b</referer>
+	<thumbnail>http://www.powyeah.com/wp-content/uploads/2016/06/fight-network.png</thumbnail>
+	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
+</item>
