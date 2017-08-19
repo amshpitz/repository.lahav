@@ -26,8 +26,8 @@
 
 <item>
 	<title>Channel 10 2</title>
-	<sportsdevil>http://yeshira.net/c10</sportsdevil>
-	<referer>http://yeshira.net/c10</referer>
+	<sportsdevil>http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8</sportsdevil>
+	<referer>http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8</referer>
 	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png</thumbnail>
 	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
 </item>
@@ -58,8 +58,8 @@
 
 <item>
 	<title>Sport 1</title>
-	<sportsdevil>http://tipim4u.blogspot.co.il/p/zar.html</sportsdevil>
-	<referer>https://www.streamlive.to/view/72886/NFL-Network</referer>
+	<sportsdevil>https://hls.ssh101.com/live/sport1fixed/index.m3u8</sportsdevil>
+	<referer>https://hls.ssh101.com/live/sport1fixed/index.m3u8</referer>
 	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png</thumbnail>
 	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
 </item>
@@ -74,8 +74,8 @@
 
 <item>
 	<title>Sport 2</title>
-	<sportsdevil>http://yeshira.net/2017/06/sport2.html</sportsdevil>
-	<referer>http://yeshira.net/2017/06/sport2.html</referer>
+	<sportsdevil>http://192.99.18.85:1935/live/sport2/playlist.m3u8</sportsdevil>
+	<referer>http://192.99.18.85:1935/live/sport2/playlist.m3u8</referer>
 	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png</thumbnail>
 	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
 </item>
