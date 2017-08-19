@@ -19,15 +19,15 @@
 <item>
 	<title>Channel 10</title>
 	<sportsdevil>http://www.goip.co.il/tv/channel10.html</sportsdevil>
-	<referer>https://www.streamlive.to/view/72886/NFL-Network</referer>
+	<referer>http://www.goip.co.il/tv/channel10.html</referer>
 	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png</thumbnail>
 	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
 </item>
 
 <item>
 	<title>Channel 10 2</title>
-	<sportsdevil>http://www.goip.co.il/tv/channel_2.html</sportsdevil>
-	<referer>https://www.streamlive.to/view/72886/NFL-Network</referer>
+	<sportsdevil>http://yeshira.net/c10</sportsdevil>
+	<referer>http://yeshira.net/c10</referer>
 	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png</thumbnail>
 	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
 </item>
@@ -35,7 +35,7 @@
 <item>
 	<title>Channel 2</title>
 	<sportsdevil>http://www.goip.co.il/tv/channel_2.html</sportsdevil>
-	<referer>https://www.streamlive.to/view/72886/NFL-Network</referer>
+	<referer>http://www.goip.co.il/tv/channel_2.html</referer>
 	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png</thumbnail>
 	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
 </item>
@@ -43,7 +43,7 @@
 <item>
 	<title>Channel 1-Kan</title>
 	<sportsdevil>http://www.goip.co.il/tv/kan.html</sportsdevil>
-	<referer>https://www.streamlive.to/view/72886/NFL-Network</referer>
+	<referer>http://www.goip.co.il/tv/kan.html</referer>
 	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png</thumbnail>
 	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
 </item>
@@ -65,8 +65,8 @@
 </item>
 
 <item>
-	<title>Sport 1 HD</title>
-	<sportsdevil>http://tipim4u.blogspot.co.il/p/zar.html</sportsdevil>
+	<title>NFL-Network</title>
+	<sportsdevil>https://www.streamlive.to/view/72886/NFL-Network</sportsdevil>
 	<referer>https://www.streamlive.to/view/72886/NFL-Network</referer>
 	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png</thumbnail>
 	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
@@ -74,8 +74,8 @@
 
 <item>
 	<title>Sport 2</title>
-	<sportsdevil>http://tipim4u.blogspot.co.il/p/zar2.html</sportsdevil>
-	<referer>https://www.streamlive.to/view/72886/NFL-Network</referer>
+	<sportsdevil>http://yeshira.net/2017/06/sport2.html</sportsdevil>
+	<referer>http://yeshira.net/2017/06/sport2.html</referer>
 	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png</thumbnail>
 	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
 </item>
