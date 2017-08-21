@@ -4,49 +4,49 @@
 
 <channel>
 <name>fitness</name>
-<thumbnail>http://img2.turbomilk.com/portfolio/new/an-msdn-tv-logo.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/WhiteMan/sport.png</thumbnail>
 <externallink>https://github.com/amshpitz/repository.lahav/blob/master/LiveTV/fitness.xml</externallink>
-<fanart>http://img.talkandroid.com/uploads/2016/09/movie-theater.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/WhiteMan/sport.png</fanart>
 <info> </info>
 </channel>
 
 <channel>
 <name>My Favorites Youtube Chnnels</name>
-<thumbnail>http://img2.turbomilk.com/portfolio/new/an-msdn-tv-logo.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/StyleDesign2/youtube.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/MyFavorites.xml</externallink>
-<fanart>http://img.talkandroid.com/uploads/2016/09/movie-theater.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/StyleDesign2/youtube.png</fanart>
 <info> </info>
 </channel>
 
 <channel>
 <name>Israel TV Chnnels From Site</name>
-<thumbnail>http://img2.turbomilk.com/portfolio/new/an-msdn-tv-logo.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/StyleDesign2/livetv.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/TVIsraelSite.xml</externallink>
-<fanart>http://img.talkandroid.com/uploads/2016/09/movie-theater.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/StyleDesign2/livetv.png</fanart>
 <info> </info>
 </channel>
 
 <channel>
 <name>MY Chnnels From Site</name>
-<thumbnail>http://img2.turbomilk.com/portfolio/new/an-msdn-tv-logo.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/StyleDesign2/livetv.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/MySite.xml</externallink>
-<fanart>http://img.talkandroid.com/uploads/2016/09/movie-theater.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/StyleDesign2/livetv.png</fanart>
 <info> </info>
 </channel>
 
 <channel>
 <name>Sports Maverick Live</name>
-<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/fitness.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/WhiteMan/sport.png</thumbnail>
 <externallink>http://maverickrepo.net/data/sports/sports.xml</externallink>
-<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/fitness.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/WhiteMan/sport.png</fanart>
 <info> </info>
 </channel>
 
 <channel>
 <name>Sports UKTurk Live</name>
-<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/fitness.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/StyleDesign2/sport.png</thumbnail>
 <externallink>http://addoncloud.org/ukturk/UKTurk/SportsList.txt</externallink>
-<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/fitness.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/StyleDesign2/sport.png</fanart>
 <info> </info>
 </channel>
 
