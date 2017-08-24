@@ -1,13 +1,30 @@
 <item>
-<title>israel-channel 10</title>
+<title>Israel-channel 10</title>
 <link>http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/10.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/10.jpg</fanart>
 </item>
+
+<item>
+<title> Israel-channel 10 nana10</title>
+<sportsdevil>http://10tv.nana10.co.il/Article/?ArticleID=1055909</sportsdevil>
+<referer>http://10tv.nana10.co.il/Article/?ArticleID=1055909</referer>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/10.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/10.jpg</fanart>
+</item>
+
 <item>
 <title>israel-channel 1 כאן</title>
 <link>http://82.80.192.2/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/d55444d1.jpg?height=149&width=200</thumbnail>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/d55444d1.jpg</fanart>
+</item>
+
+<item>
+<title>israel-channel 1 כאן wwitv</title>
+<sportsdevil>http://wwitv.com/tv_channels/b6996-KAN-11-TV-Israel.htm</sportsdevil>
+<referer>http://wwitv.com/tv_channels/b6996-KAN-11-TV-Israel.htm</referer>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/d55444d1.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/d55444d1.jpg</fanart>
 </item>
 
