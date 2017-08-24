@@ -5,105 +5,105 @@
 
 <channel>
 <name>My Channels</name>
-<thumbnail>http://img2.turbomilk.com/portfolio/new/an-msdn-tv-logo.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/StyleDesign2/livetv.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/MyChannel.txt</externallink>
-<fanart>http://img.talkandroid.com/uploads/2016/09/movie-theater.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/StyleDesign2/livetv.png</fanart>
 <info> </info>
 </channel>
 
 <channel>
 <name>Live TV</name>
-<thumbnail>http://img2.turbomilk.com/portfolio/new/an-msdn-tv-logo.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/StyleDesign2/livetv.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/LiveTV.txt</externallink>
-<fanart>http://img.talkandroid.com/uploads/2016/09/movie-theater.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/StyleDesign2/livetv.png</fanart>
 <info> </info>
 </channel>
 
 <channel>
 <name>Israel Radio Live</name>
-<thumbnail>http://img2.turbomilk.com/portfolio/new/an-msdn-tv-logo.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/StyleDesign2/radio.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/RadioLive.xml</externallink>
-<fanart>http://img.talkandroid.com/uploads/2016/09/movie-theater.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/StyleDesign2/radio.png</fanart>
 <info> </info>
 </channel>
 
 <channel>
 <name>Music</name>
-<thumbnail>https://cdn3.iconfinder.com/data/icons/glypho-movie-and-video/64/theater-masks-512.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/StyleDesign2/music.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/Music.txt</externallink>
-<fanart>http://www.nicovdmeulen.com/wp-content/uploads/2013/11/Nico-van-der-Meulen-glass-house-50.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/StyleDesign2/music.png</fanart>
 <info> </info>
 </channel>
 
 <channel>
 <name>Sport</name>
-<thumbnail>https://cdn3.iconfinder.com/data/icons/glypho-movie-and-video/64/theater-masks-512.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/StyleDesign2/sport.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/Sport.txt</externallink>
-<fanart>http://www.nicovdmeulen.com/wp-content/uploads/2013/11/Nico-van-der-Meulen-glass-house-50.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/StyleDesign2/sport.png</fanart>
 <info> </info>
 </channel>
 
 <channel>
 <name>VOD from WEB Site</name>
-<thumbnail>http://img2.turbomilk.com/portfolio/new/an-msdn-tv-logo.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/StyleDesign2/vod.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/VODSite.xml</externallink>
-<fanart>http://img.talkandroid.com/uploads/2016/09/movie-theater.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/StyleDesign2/vod.png</fanart>
 <info> </info>
 </channel>
 
 <channel>
 <name>TV Show</name>
-<thumbnail>http://img2.turbomilk.com/portfolio/new/an-msdn-tv-logo.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/StyleDesign2/tvshows.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/TVShow.txt</externallink>
-<fanart>http://img.talkandroid.com/uploads/2016/09/movie-theater.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/StyleDesign2/tvshows.png</fanart>
 <info> </info>
 </channel>
 
 <channel>
 <name>Series TV Show</name>
-<thumbnail>http://img2.turbomilk.com/portfolio/new/an-msdn-tv-logo.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/StyleDesign2/tvshows.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/ftv_shows.xml</externallink>
-<fanart>http://img.talkandroid.com/uploads/2016/09/movie-theater.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/StyleDesign2/tvshows.png</fanart>
 <info> </info>
 </channel>
 
 <channel>
 <name>News</name>
-<thumbnail>http://www.a1dedicatedservers.com/images/news.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/StyleDesign2/livetv.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/fouzo14/SuperEliteIptv/master/LiveTV/News/News.xml</externallink>
-<fanart>http://www.nicovdmeulen.com/wp-content/uploads/2013/11/Nico-van-der-Meulen-glass-house-50.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/StyleDesign2/livetv.png</fanart>
 <info> </info>
 </channel>
 
 <channel>
 <name>WORLD CAMS Live</name>
-<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/icon_uk_channel.jpg<</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/StyleDesign2/pictures.png<</thumbnail>
 <externallink>http://fantazyrepo.uk/addonimages/fido.addon/Livetv/webcams.new.xml</externallink>
-<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/icon_uk_channel.jpg<</fanart>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/StyleDesign2/pictures.png<</fanart>
 <info> </info>
 </channel>
 
 <channel>
 <name>Movies</name>
-<thumbnail>http://icons.iconarchive.com/icons/designbolts/free-multimedia/1024/Clapper-icon.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/StyleDesign2/movies.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/fouzo14/SuperEliteIptv/master/Movies/movies.txt</externallink>
-<fanart>http://img.talkandroid.com/uploads/2016/09/movie-theater.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/StyleDesign2/movies.png</fanart>
 <info> </info>
 </channel>
 
 <channel>
 <name>Kids</name>
-<thumbnail>http://daily-devotional.org/wp-content/uploads/2016/10/15517160600_8f5cdf7816_o.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/StyleDesign2/kids.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/fouzo14/SuperEliteIptv/master/Kids/Kids.txt</externallink>
-<fanart>http://img.talkandroid.com/uploads/2016/09/movie-theater.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/StyleDesign2/kids.png</fanart>
 <info> </info>
 </channel>
 
 <channel>
 <name>3D</name>
-<thumbnail>https://cdn3.iconfinder.com/data/icons/3d-printing-icon-set/512/3d.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/StyleDesign2/movies.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/fouzo14/SuperEliteIptv/master/3D/3D.txt</externallink>
-<fanart>http://img.talkandroid.com/uploads/2016/09/movie-theater.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/StyleDesign2/movies.png</fanart>
 <info> </info>
 </channel>
 
