@@ -11,9 +11,9 @@
 
 <channel>
 <name>Israel Live TV</name>
-<thumbnail>https://cdn3.iconfinder.com/data/icons/glypho-movie-and-video/64/theater-masks-512.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/StyleDesign2/israeltv.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/LiveTV/IsraelLive.xml</externallink>
-<fanart>http://www.nicovdmeulen.com/wp-content/uploads/2013/11/Nico-van-der-Meulen-glass-house-50.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/StyleDesign2/israeltv.png</fanart>
 <info> </info>
 </channel>
 
@@ -167,7 +167,7 @@
 <channel>
 <name>News</name>
 <thumbnail>http://www.a1dedicatedservers.com/images/news.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/fouzo14/SuperEliteIptv/master/LiveTV/News/News.xml</externallink>
+<externallink>http://goodfellasteam.com/goodfellas2/content/live_tv_streams/news/world_news.xml</externallink>
 <fanart>http://www.nicovdmeulen.com/wp-content/uploads/2013/11/Nico-van-der-Meulen-glass-house-50.jpg</fanart>
 <info> </info>
 </channel>
