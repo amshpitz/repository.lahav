@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+ <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 <tag>Joker</tag>
 <item>
@@ -36,6 +36,14 @@
 	<title>Channel 2</title>
 	<sportsdevil>http://www.goip.co.il/tv/channel_2.html</sportsdevil>
 	<referer>http://www.goip.co.il/tv/channel_2.html</referer>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png</thumbnail>
+	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
+</item>
+
+<item>
+	<title>Channel 2 A</title>
+	<sportsdevil>https://www.isra.tv/channel2/</sportsdevil>
+	<referer>https://www.isra.tv/channel2/</referer>
 	<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png</thumbnail>
 	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
 </item>
