@@ -25,3 +25,19 @@
 	<thumbnail>http://www.powyeah.com/wp-content/uploads/2016/06/fight-network.png</thumbnail>
 	<fanart>http://www.artsfon.com/pic/201503/1920x1080/artsfon.com-64974.jpg</fanart>
 </item>
+
+<item>
+	<title> Israel-channel 10 nana10</title>
+	<sportsdevil>http://10tv.nana10.co.il/Article/?ArticleID=1055909</sportsdevil>
+	<referer>http://10tv.nana10.co.il/Article/?ArticleID=1055909</referer>
+	<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/10.jpg</thumbnail>
+	<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/10.jpg</fanart>
+</item>
+
+<item>
+	<title>israel-channel 1 כאן site</title>
+	<sportsdevil>http://www.kan.org.il/live/tv.aspx?stationId=2</sportsdevil>
+	<referer>http://www.kan.org.il/live/tv.aspx?stationId=2</referer>
+	<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/d55444d1.jpg</thumbnail>
+	<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/d55444d1.jpg</fanart>
+</item>
