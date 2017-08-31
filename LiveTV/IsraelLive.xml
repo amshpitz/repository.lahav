@@ -29,6 +29,14 @@
 </item>
 
 <item>
+<title>israel-channel 2 isramedia site</title>
+<sportsdevil>http://www.isramedia.net/2/%D7%A2%D7%A8%D7%95%D7%A6%D7%99%D7%9D-%D7%9E%D7%99%D7%A9%D7%A8%D7%90%D7%9C/%D7%A2%D7%A8%D7%95%D7%A5-2-%D7%A9%D7%99%D7%93%D7%95%D7%A8-%D7%97%D7%99</sportsdevil>
+<referer>http://www.isramedia.net/2/%D7%A2%D7%A8%D7%95%D7%A6%D7%99%D7%9D-%D7%9E%D7%99%D7%A9%D7%A8%D7%90%D7%9C/%D7%A2%D7%A8%D7%95%D7%A5-2-%D7%A9%D7%99%D7%93%D7%95%D7%A8-%D7%97%D7%99</referer>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/d55444d1.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/d55444d1.jpg</fanart>
+</item>
+
+<item>
 <title> א-ג ערוץ 2 - קשת (HD)</title>
 <link>http://keshethdioslive-i.akamaihd.net/hls/live/221630/CH2LIVE_HIGH/index_2296.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</link>
 <thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/a635af69.jpg?height=149&width=200</thumbnail>
