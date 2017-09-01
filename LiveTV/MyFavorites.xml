@@ -3,6 +3,30 @@
 <tag>Joker</tag>
 
 <item>
+<title> Israel-channel 10 nana10</title>
+<sportsdevil>http://10tv.nana10.co.il/Article/?ArticleID=1055909</sportsdevil>
+<referer>http://10tv.nana10.co.il/Article/?ArticleID=1055909</referer>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/10.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/10.jpg</fanart>
+</item>
+
+
+<item>
+<title>israel-channel 2 isramedia site</title>
+<link>http://l1.isramedia.net:1935/chan/smil:2rre.smil/chunklist_w1242354114_b500000_tkdG9rZW5zdGFydHRpbWU9MTUwNDE5OTkzMiZ0b2tlbmVuZHRpbWU9MTUwNDIwMzUzMiZ0b2tlbmhhc2g9bzFySFJiQ283RTU2TlFYTG0yZmRSRFZ3TE5NYW80ZFQyTkVjeElTVUZybz0=.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/a635af69.jpg?height=149&width=200</thumbnail>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/a635af69.jpg</fanart>
+</item>
+
+<item>
+<title>ערוץ 2 - רשת ד-ש (HD) site</title>
+<sportsdevil>http://reshet.tv/live/</sportsdevil>
+<referer>http://reshet.tv/live/</referer>
+<thumbnail>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/a635af69.jpg?height=149&width=200</thumbnail>
+<fanart>https://raw.githubusercontent.com/amshpitz/repository.lahav/master/Icons/channels/a635af69.jpg</fanart>
+ </item>
+
+<item>
 	<title> NFL-Network</title>
 	<sportsdevil>https://www.streamlive.to/view/72886/NFL-Network</sportsdevil>
 	<referer>https://www.streamlive.to/view/72886/NFL-Network</referer>
