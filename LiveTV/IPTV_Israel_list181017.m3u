@@ -1,0 +1,98 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="471" group-title="World - עולם" tvg-logo="http://upload.wikimedia.org/wikipedia/he/archive/4/48/20120408220922!Channel_10_logo.png",ערוץ 10
+http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
+
+#EXTINF:-1 tvg-id="473" group-title="World - עולם" tvg-logo="https://pbs.twimg.com/profile_images/759628557555474433/IwVxLvwO.jpg",כאן 11
+http://82.80.192.2/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36
+
+#EXTINF:-1 tvg-id="478" group-title="World - עולם" tvg-logo="http://www.nrg.co.il/images/archive/300x225/1/581/251.jpg",ערוץ 20
+http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ערוץ הקניות" group-title="World - עולם" tvg-logo="http://www.nrg.co.il/images/archive/408x153/215/638.jpg",ערוץ הקניות
+rtmp://shoppingil-s.vidnt.com/shoppingil_ShoppingIL21TVRepeat/ShoppingIL21TV_3
+
+#EXTINF:-1 tvg-id="ערוץ החדשות 2" group-title="World - עולם" tvg-logo="http://ftp5.bizportal.co.il/web/giflib/news/ch2logo.jpg",ערוץ החדשות 2
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36
+
+#EXTINF:-1 tvg-id="470" group-title="World - עולם" tvg-logo="http://www.themarker.com/polopoly_fs/1.593973.1297938795!/image/4142077372.jpg_gen/derivatives/landscape_468/4142077372.jpg",ערוץ 2 - קשת (HD)
+http://127.0.0.1:65007/?url=plugin%3A//plugin.video.MakoTV/%26url%3Dhttp%253A%252F%252Fwww.mako.co.il%252Fmako-vod-live-tv%252FVOD-6540b8dcb64fd31006.htm%253FsCh%253D319a4db53271d510%2526pId%253D1713736275%26name%3D%25D7%25A2%25D7%25A8%25D7%2595%25D7%25A5%2B2%2Blive%26iconimage%3Dhttp%3A//img.mako.co.il/2017/01/05/live2-C.jpg&mode=4
+
+#EXTINF:-1 tvg-id="470" group-title="World - עולם" tvg-logo="http://www.themarker.com/polopoly_fs/1.593973.1297938795!/image/4142077372.jpg_gen/derivatives/landscape_468/4142077372.jpg",ערוץ 2 - רשת (HD)
+http://besttv1.aoslive.it.best-tv.com/reshet/studio/index.m3u8
+
+#EXTINF:-1 tvg-id="470" group-title="World - עולם" tvg-logo="http://www.themarker.com/polopoly_fs/1.593973.1297938795!/image/4142077372.jpg_gen/derivatives/landscape_468/4142077372.jpg",ערוץ 2 - כללי (SD)
+http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile3.m3u8
+
+#EXTINF:-1 tvg-id="470" group-title="World - עולם" tvg-logo="http://www.themarker.com/polopoly_fs/1.593973.1297938795!/image/4142077372.jpg_gen/derivatives/landscape_468/4142077372.jpg",ערוץ 2 - רשת (SD) (1)
+http://besttv1.aoslive.it.best-tv.com/reshet/studio/index_1.m3u8
+
+#EXTINF:-1 tvg-id="470" group-title="World - עולם" tvg-logo="http://www.themarker.com/polopoly_fs/1.593973.1297938795!/image/4142077372.jpg_gen/derivatives/landscape_468/4142077372.jpg",ערוץ 2 - רשת (SD) (2)
+http://reshet207788-i.akamaihd.net/hls/live/207509/live/encoder_index.m3u8
+
+#EXTINF:-1 tvg-id="ערוץ 2 - קשת - תוכניות ברצף (FHD)" group-title="World - עולם" tvg-logo="http://www.themarker.com/polopoly_fs/1.593973.1297938795!/image/4142077372.jpg_gen/derivatives/landscape_468/4142077372.jpg",ערוץ 2 - קשת - תוכניות ברצף (FHD)
+http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+#EXTINF:-1 tvg-id="1505" group-title="World - עולם" tvg-logo="http://www.nrg.co.il/images/archive/300x225/859/687.jpg",ערוץ המוזיקה
+http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-b.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+
+#EXTINF:-1 tvg-id="כאן 33" group-title="World - עולם" tvg-logo="",כאן 33
+http://82.80.192.27/ipbc_IPBCmakantvLVMRepeat/_definst_/smil:IPBCmakantvLVM.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+
+#EXTINF:-1 tvg-id="ערוץ הכנסת" group-title="World - עולם" tvg-logo="http://www.aisrael.org/_uploads/extraimg/000000000(2)(1).jpg",ערוץ הכנסת
+http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="מאירTV" group-title="World - עולם" tvg-logo="https://yt3.ggpht.com/-F8XZlOJLDxc/AAAAAAAAAAI/AAAAAAAAAAA/w5Pj2IFP92E/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",מאירTV
+http://stream.meirtv.co.il:1935/live/live1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ערוץ ההידברות" group-title="World - עולם" tvg-logo="http://www.tvland.co.il/Pics/hidabrutbig.jpg",ערוץ ההידברות
+http://stream7.shidur.net/htvlive2/_definst_/smil:live2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ערוץ הקבלה" group-title="World - עולם" tvg-logo="http://upload.wikimedia.org/wikipedia/he/thumb/4/47/Logo_for_banber.jpg/220px-Logo_for_banber.jpg",ערוץ הקבלה
+http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ILand" group-title="World - עולם" tvg-logo="https://yt3.ggpht.com/-05eXppZi984/AAAAAAAAAAI/AAAAAAAAAAA/wZTKn8Ip81o/s100-c-k-no/photo.jpg",ILand
+http://146.185.61.140:1935/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Ynet Live" group-title="World - עולם" tvg-logo="http://www.ynet.co.il/images/CENTRAL_1024_ynet_logo.png",Ynet Live
+http://ynet-lh.akamaihd.net/i/ynet_1@123290/master.m3u8
+
+#EXTINF:-1 tvg-id="88FM" group-title="Radio" tvg-logo="http://upload.wikimedia.org/wikipedia/he/1/10/Radio88FM.jpg" radio="true",88FM
+http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBC88LAM
+
+#EXTINF:-1 tvg-id="ECO99FM" group-title="Radio" tvg-logo="http://cdn-radiotime-logos.tunein.com/s8712q.png" radio="true",ECO99FM
+http://99.livecdn.biz/99fm_aac?type=.flv
+
+#EXTINF:-1 tvg-id="100FM רדיוס" group-title="Radio" tvg-logo="http://www.100fm.co.il/images/logo.png" radio="true",100FM רדיוס
+http://213.8.143.168/100fmAudio
+
+#EXTINF:-1 tvg-id="102FM רדיו תל אביב" group-title="Radio" tvg-logo="http://www.fm1.co.il/images/stations/102fm.png" radio="true",102FM רדיו תל אביב
+http://102.livecdn.biz/102fm_aac
+
+#EXTINF:-1 tvg-id="103FM רדיו ללא הפסקה" group-title="Radio" tvg-logo="http://i1.ytimg.com/i/W4jrUdKsLeZ42v0oonhMXA/mq1.jpg" radio="true",103FM רדיו ללא הפסקה
+http://103fm.live.streamgates.net/103fm_live/1multix/icecast.audio
+
+#EXTINF:-1 tvg-id="גלגלצ" group-title="Radio" tvg-logo="http://upload.wikimedia.org/wikipedia/he/d/d4/Glgl.gif" radio="true",גלגלצ
+http://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz
+
+#EXTINF:-1 tvg-id="גלי צהל" group-title="Radio" tvg-logo="http://upload.wikimedia.org/wikipedia/he/4/4a/Glzlogo.jpg" radio="true",גלי צהל
+http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz
+
+#EXTINF:-1 tvg-id="קול המוזיקה" group-title="Radio" tvg-logo="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash2/276638_272101219557826_895477359_n.jpg" radio="true",קול המוזיקה
+http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCkolhamusicaLAM
+
+#EXTINF:-1 tvg-id="רשת ב" group-title="Radio" tvg-logo="http://upload.wikimedia.org/wikipedia/he/3/31/ReshetBetLogo.jpg" radio="true",רשת ב
+http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCbetLAM
+
+#EXTINF:-1 tvg-id="כאן - נוסטלגיה" group-title="Radio" tvg-logo="http://www.kolhazman.co.il/wp-content/uploads/thumbs/2195849-18-31yq7kthc2dnyutwmi45qi.jpg" radio="true",כאן - נוסטלגיה
+http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCNostalgiaLA
+
+#EXTINF:-1 tvg-id="כאן - שיא הרגש" group-title="Radio" tvg-logo="http://www.kolhazman.co.il/wp-content/uploads/thumbs/2195849-18-31yq7kthc2dnyutwmi45qi.jpg" radio="true",כאן - שיא הרגש
+http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCRegeshLA
+
+#EXTINF:-1 tvg-id="כאן - 80-90" group-title="Radio" tvg-logo="http://www.kolhazman.co.il/wp-content/uploads/thumbs/2195849-18-31yq7kthc2dnyutwmi45qi.jpg" radio="true",כאן - 80-90
+http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBC80-90LA
+
+#EXTINF:-1 tvg-id="כאן - להיטים" group-title="Radio" tvg-logo="http://www.kolhazman.co.il/wp-content/uploads/thumbs/2195849-18-31yq7kthc2dnyutwmi45qi.jpg" radio="true",כאן - להיטים
+http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCHitsLA
+
