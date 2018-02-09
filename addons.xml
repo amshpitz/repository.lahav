@@ -755,39 +755,20 @@
 <!--          plugin.program            -->
 
 
-<addon id="plugin.program.senyortools" name="[COLOR green]senyor tools[/COLOR]" version="1.6.2" provider-name="kodi senyor">
+<addon id="plugin.program.ATools" name="Assassins Tools" version="0.0.2" provider-name="Aftermath">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="repository.kodi-senyor"/>
+    <import addon="repository.tvguides" /> 
   </requires>
-  <extension point="xbmc.python.pluginsource" library="rts.py">
-        <provides>executable</provides>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>executable</provides>
   </extension>
+  <extension point="xbmc.service" library="startup.py" start="startup" />
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">kodi-senyor.co.il kodi tools and tweaks</summary>
-    <description lang="he">הרחבה ייחודית של קודי סניור המאפשרת התקנת הרחבות והגדרות מערכת בקליק אחד</description>
+    <summary lang="en">Assassins Tools</summary>
+    <description lang="en">Assassins Tools using Aftermath Wizard.</description>
     <platform>all</platform>
   </extension>
-</addon>
-
-<addon id="plugin.program.indigo" version="2.0.1" name="Indigo" provider-name="tvaddons.ag">
-	<requires>
-		<import addon="xbmc.python" version="2.1.0"/>
-	</requires>
-    <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video executable </provides>
-    </extension>
-    <extension point="xbmc.service" library="service.py" start="startup"/>
-    <extension point="xbmc.addon.metadata">
-        <summary lang="en">Indigo is your gateway to the world of unofficial Kodi addons!</summary>
-        <description lang="en">Indigo is your gateway to the world of unofficial Kodi addons! Please visit www.tvaddons.ag for addon support and www.cablecutters.com for hardware support.</description>
-        <disclaimer lang="en">Kodi is a registered trademark of the XBMC Foundation. We are not connected to or in any other way affiliated with Kodi, Team Kodi, or the XBMC Foundation. Furthermore, any software, addons, or products offered by us will receive no support in official Kodi channels, including the Kodi forums and various social networks.</disclaimer>
-        <language>en</language>
-        <platform>all</platform>
-        <forum>https://forums.tvaddons.ag</forum>
-        <website>https://www.tvaddons.ag</website>
-        <source>https://dev.tvaddons.ag/tvaddons/plugin.program.indigo</source>
-    </extension>
 </addon>
 
 <addon id="plugin.program.repotools" name="הרחבות בקליק" version="1.4.2" provider-name="kodi senyor">
@@ -833,6 +814,7 @@
     <platform>all</platform>
   </extension>
 </addon>
+
 <addon id="plugin.program.super.favourites" name="Super Favourites" version="1.0.45" provider-name="spoyser">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
